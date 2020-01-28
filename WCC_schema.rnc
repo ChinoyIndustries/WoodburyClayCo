@@ -1,0 +1,218 @@
+start = document
+document =
+    element document {
+        coll,
+        sec,
+        docType,
+        format,
+        auth?,
+        dateFrom?,
+        pub,
+        pp,
+        acqFrom?,
+        dateAcq?,
+        callNo,
+        compType,
+        compName,
+        docTitle,
+        headnote?,
+        docText,
+        locoTable?,
+        refList?
+    }
+coll = attribute coll { "00" | "01" | "02" }
+# crc: 00 is general collection, 01 is railroad, 02 is model railroad (separate collection) 
+sec = attribute sec { "regular" | "vf" | "periodicals" }
+# crc: respectively: books, vertical file (individual papers, pamplets and documents in folders), and magazines
+docType =
+    attribute docType {
+        "periodical"
+        | "rrInternal"
+        | "rrExternal"
+        | "rrSecondary"
+        | "builderPrimary"
+        | "referencePrimary"
+        | "referenceSecondary"
+        | "special"
+        | "modelCoPrimary"
+        | "modelPub"
+    }
+format =
+    attribute format {
+        "book"
+        | "magazine"
+        | "pamphletOrBooklet"
+        | "looseleaf"
+        | "form"
+        | "telegramOrLetter"
+        | "map"
+        | "diagram"
+        | "timetable"
+        | "postcard"
+        | "other"
+        | "object"
+    }
+auth = attribute auth { text }
+dateFrom = attribute dateFrom { datePattern }
+datePattern = xsd:date | xsd:gYearMonth | xsd:gYear
+# crc: TEI date attributes for ranges (to, from, notBefore, notAfter) can be incorporated if necessary
+pub = attribute pub { xsd:boolean }
+# crc: boolean is a true or false--value is either 1 or 0, 1 being a published work and 0 being an unpublished document (most paper ephemera, including everything involved with this project)
+pp = attribute pp { xsd:integer }
+# crc: page count
+acqFrom = attribute acqFrom { text }
+dateAcq = attribute dateAcq { datePattern }
+callNo = attribute callNo { text }
+compType =
+    attribute compType {
+        "railroad" | "builder" | "customer" | "expressCo" | "tractionCo" | "other"
+    }
+compName = attribute compName { text }
+docTitle = element docTitle { text }
+headnote = element headnote { text }
+docText = element docText { ((header | body | footer), note*)* }
+header =
+    element header {
+        form?,
+        title?,
+        subtitle?,
+        mixed { (itemDate | operator | place | company)* },
+        salutation?
+    }
+form =
+    element form {
+        rr,
+        formNo,
+        formRev?,
+        mixed { lb* }
+    }
+rr = attribute rr { text }
+formNo = attribute formNo { text }
+formRev = attribute formRev { datePattern }
+title = element title { text }
+subtitle = element subtitle { text }
+itemDate = element itemDate { dateFrom, text }
+operator = element operator { text }
+salutation = element salutation { text }
+# crc: a bunch of these elements apply to other kinds of documents that aren't involved in this project, so don't worry if you don't see them anywhere but here
+note =
+    element note {
+        kind,
+        mixed { (lb | pgbr | company | person | date | place | loco | operator | equipt | form)* }
+    }
+kind = attribute kind { "edit" | "postscript" | "updateOrResponse" | "stamp" }
+body =
+    element body {
+        mixed { (p | note | carloadTable)* }
+    }
+p =
+    element p {
+        mixed { (lb | pgbr | company | person | date | place | loco | operator | equipt | form)* }
+    }
+lb = element lb { empty }
+# crc: TEI line break
+pgbr = element pgbr { empty }
+footer =
+    element footer {
+        mixed { (closing | signature | operator | form | lb)* }
+    }
+closing = element closing { text }
+signature = element signature { person }
+refList = element refList { ref+ }
+ref = element ref { callNo, text }
+
+
+company =
+    element company {
+        type,
+        comp,
+        mixed { (place | lb)* }
+    }
+type = attribute type { "railroad" | "builder" | "customer" | "expressCo" | "tractionCo" | "other" }
+comp = attribute comp { text }
+person =
+    element person {
+        class?,
+        who,
+        mixed { lb* }
+    }
+class =
+    attribute class {
+        "crew" | "employee" | "agent" | "executive" | "official" | "customer" | "passenger"
+    }
+who = attribute who { text }
+date =
+    element date {
+        (when | (from, to)),
+        mixed { lb* }
+    }
+when = attribute when { datePattern }
+from = attribute from { datePattern }
+to = attribute to { datePattern }
+place =
+    element place {
+        mixed { lb* }
+    }
+equipt =
+    element equipt {
+        mixed { place | lb* }
+    }
+
+# crc: the carloadTable element makes up the meaningful content of each of the documents from this project. at the moment this encodes outbound carloads and a bunch more elements will be added to allow inbound carloads to be encoded--their forms look very different.
+carloadTable = element carloadTable { carloadHeader, carload+ }
+carloadHeader = element carloadHeader { carloadHeading+ }
+carloadHeading = element carloadHeading { text, carloadSubhead* }
+carloadSubhead = element carloadSubhead { text }
+carload =
+    element carload {
+        marks,
+        carNum,
+        carType,
+        carClass?,
+        lading,
+        netWt?,
+        full?,
+        consignee,
+        routing?,
+        mixed { (car | company | place)* }
+    }
+marks = attribute marks { text }
+carNum = attribute carNum { xsd:integer }
+carType =
+    attribute carType {
+        "box" | "autobox" | "stock" | "hopper" | "gondola" | "flat" | "tank" | "lo"
+    }
+# crc: this list is defined by the documents in this project, not applied to other documents
+carClass =
+    attribute carClass { "GLa-GLc" | "GS-GSd" | "XL" | "X23" | "X25" | "X26" | "X28a" | "X29" }
+# crc: same as above, these values are defined by these documents. the actual list for all PRR documents has nearly 200 values and that's not going to make an appearance here
+lading = attribute lading { text }
+netWt = attribute netWt { xsd:integer }
+full = attribute full { xsd:boolean }
+consignee = attribute consignee { text }
+# crc: I have a list of acceptable values for consignee, I just haven't input it yet because reasons
+routing = attribute routing { text }
+car = element car { marks, carNum, text }
+
+# crc: locoTable is for something else, ignore everything below this comment
+locoTable = element locoTable { loco+ }
+loco =
+    element loco {
+        id,
+        name?,
+        no?,
+        seq?,
+        builder?,
+        blt?,
+        dateRec?,
+        dateDisp?,
+        mixed { lb* }
+    }
+id = attribute id { xsd:integer }
+name = attribute name { text }
+no = attribute no { xsd:integer }
+seq = attribute seq { xsd:integer }
+builder = attribute builder { text }
+blt = attribute blt { datePattern }
+dateRec = attribute dateRec { datePattern }
+dateDisp = attribute dateDisp { datePattern }
