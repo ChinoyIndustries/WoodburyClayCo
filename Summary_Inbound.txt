@@ -1,0 +1,71 @@
+The following cars were all received by the Woodbury Clay Co. at Oreminea, PA (sometimes listed as Williamsburg <Oreminea>).
+Classes are given only for PRR cars; the class of each car, not specified in these documents, is provided based on various PRR freight rosters.
+The shipper of each car is listed, followed by the description of articles, and then any important notes. Extensive googling was required to obtain the correct spellings and names of the various shippers.
+The listed date is the date of the shipment, as opposed to the date of the freight bill itself.
+
+Date	Car		Class	Shipper								Lading						Notes
+
+	1925
+2/20/25	(not listed)		Bitner Hirusucker??? Co., Allentown PA					1 ??? Any Goods, #2980?				handwriting illegible.
+2/24/25	B&O 193229		Fate-Root-Heath Co., Plymouth OH					1 Gasoline Locomotive.				see note A
+2/26/25	PRR 13220	XL	Comly, Flanigan & Co. (grocers), 756 Vine St. Phila. PA			(various foodstuffs, 9 line items)
+3/2/25	PRR 66303	XL	Lippincott & Co., Altoona PA						1 carton strike anywhere matches, 6 cartons sugar, 4 "cs. cakes".
+
+	1931
+
+4/27/31	(not listed)		Reeves Parvin Co., Trenton NJ					3 Roll felt base rugs.					Corrected Bill dated 5/5/1931, correction to Freight Bill #008431, shipment waybilled on 4/27/31.
+9/25/31	PRR 166127	GLa	Dean Coal Co., Fruhlinger Coll. 1, PA					Bituminous coal.
+9/30/33	PRR 168861	GLa	Dean Coal Co., Dean Coal Co., PA					Bituminous coal.
+
+	1933
+
+7/5/33	PRR 29215	X29	Western Wheeled Scraper Co., Aurora IL (CB&Q, via PRR from Chicago)	1 box railway car drawbar springs, 6 drawbars.		trans. from CB&Q 42247 at Altoona, 7/14/33.
+7/11/33	PRR 167213	GLa	Penna. Coal & Coke Co., Penna. Coll. 10, PA				Bituminous coal.
+7/18/33	PRR 31658	X25	Butler Bros., Jersey City NJ						"1 bales mattress crib, 1 ctns crib ko"			not sure what this means.
+7/20/33	(not specified)		Atlas Powder Co., Horrell PA						1 case (1000) blasting caps, 1 case safety fuse		entirely different form than the rest--Memorandum of Bill of Lading. 
+7/24/33	B&O 277545		Butler Bros., Brooklyn Ba. Wav. Transfer, NJ				1 CS Electric storage battery, wet. White Label Required.	stamped "ACID".
+8/17/33	PRR 570912	X29	Butler Bros., Jersey City NJ						(various small goods, 6 line items)
+8/28/31	PRR 100587	X29	Dan Miller Co., Baltimore (President?) MD				1 carton notions.
+
+	1937
+
+2/17/37	PRR 571942	X29	The Gorman-Rupp Co., Mansfield OH					1 power pump on truck, crated, w/ strainer wired inside crate.
+2/24/37	PRR 17642	XL	Penn General Supply Co., Pittsburgh PA					2 boxes bolts, 6 bars steel, 1 carton washers. 		Prepaid LCL Freight Bill.
+2/27/37	PRR 569802	X29	Universal Crane Co., Lorain OH (NYC&StL, via PRR from Erie)		1 dipper stick, loose					trans. to this car at 11th St. Pittsburgh.
+3/9/37	PRR 566504	X29	Thew Shovel Co., Lorain OH (NYC&StL, via PRR from Erie)			1 crate power shovel parts				trans. from NKP 85571 at 11th St., Pittsburgh, 3/17/37.
+3/18/37	PRR 98348	X29	Penn General Supply Co., Pittsburgh PA					1 kg. chain, 1 carton wool waste n.o.s.			Prepaid LCL Freight Bill.
+3/18/37	PRR 43668	X23	American Fork & Hoe Co. Skelton Shovel Works, Dunkirk NY			2 bundles 1 dozen long handled shovels 		Alternate car listed, "Alt X 98253", not sure what this means.
+3/19/37	PRR 470184	F30	Universal Crane Co., Lorain OH (B&O, via PRR from Willow Grove OH)	1 Lorain Type 40 Power Gas Shovel, Complete		see note B
+5/29/37	PRR 36523	X25	Frick-Reid Supply Corp., Pittsburgh PA					1 keg RR spikes, 1 keg RR bolts, 1 iron jack w/ handle att.	Prepaid LCL Freight Bill.
+6/10/37	NH 165771		Frick-Reid Supply Corp., Pittsburgh PA					2 bales cotton waste, mf'd (not oiled)			Prepaid LCL Freight Bill. NH cars in this series were 36' double-sheathed steel-frame boxcars.
+8/9/37	B&M 72842		Thew Shovel Co., Lorain OH (NYC&StL, via PRR from Ashtabula OH)		1 box power shovel parts				trans. from DL&W 40267 at Cleveland, 8/12/37; delivered via REA, Martinsburg/Curry office
+8/14/37	CNJ 17055		The Gorman-Rupp Co., Mansfield OH					1 power pump on truck, crated, w/ strainer wired inside crate.	trans. to this car at Pittsburgh
+9/7/1937	PRR 38533	X26	M.B. & A.H. Christy, Trenton NJ					1 bale rubber hose					"no recourse ICC 524"
+9/30/37	PRR 50951	X29	Thew Shovel Co., Lorain OH (NYC&StL, via PRR from Ashtabula OH)		1 box power shovel parts				delivered to Ganister, PA for Woodbury Clay Co.
+10/25/37	SAL 18934		Burton-Dixie Corp, Jay St., Brooklyn NY					1 carton/bale matresses (burlapped)			Seaboard class B-6 boxcar, similar to an ARA or X29 car.
+11/3/37	PRR 99788	X29	Daniel Miller Co., Baltimore MD					1 carton notions					pinned to this bill are three unrelated REA receipts:
+																		11/10/37, 1 Box Shoes, from Mishawaka Rubber & Woolen Mfg. Co., Mishawaka IN
+																		10/12/37, 1 Box Shoes, from Brown Shoe Co., St. Louis MO
+																		10/4/37, same as above
+Totals
+1925	1931	1933	1937	Total	
+4	3	7	15	29	Total carloads for which records survive
+
+2	2	5	11	20	In PRR cars
+1	0	1	4	6	In foreign road cars
+
+3	1	7	13	24	LCL goods
+0	2	0	1	3	Coal
+1	0	0	1	2	Machinery on flatcars
+
+Note A:
+Shipped on a B&O flatcar, this locomotive was a small Plymouth (Fate-Root-Heath) 4 wheel switcher in the 10 ton range, model unknown, for use on narrow gauge industrial trackage within the clay mines.
+A photo of it in operation can be seen in the Special Collections Archive of the Penn State University Library, available online here: <https://www.flickr.com/photos/pennstatespecial/7026606741/in/album-72157629132251744/>
+
+Note B:
+This is the only non-PRR form found in this collection: a B&O Prepaid Freight Bill. It specifies the weight of the load as 34300 lbs, "exact blocking wt. 800 lbs.", "40 ft car ordered"--a Pennsy F30 was used to satisfy this requirement. This "Lorain Type 40 Power Gas Shovel" was the Woodbury Clay Co.'s replacement for steam shovels, and operated in the clay mines at Oreminea throughout the 1940s.
+A photo of it in operation can be seen in the Special Collections Archive of the Penn State University Library, available online here: <https://www.flickr.com/photos/pennstatespecial/6946902159/in/album-72157629132251744/>
+
+
+
+
