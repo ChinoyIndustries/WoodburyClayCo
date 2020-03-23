@@ -6,14 +6,14 @@ The listed date is the date of the shipment, as opposed to the date of the freig
 Date	Car		Class	Shipper								Lading						Notes
 
 	1925
-2/20/25	(not listed)		Bitner Hirusucker??? Co., Allentown PA					1 ??? Any Goods, #2980?				handwriting illegible.
+2/20/25	(not listed)		Bitner Hirusucker??? Co., Allentown PA					1 Case Dry Goods, #2980?			handwriting illegible.
 2/24/25	B&O 193229		Fate-Root-Heath Co., Plymouth OH					1 Gasoline Locomotive.				see note A
 2/26/25	PRR 13220	XL	Comly, Flanigan & Co. (grocers), 756 Vine St. Phila. PA			(various foodstuffs, 9 line items)
-3/2/25	PRR 66303	XL	Lippincott & Co., Altoona PA						1 carton strike anywhere matches, 6 cartons sugar, 4 "cs. cakes".
+3/2/25	PRR 66303	XL	Lippincott & Co., Altoona PA						1 carton strike anywhere matches, 6 cartons sugar, 4 cases cakes
 
 	1931
 
-4/27/31	(not listed)		Reeves Parvin Co., Trenton NJ					3 Roll felt base rugs.					Corrected Bill dated 5/5/1931, correction to Freight Bill #008431, shipment waybilled on 4/27/31.
+4/27/31	(not listed)		Reeves Parvin Co., Trenton NJ						3 Roll felt base rugs.					Corrected Bill dated 5/5/1931, correction to Freight Bill #008431, shipment waybilled on 4/27/31.
 9/25/31	PRR 166127	GLa	Dean Coal Co., Fruhlinger Coll. 1, PA					Bituminous coal.
 9/30/33	PRR 168861	GLa	Dean Coal Co., Dean Coal Co., PA					Bituminous coal.
 
@@ -59,7 +59,7 @@ Totals
 1	0	0	1	2	Machinery on flatcars
 
 Note A:
-Shipped on a B&O flatcar, this locomotive was a small Plymouth (Fate-Root-Heath) 4 wheel switcher in the 10 ton range, model unknown, for use on narrow gauge industrial trackage within the clay mines.
+Shipped in a B&O M-15a furniture boxcar, this locomotive was a small Plymouth (Fate-Root-Heath) 4 wheel switcher in the 10 ton range, model unknown, for use on narrow gauge industrial trackage within the clay mines.
 A photo of it in operation can be seen in the Special Collections Archive of the Penn State University Library, available online here: <https://www.flickr.com/photos/pennstatespecial/7026606741/in/album-72157629132251744/>
 
 Note B:

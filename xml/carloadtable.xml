@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="WCC_carloadtable_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<company>
+    <name>Woodbury Clay Co.</name>
+    <carloads>
+        <carload id="001">
+            <kind>outbound</kind>
+            <date>1931-04-22</date>
+            <car>
+                <road>PRR</road>
+                <carnum>559022</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>Harbison Walker Refractory Co., Retort PA
+            </consignee>
+            <lading>FC</lading>
+            <docNo>045</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-045_OUT01_1931-04-22.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>
+        <carload id="002">
+            <kind>outbound</kind>
+            <date>1931-04-22</date>
+            <car>
+                <road>PRR</road>
+                <carnum>34832</carnum>
+                <class>X25</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>Harbison Walker Refractory Co., Harbison Walker No. 8 PA
+            </consignee>
+            <lading>FC</lading>
+            <docNo>045</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-045_OUT01_1931-04-22.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>
+        <carload id="003">
+            <kind>outbound</kind>
+            <date>1931-07-31</date>
+            <car>
+                <road>PRR</road>
+                <carnum>564625</carnum>
+                <class>X26</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>North American Refractory Co., Mt. Union PA
+            </consignee>
+            <lading>FC</lading>
+            <docNo>046</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-046_OUT02_1931-07-31.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>
+        <carload id="004">
+            <kind>outbound</kind>
+            <date>1931-08-04</date>
+            <car>
+                <road>PRR</road>
+                <carnum>536443</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>North American Refractory Co., Mt. Union PA
+            </consignee>
+            <lading>FC</lading>
+            <docNo>047</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-047_OUT03_1931-08-04.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>
+        <carload id="005">
+            <kind>outbound</kind>
+            <date>1931-08-07</date>
+            <car>
+                <road>PRR</road>
+                <carnum>560531</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>Thomas Sant &amp; Sons Co.</shipper>
+            <consignee>Locke Insulator Co., Port Covington Baltimore MD
+            </consignee>
+            <routing>via Fulton Jct. MD and WM</routing>
+            <lading>FC</lading>
+            <docNo>048</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-048_OUT04_1931-08-07.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>
+        <carload id="006">
+            <kind>outbound</kind>
+            <date>1931-08-09</date>
+            <car>
+                <road>PRR</road>
+                <carnum>91405</carnum>
+                <class>X29</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>Harbison Walker Refractory Co., Mt. Union PA
+            </consignee>
+            <lading>FC</lading>
+            <docNo>049</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-049_OUT05_1931-08-09.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>
+        <carload id="007">
+            <kind>outbound</kind>
+            <date>1931-08-12</date>
+            <car>
+                <road>PRR</road>
+                <carnum>75394</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>Bethlehem Steel Co., Sparrows Point MD
+            </consignee>
+            <lading>FC</lading>
+            <docNo>050</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-050_OUT06_1931-08-12.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>
+        <carload id="008">
+            <kind>outbound</kind>
+            <date>1931-08-12</date>
+            <car>
+                <road>PRR</road>
+                <carnum>537736</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>Harbison Walker Refractory Co., Woodland PA
+            </consignee>
+            <lading>FC</lading>
+            <docNo>050</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-050_OUT06_1931-08-12.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>        
+        <carload id="009">
+            <kind>outbound</kind>
+            <date>1931-09-03</date>
+            <car>
+                <road>PRR</road>
+                <carnum>560509</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>Harbison Walker Refractory Co. Lower Works, Woodland PA
+            </consignee>
+            <lading>FC</lading>
+            <docNo>051</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-051_OUT07_1931-09-03.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>          
+        <carload id="010">
+            <kind>outbound</kind>
+            <date>1931-09-04</date>
+            <car>
+                <road>PRR</road>
+                <carnum>15839</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>WCC</shipper>
+            <consignee>North American Refractory Co., Mt. Union PA
+            </consignee>
+            <lading>FC</lading>
+            <docNo>052</docNo>
+            <imgref>.\images\outbound\C-T-1098\WCC-052_OUT08_1931-09-04.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>description</desc>
+        </carload>         
+        
+        
+        <carload id="113">
+            <kind>inbound</kind>
+            <date>1925-02-20</date>
+            <car>
+                <road>Unknown</road>
+            </car>
+            <shipper>Bittner, Hunsicker &amp; Co., Allentown, PA (2707?)</shipper>
+            <consignee>WCC</consignee>
+            <lading>1 Case Dry Goods</lading>
+            <docNo>001</docNo>
+            <imgref>.\images\inbound\WCC-001_IN01_1925-02-20.jpg</imgref>
+            <geotag>JG3H+75 Allentown, Pennsylvania</geotag>
+            <desc>Bittner, Hunsicker &amp; Co. (misspelled quite badly on the bill) of 24-25 N. 7th St., Allentown, PA were wholesalers of dry goods and manufacturers of overalls and knit goods. This shipment is marked with a commodity no. of 2980; no listing of PRR freight commodity numbers is known. Unfortunately, the freight agent neglected to mark the car this shipment traveled in.</desc>
+        </carload>
+        <carload id="114">
+            <kind>inbound</kind>
+            <date>1925-02-24</date>
+            <car>
+                <road>B&amp;O</road>
+                <carnum>193229</carnum>
+                <class>M15a</class>
+            </car>
+            <shipper>Fate-Root-Heath Co., Plymouth OH</shipper>
+            <consignee>WCC</consignee>
+            <lading>1 Gasoline Locomotive (15500 lbs.)</lading>
+            <docNo>002</docNo>
+            <imgref>.\images\inbound\WCC-002_IN02_1925-02-24.jpg</imgref>
+            <geotag>X8RJ+HF Plymouth, Ohio</geotag>
+            <desc>Shipped in a B&amp;O M-15a furniture boxcar, this "gasoline locomotive" was a small 4-wheel industrial locomotive built by the Plymouth Locomotive Works (Fate-Root-Heath), a 7-ton Model DLB, for use on narrow gauge trackage within the clay mines. A photo of it in operation can be seen &lt;a href=&quot;https://www.flickr.com/photos/pennstatespecial/7026606741/in/album-72157629132251744/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;, courtesy of Penn State University Library's Special Collections.</desc>
+        </carload>
+        <carload id="115">
+            <kind>inbound</kind>
+            <date>1925-02-26</date>
+            <car>
+                <road>PRR</road>
+                <carnum>13220</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>Comly-Flanigan &amp; Co., Vine St. Phila. PA (756)</shipper>
+            <consignee>WCC</consignee>
+            <lading>3 Cartons Catsup in Glass, 1 Box General Goods, 1 Pail Candy, 1 Box Wash Tablets, 10 Cartons Milk, 3 Bags Sugar, 1 Case Sugar, 1 Case Sugar, 1 Carton Powdered Sugar</lading>
+            <docNo>003</docNo>
+            <imgref>.\images\inbound\WCC-003_IN03_1925-02-26.jpg</imgref>
+            <geotag>WVX5+H2 Philadelphia, Pennsylvania</geotag>
+            <desc>An order of foodstuffs from Comly-Flanigan &amp; Co., a wholesale grocer in Philadelphia at 36-38 S. Front St.</desc>
+        </carload>
+        <carload id="116">
+            <kind>inbound</kind>
+            <date>1925-03-02</date>
+            <car>
+                <road>PRR</road>
+                <carnum>66303</carnum>
+                <class>XL</class>
+            </car>
+            <shipper>Lippincott &amp; Co., Altoona PA</shipper>
+            <consignee>WCC</consignee>
+            <lading>1 Carton Strike-Anywhere Matches, 1 Carton Sugar, 4 Cases Cakes</lading>
+            <docNo>004</docNo>
+            <imgref>.\images\inbound\WCC-004_IN04_1925-03-02.jpg</imgref>
+            <geotag>geotag</geotag>
+            <desc>&lt;p&gt;Lippincott &amp; Co. was a wholesale grocer based in Philadelphia, with a secondary location in Altoona. Along with &lt;a href=&quot;detail_115.html&quot;&gt;Comly-Flanigan &amp; Co.&lt;/a&gt;, it was one of a number of wholesale grocery concerns owned or operated by Jesse H. Lippincott, one of the 19th-century 'robber barons' involved with the South Fork Fishing and Hunting Club, notorious for its role in causing the Johnstown Flood.&lt;/p&gt; &lt;p&gt;"Yellow Label" is noted below the carton of matches on the bill, referring to the type of hazardous cargo labels commonly in use at this time. Yellow labels were used for freight that was inflammable, but not liable to explode. CITE THIS WITH SOMETHING&lt;/p&gt;</desc>
+        </carload>
+    </carloads>
+</company>
