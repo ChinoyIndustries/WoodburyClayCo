@@ -56,7 +56,7 @@
               <td>
                 <a>
                   <xsl:attribute name="href">
-                    <xsl:text>detail_</xsl:text>
+                    <xsl:text>/carloadtable/detail_</xsl:text>
                     <xsl:value-of select="@id"/>
                     <xsl:text>.html</xsl:text>
                   </xsl:attribute>
