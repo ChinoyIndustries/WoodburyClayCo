@@ -11,7 +11,7 @@
           <link rel="stylesheet" type="text/css" href="../css/index.css"/>
       </head>
       <body>
-        <xsl:comment>#include file="..\header.shtml"</xsl:comment>
+        <xsl:comment>#include virtual="/header.shtml"</xsl:comment>
         <div id="content">
             <h1>Bill Detail</h1>
         <table class="center">
@@ -63,7 +63,7 @@
           </xsl:attribute>
         </img>
         </div>
-        <xsl:comment>#include file="..\footer.shtml"</xsl:comment>
+        <xsl:comment>#include virtual="/footer.shtml"</xsl:comment>
       </body>
     </html>    
     </xsl:result-document>
