@@ -12,7 +12,7 @@ So you can see what all is going on around here in the absence of project partne
     - Toggleable outbound shipments, inbound shipments or both
     - Sort by date, car, class, shipper, consignee
   - Carload pages (generated automatically, already built)
-    - These should not be for individual carloads, these should be for individual bills, i.e., there shouldn&#39;t be duplicate pages for each carload on one bill that all display the same bill. Add a layer of tags in carloadtable.xml for bills and read bills instead of carloads in the XSL
+    - ~~These should not be for individual carloads, these should be for individual bills, i.e., there shouldn&#39;t be duplicate pages for each carload on one bill that all display the same bill. Add a layer of tags in carloadtable.xml for bills and read bills instead of carloads in the XSL~~ Fixed!
     - Move portrait-format images to the righthand side?
   - Show All Bills page (photo gallery, needs javascript)
   - Index of companies--separate xml--THE GEODATA FOR THE MAP GOES IN HERE, NOT THE CARLOADTABLE WHERE IT IS NOW, OTHERWISE THERE WILL BE PROBLEMS
@@ -34,7 +34,7 @@ So you can see what all is going on around here in the absence of project partne
     - More in-depth information on the power shovel and the plymouth locomotive--this is where you want that Plymouth illustration to go. LINK TO THIS PAGE ON THOSE BILLS&#39; PAGES
 
 - Misc tasks to do:
-  - Add layer of tahs for bills and then dump the rest of the data into carloadtable.xml
+  - Dump the rest of the data into carloadtable.xml
   - Gather coordinate data once index of companies exists, find where the Woodbury Clay Co was actually located
   - Email AIM for permission to use Plymouth catalog illustration
     - [Image](https://americanindustrialmining.com/plymouth-locomotive-works)
