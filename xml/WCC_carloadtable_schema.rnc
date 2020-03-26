@@ -1,35 +1,25 @@
-datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = company
-company = element company { name, carloads }
+company = element company { name, bills }
 name = element name { text }
-carloads = element carloads { carload+ }
-carload = element carload {   
-        id,
-        kind,
-        date,
-        car,
-        shipper,
-        consignee,
-        routing?,
-        lading,
-        docNo,
-        imgref,
-        geotag,
-        desc?
-        }
-    id = attribute id { xsd:integer }
-    kind = element kind { text }
-    date = element date { xsd:date }
-    car = element car { road, carnum?, class? }
-        road = element road { text }
-        carnum = element carnum { xsd:integer }
-        class = element class { text }
-    shipper = element shipper { text }
-    consignee = element consignee { text }
-    routing = element routing { text }
-    lading = element lading { text }
-    docNo = element docNo { xsd:integer }
-    imgref = element imgref { text }
-    geotag = element geotag { text }
-    desc = element desc { text, a* }
-        a = element a { text }
+bills = element bills { bill+ }
+bill = element bill { imgref+, carload+, billid }
+imgref = element imgref { text }
+billid = attribute billid { xsd:integer }
+carload =
+    element carload {
+        carloadid, kind, date, car, shipper, consignee, routing?, lading, geotag, desc?
+    }
+carloadid = attribute carloadid { xsd:integer }
+kind = element kind { text }
+date = element date { xsd:date }
+car = element car { road, carnum?, class? }
+road = element road { text }
+carnum = element carnum { xsd:integer }
+class = element class { text }
+shipper = element shipper { text }
+consignee = element consignee { text }
+routing = element routing { text }
+lading = element lading { text }
+geotag = element geotag { text }
+desc = element desc { text, a* }
+a = element a { text }

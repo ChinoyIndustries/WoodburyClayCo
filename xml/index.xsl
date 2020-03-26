@@ -17,7 +17,7 @@
         <div id="content">
         <h1>List of Shipments</h1>
         <p>These are just a few test pieces of data to show that this works. The rest will go up once I fix some things.</p>
-        <table>
+        <table class="center">
           <thead>
           <tr>
             <th>Date</th>
@@ -30,7 +30,7 @@
           </tr>
           </thead>
           <tbody>
-          <xsl:for-each select="/company/carloads/carload">
+          <xsl:for-each select="/company/bills/bill/carload">
             <xsl:sort select="date"/>
             <tr>
               <td>
@@ -56,8 +56,8 @@
               <td>
                 <a>
                   <xsl:attribute name="href">
-                    <xsl:text>/carloadtable/detail_</xsl:text>
-                    <xsl:value-of select="@id"/>
+                    <xsl:text>./carloadtable/detail_</xsl:text>
+                    <xsl:value-of select="parent::bill/@billid"/>
                     <xsl:text>.html</xsl:text>
                   </xsl:attribute>
                   Detail

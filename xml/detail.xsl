@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <xsl:stylesheet version="2.0"  xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="/">
-    <xsl:for-each select="/company/carloads/carload">
-      <xsl:result-document href="detail_{@id}.html">
+    <xsl:for-each select="/company/bills/bill">
+      <xsl:result-document href="detail_{@billid}.html">
         <html>
         <head>
           <title>The Woodbury Clay Co Project.</title>
           <meta name="author" content="C. R. Chinoy" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-          <link rel="stylesheet" type="text/css" href="css/index.css"/>
+          <link rel="stylesheet" type="text/css" href="../css/index.css"/>
       </head>
       <body>
         <!--fix your SSI with an #include file="header.shtml" -->
@@ -17,8 +17,8 @@
           <a href="background.html">Background</a> | <a href="carloadtable.html">List of Carloads</a></div>
         <hr/>
         <div id="content">
-        <h1>Shipment Detail</h1>
-        <table border="1">
+            <h1>Bill Detail</h1>
+        <table class="center">
           <thead>
           <tr>
             <th>Date</th>
@@ -31,7 +31,8 @@
           </tr>
           </thead>
           <tbody>
-          <tr>
+            <xsl:for-each select="carload">
+              <tr>
             <td>
               <xsl:value-of select="date"/>
             </td>
@@ -56,8 +57,10 @@
               <xsl:value-of select="desc" disable-output-escaping="yes"/>
             </td>
           </tr>
+            </xsl:for-each>
           </tbody>
         </table>
+          
         <img width="1000" alt="Freight Bill" title="Freight Bill" class="billimg">
           <xsl:attribute name="src">
             <xsl:value-of select="imgref"/>

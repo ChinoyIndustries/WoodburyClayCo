@@ -32,6 +32,11 @@ table, th, td {
     border: 1px solid #555; 
     border-collapse: collapse;
 }
+table.center {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}
 td {
     padding: 3px 5px;
 }
