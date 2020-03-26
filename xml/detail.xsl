@@ -11,11 +11,7 @@
           <link rel="stylesheet" type="text/css" href="../css/index.css"/>
       </head>
       <body>
-        <!--fix your SSI with an #include file="header.shtml" -->
-        <div id="header">THE WOODBURY CLAY CO. PROJECT</div>
-        <div id="menu"><a href="index.html">Home</a> | <a href="about.html">About the Project</a> | 
-          <a href="background.html">Background</a> | <a href="carloadtable.html">List of Carloads</a></div>
-        <hr/>
+        <xsl:comment>#include file="..\header.shtml"</xsl:comment>
         <div id="content">
             <h1>Bill Detail</h1>
         <table class="center">
@@ -67,6 +63,7 @@
           </xsl:attribute>
         </img>
         </div>
+        <xsl:comment>#include file="..\footer.shtml"</xsl:comment>
       </body>
     </html>    
     </xsl:result-document>

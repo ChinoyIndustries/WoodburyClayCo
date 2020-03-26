@@ -3,7 +3,7 @@
 <company>
     <name>Woodbury Clay Co.</name>
     <bills>
-        <bill billid="045">
+        <bill billid="045" kind="0">
             <imgref>..\images\outbound\C-T-1098\WCC-045_OUT01_1931-04-22.jpg</imgref>
             <carload carloadid="030">
                 <kind>outbound</kind>
@@ -34,7 +34,7 @@
                 <desc>description</desc>
             </carload>
         </bill>
-        <bill billid="046">
+        <bill billid="046" kind="0">
             <imgref>..\images\outbound\C-T-1098\WCC-046_OUT02_1931-07-31.jpg</imgref>
             <carload carloadid="032">
                 <kind>outbound</kind>
@@ -51,7 +51,7 @@
                 <desc>description</desc>
             </carload>
         </bill>
-        <bill billid="047">
+        <bill billid="047" kind="0">
             <imgref>..\images\outbound\C-T-1098\WCC-047_OUT03_1931-08-04.jpg</imgref>
             <carload carloadid="033">
                 <kind>outbound</kind>
@@ -68,7 +68,7 @@
                 <desc>description</desc>
             </carload>
         </bill>
-        <bill billid="048">
+        <bill billid="048" kind="0">
             <imgref>..\images\outbound\C-T-1098\WCC-048_OUT04_1931-08-07.jpg</imgref>
             <carload carloadid="034">
                 <kind>outbound</kind>
@@ -86,7 +86,7 @@
                 <desc>description</desc>
             </carload>
         </bill>
-        <bill billid="049">
+        <bill billid="049" kind="0">
             <imgref>..\images\outbound\C-T-1098\WCC-049_OUT05_1931-08-09.jpg</imgref>
             <carload carloadid="035">
                 <kind>outbound</kind>
@@ -103,7 +103,7 @@
                 <desc>description</desc>
             </carload>
         </bill>
-        <bill billid="050">
+        <bill billid="050" kind="0">
             <imgref>..\images\outbound\C-T-1098\WCC-050_OUT06_1931-08-12.jpg</imgref>
             <carload carloadid="036">
                 <kind>outbound</kind>
@@ -134,7 +134,7 @@
                 <desc>description</desc>
             </carload>
         </bill>
-        <bill billid="051">
+        <bill billid="051" kind="0">
             <imgref>..\images\outbound\C-T-1098\WCC-051_OUT07_1931-09-03.jpg</imgref>
             <carload carloadid="038">
                 <kind>outbound</kind>
@@ -151,7 +151,7 @@
                 <desc>description</desc>
             </carload>
         </bill>
-        <bill billid="052">
+        <bill billid="052" kind="0">
             <imgref>..\images\outbound\C-T-1098\WCC-052_OUT08_1931-09-04.jpg</imgref>
             <carload carloadid="039">
                 <kind>outbound</kind>
@@ -168,7 +168,7 @@
                 <desc>description</desc>
             </carload>
         </bill>
-        <bill billid="001">
+        <bill billid="001" kind="1">
             <imgref>..\images\inbound\WCC-001_IN01_1925-02-20.jpg</imgref>
             <carload carloadid="001">
                 <kind>inbound</kind>
@@ -187,7 +187,7 @@
                     agent neglected to mark the car this shipment traveled in.</desc>
             </carload>
         </bill>
-        <bill billid="002">
+        <bill billid="002" kind="1">
             <imgref>..\images\inbound\WCC-002_IN02_1925-02-24.jpg</imgref>
             <carload carloadid="002">
                 <kind>inbound</kind>
@@ -210,7 +210,7 @@
                     Library's Special Collections.</desc>
             </carload>
         </bill>
-        <bill billid="003">
+        <bill billid="003" kind="1">
             <imgref>..\images\inbound\WCC-003_IN03_1925-02-26.jpg</imgref>
             <carload carloadid="003">
                 <kind>inbound</kind>
@@ -230,7 +230,7 @@
                     Philadelphia at 36-38 S. Front St.</desc>
             </carload>
         </bill>
-        <bill billid="004">
+        <bill billid="004" kind="1">
             <imgref>..\images\inbound\WCC-004_IN04_1925-03-02.jpg</imgref>
             <carload carloadid="004">
                 <kind>inbound</kind>

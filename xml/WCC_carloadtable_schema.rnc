@@ -2,9 +2,11 @@ start = company
 company = element company { name, bills }
 name = element name { text }
 bills = element bills { bill+ }
-bill = element bill { imgref+, carload+, billid }
+bill = element bill { imgref+, carload+, billid, kind }
 imgref = element imgref { text }
 billid = attribute billid { xsd:integer }
+kind = attribute kind { xsd:boolean }
+# 0 is outbound 1 is inbound
 carload =
     element carload {
         carloadid, kind, date, car, shipper, consignee, routing?, lading, geotag, desc?
