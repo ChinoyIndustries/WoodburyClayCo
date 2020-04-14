@@ -26,7 +26,7 @@
           </tr>
           </thead>
           <tbody>
-          <xsl:for-each select="/company/bills/bill/carload">
+          <xsl:for-each select="/bills/bill/carload">
             <xsl:sort select="date"/>
             <tr>
               <td>

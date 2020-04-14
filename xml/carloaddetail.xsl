@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <xsl:stylesheet version="2.0"  xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="/">
-    <xsl:for-each select="/company/bills/bill">
+    <xsl:for-each select="/bills/bill">
       <xsl:result-document href="detail_{@billid}.html">
         <html>
         <head>
@@ -33,12 +33,12 @@
               <xsl:value-of select="date"/>
             </td>
             <td>
-              <xsl:value-of select="car/road"/>
+              <xsl:value-of select="road"/>
               <xsl:text> </xsl:text>
-              <xsl:value-of select="car/carnum"/>
+              <xsl:value-of select="carnum"/>
             </td>
             <td>
-              <xsl:value-of select="car/class"/>
+              <xsl:value-of select="class"/>
             </td>
             <td>
               <xsl:value-of select="shipper"/>

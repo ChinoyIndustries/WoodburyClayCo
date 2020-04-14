@@ -22,7 +22,7 @@ PRR 564625	X26	Woodbury Clay Co.		North American Refractory Co., Mt. Union PA
 PRR 536443	XL	Woodbury Clay Co.		North American Refractory Co., Mt. Union PA
 
 8/7/31
-PRR 560531	XL	Thomas Sant & Sons Co.	Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
+PRR 560531	XL	Thomas Sant & Sons Co.		Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
 
 8/9/31
 PRR 91405	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Mt. Union PA
@@ -43,8 +43,8 @@ PRR 565232	X26	Woodbury Clay Co.		Harbison Walker Refractory Co. Lower Works, Wo
 9/15/31
 PRR 573878	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Mt. Union PA
 PRR 55392	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
-PRR 562354	X23	Thomas Sant & Sons Co.	Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
-PRR 568856	X29	Thomas Sant & Sons Co.	Lapp Insulator Co., Leroy NY (via BR&P)
+PRR 562354	X23	Thomas Sant & Sons Co.		Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
+PRR 568856	X29	Thomas Sant & Sons Co.		Lapp Insulator Co., Leroy NY (via BR&P)
 
 9/17/31
 PRR 46296	X26	Woodbury Clay Co.		General Refractories Co., Sproul PA
@@ -53,7 +53,7 @@ PRR 46296	X26	Woodbury Clay Co.		General Refractories Co., Sproul PA
 PRR 11222	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
 
 9/24/31
-PRR 64053	XL	Thomas Sant & Sons Co.	Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
+PRR 64053	XL	Thomas Sant & Sons Co.		Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
 
 9/30/31
 PRR 168861	GLa	A single car of bituminous coal from Dean Coal Co. (on C&C branch at Dean, PA) to the Woodbury Clay Co. in Oreminea.
@@ -71,7 +71,7 @@ PRR 48103	XL	Woodbury Clay Co.		Harbison Walker Refractory Co. Lower Works, Wood
 PRR 38796	X26	Woodbury Clay Co.		Bethlehem Steel Co. Bessemer Dept., Lackawanna NY (via South Buffalo Rwy.)
 
 10/28/31
-PRR 518517	X26	Thomas Sant & Sons Co.	Canadian Porcelain Co., Hamilton ONT (via Buffalo NY, MC and TH&B)
+PRR 518517	X26	Thomas Sant & Sons Co.		Canadian Porcelain Co., Hamilton ONT (via Buffalo NY, MC and TH&B)
 
 10/30/31 (labeled as reconsigned from the previous day)
 PRR 516022	XL	Woodbury Clay Co.		Wheeling Steel Corp., Benwood WV (via Pittsburgh South Side, Wheeling Jct. and B&O)
@@ -86,12 +86,12 @@ PRR 48408	XL	Woodbury Clay Co.		General Refractories Co., Joliet IL (via Hobart 
 PRR 10487	XL	Woodbury Clay Co.		North American Refractory Co., Mt. Union PA
 
 11/21/31
-PRR 45152	X26	Thomas Sant & Sons Co.	Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
+PRR 45152	X26	Thomas Sant & Sons Co.		Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
 
 	1933
 
 4/28/33	Prepaid Freight Bill
-PRR 510737	X23	Thomas Sant & Sons Co.	Smith & Stone Ltd., Georgetown ONT  (via Tyrone, Emporium, and Buffalo; to GTW and CN)
+PRR 510737	X23	Thomas Sant & Sons Co.		Smith & Stone Ltd., Georgetown ONT  (via Tyrone, Emporium, and Buffalo; to GTW and CN)
 
 5/10/33
 PRR 33160	X25	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
@@ -112,7 +112,7 @@ PRR 570699	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
 PRR 570697	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Harbison Walker No. 8 PA
 
 6/11/33
-PRR 565142	X26	Thomas Sant & Sons Co.	Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
+PRR 565142	X26	Thomas Sant & Sons Co.		Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
 PRR 536713	XL	Woodbury Clay Co.		Youngstown Sheet & Tube Co. Campbell Works Converting Mills, Youngstown OH
 PRR 32956	X25	Woodbury Clay Co.		Bethlehem Steel Co. Open Hearth Department, Sparrows Point MD
 PRR 510804	X23	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
@@ -122,7 +122,7 @@ PRR 501910	X23	Woodbury Clay Co.		Harbison Walker Refractory Co., Harbison Walke
 PRR 67292	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Barrett PA
 PRR 515985	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
 PRR 97013	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., East Chicago IL (via IHB)
-PRR 11053	XL	Thomas Sant & Sons Co.	Bowers Pottery Co., Mannington WV (via Everson PA and B&O)
+PRR 11053	XL	Thomas Sant & Sons Co.		Bowers Pottery Co., Mannington WV (via Everson PA and B&O)
 
 6/25/33
 PRR 211191	GLa/GLc	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA	
@@ -130,7 +130,7 @@ PRR 15595	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Barrett PA
 PRR 535481	GS/GSd	Woodbury Clay Co.		Harbison Walker Refractory Co., Harbison Walker No. 8 PA
 
 7/14/33
-PRR 291852	GS/GSd	A. M. Byers Co.		A. M. Byers Co., Economy PA	. (this one is a bit mysterious)
+PRR 291852	GS/GSd	A. M. Byers Co.			A. M. Byers Co., Economy PA. (this one is a bit mysterious)
 PRR 20516	XL	Woodbury Clay Co.		Youngstown Sheet & Tube Co. Campbell Works Converting Mills, Youngstown OH
 PRR 559209	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Harbison Walker No. 8 PA
 PRR 27530	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
@@ -148,21 +148,21 @@ PRR 44344	X26	Woodbury Clay Co.		Illinois Steel Co., South Chicago IL (via EJ&E)
 PRR 561365	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
 
 8/22/33
-PRR 55772	X29	Thomas Sant & Sons Co.	Smith & Stone Ltd., Georgetown ONT (via Buffalo NY, GTW and CN)
+PRR 55772	X29	Thomas Sant & Sons Co.		Smith & Stone Ltd., Georgetown ONT (via Buffalo NY, GTW and CN)
 
 8/23/33
 PRR 11707	XL	Woodbury Clay Co.		North American Refractory Co., Mt. Union PA
 PRR 533553	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Harbison Walker No. 8 PA
 PRR 26428	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
 	Prepaid Freight Bill
-PRR 55772	X29	Thomas Sant & Sons Co.	Smith & Stone Ltd., Georgetown ONT (via Tyrone, Emporium, and Buffalo; to GTW and CN)
+PRR 55772	X29	Thomas Sant & Sons Co.		Smith & Stone Ltd., Georgetown ONT (via Tyrone, Emporium, and Buffalo; to GTW and CN)
 
 8/25/33
 PRR 537548	XL	Woodbury Clay Co.		Harbison Walker Refractory Co. Barrett Works, Woodland PA
 PRR 25269	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
 PRR 16114	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Mt. Union PA
 PRR 67280	XL	Woodbury Clay Co.		North American Refractory Co., Mt. Union PA
-PRR 537785	XL	Thomas Sant & Sons Co.	Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
+PRR 537785		XL	Thomas Sant & Sons Co.		Locke Insulator Co., Port Covington Baltimore MD (via Fulton Jct. MD and WM)
 
 8/27/33
 PRR 20857	XL	Woodbury Clay Co.		Harbison Walker Refractory Co., Harbison Walker No. 8 PA
@@ -175,7 +175,7 @@ PRR 98396	X29	Woodbury Clay Co.		Bethlehem Steel Co. Open Hearth Department, Spa
 
 9/1/33
 PRR 573086	X29	Woodbury Clay Co.		Harbison Walker Refractory Co. Barrett Works, Woodland PA
-PRR 15642	XL	Thomas Sant & Sons Co.	Taylor, Smith & Taylor, Chester WV 
+PRR 15642	XL	Thomas Sant & Sons Co.		Taylor, Smith & Taylor, Chester WV 
 
 9/3/33
 PRR 534801	XL	Woodbury Clay Co.		Harbison Walker Refractory Co. Barrett Works, Woodland PA
@@ -202,7 +202,7 @@ PRR 13112	XL	Woodbury Clay Co.		Harbison Walker Refractory Co. Barrett Works, Wo
 PRR 42660	X23	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
 
 11/1/33
-PRR 532602	XL	Thomas Sant & Sons Co.	Bowers Pottery Co., Mannington WV (via Everson PA and B&O)
+PRR 532602	XL	Thomas Sant & Sons Co.		Bowers Pottery Co., Mannington WV (via Everson PA and B&O)
 PRR 38921	X26	Woodbury Clay Co.		Harbison Walker Refractory Co. Barrett Works, Woodland PA
 PRR 13592	XL	Woodbury Clay Co.		North American Refractory Co., Mt. Union PA
 PRR 75928	XL	Woodbury Clay Co.		General Refractories Co. Joliet Works, Joliet IL (via Hobart IL and EJ&E)
@@ -218,19 +218,19 @@ PRR 13029	XL	Woodbury Clay Co.		Harbison Walker Refractory Co. Barrett Works, Wo
 PRR 40151	X23	Woodbury Clay Co.		Harbison Walker Refractory Co., Harbison Walker No. 8 PA
 PRR 534428	XL	Woodbury Clay Co.		Harbison Walker Refractory Co. Barrett Works, Woodland PA	
 PRR 22661	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
-PRR 48168	XL	Thomas Sant & Sons Co.	Taylor, Smith & Taylor, Chester WV 
+PRR 48168	XL	Thomas Sant & Sons Co.		Taylor, Smith & Taylor, Chester WV 
 PRR 296606	GS/GSd	Woodbury Clay Co.		Carnegie Steel Co. Mingo Steel Works, Mingo Junction OH
 
 	1937
 
 10/8/37
-PRR 122498	X28a	Peter S. Duncan Estate	National Tube Co. Lorain Works, Lorain OH (via Cleveland OH and NYC&StL)	
-PRR 121695	X28a	Peter S. Duncan Estate	National Tube Co. Lorain Works, Lorain OH (via Cleveland OH and NYC&StL)	
+PRR 122498	X28a	Peter S. Duncan Estate		National Tube Co. Lorain Works, Lorain OH (via Cleveland OH and NYC&StL)	
+PRR 121695	X28a	Peter S. Duncan Estate		National Tube Co. Lorain Works, Lorain OH (via Cleveland OH and NYC&StL)	
 PRR 749813	GLa	Woodbury Clay Co.		Carnegie-Illinois Steel Co. Edgar Thompson Steel Works, Bessemer PA
 PRR 93603	X25	Woodbury Clay Co.		Harbison Walker Refractory Co., Mt. Union PA
 PRR 103042	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
 PRR 103124	X29	Woodbury Clay Co.		Harbison Walker Refractory Co., Retort PA
-PRR 569348	X29	Thomas Sant & Sons Co.	Victor Insulators Inc., Victor NY (via Canandaigua NY and NYC)
+PRR 569348	X29	Thomas Sant & Sons Co.		Victor Insulators Inc., Victor NY (via Canandaigua NY and NYC)
 
 
 Totals

@@ -7,7 +7,7 @@ Date	Car		Class	Shipper								Lading						Notes
 
 	1925
 2/20/25	(not listed)		Bitner Hirusucker??? Co., Allentown PA					1 Case Dry Goods, #2980?			handwriting illegible.
-2/24/25	B&O 193229		Fate-Root-Heath Co., Plymouth OH					1 Gasoline Locomotive.				see note A
+2/24/25	B&O 193229	M-15a	Fate-Root-Heath Co., Plymouth OH					1 Gasoline Locomotive.				see note A
 2/26/25	PRR 13220	XL	Comly, Flanigan & Co. (grocers), 756 Vine St. Phila. PA			(various foodstuffs, 9 line items)
 3/2/25	PRR 66303	XL	Lippincott & Co., Altoona PA						1 carton strike anywhere matches, 6 cartons sugar, 4 cases cakes
 
@@ -23,7 +23,7 @@ Date	Car		Class	Shipper								Lading						Notes
 7/11/33	PRR 167213	GLa	Penna. Coal & Coke Co., Penna. Coll. 10, PA				Bituminous coal.
 7/18/33	PRR 31658	X25	Butler Bros., Jersey City NJ						"1 bales mattress crib, 1 ctns crib ko"			not sure what this means.
 7/20/33	(not specified)		Atlas Powder Co., Horrell PA						1 case (1000) blasting caps, 1 case safety fuse		entirely different form than the rest--Memorandum of Bill of Lading. 
-7/24/33	B&O 277545		Butler Bros., Brooklyn Ba. Wav. Transfer, NJ				1 CS Electric storage battery, wet. White Label Required.	stamped "ACID".
+7/24/33	B&O 277545	M-26d	Butler Bros., Brooklyn Ba. Wav. Transfer, NJ				1 CS Electric storage battery, wet. White Label Required.	stamped "ACID".
 8/17/33	PRR 570912	X29	Butler Bros., Jersey City NJ						(various small goods, 6 line items)
 8/28/31	PRR 100587	X29	Dan Miller Co., Baltimore (President?) MD				1 carton notions.
 
@@ -34,19 +34,21 @@ Date	Car		Class	Shipper								Lading						Notes
 2/27/37	PRR 569802	X29	Universal Crane Co., Lorain OH (NYC&StL, via PRR from Erie)		1 dipper stick, loose					trans. to this car at 11th St. Pittsburgh.
 3/9/37	PRR 566504	X29	Thew Shovel Co., Lorain OH (NYC&StL, via PRR from Erie)			1 crate power shovel parts				trans. from NKP 85571 at 11th St., Pittsburgh, 3/17/37.
 3/18/37	PRR 98348	X29	Penn General Supply Co., Pittsburgh PA					1 kg. chain, 1 carton wool waste n.o.s.			Prepaid LCL Freight Bill.
-3/18/37	PRR 43668	X23	American Fork & Hoe Co. Skelton Shovel Works, Dunkirk NY			2 bundles 1 dozen long handled shovels 		Alternate car listed, "Alt X 98253", not sure what this means.
+3/18/37	PRR 43668	X23	American Fork & Hoe Co. Skelton Shovel Works, Dunkirk NY		2 bundles 1 dozen long handled shovels 			Alternate car listed, "Alt X 98253", not sure what this means.
 3/19/37	PRR 470184	F30	Universal Crane Co., Lorain OH (B&O, via PRR from Willow Grove OH)	1 Lorain Type 40 Power Gas Shovel, Complete		see note B
 5/29/37	PRR 36523	X25	Frick-Reid Supply Corp., Pittsburgh PA					1 keg RR spikes, 1 keg RR bolts, 1 iron jack w/ handle att.	Prepaid LCL Freight Bill.
 6/10/37	NH 165771		Frick-Reid Supply Corp., Pittsburgh PA					2 bales cotton waste, mf'd (not oiled)			Prepaid LCL Freight Bill. NH cars in this series were 36' double-sheathed steel-frame boxcars.
 8/9/37	B&M 72842		Thew Shovel Co., Lorain OH (NYC&StL, via PRR from Ashtabula OH)		1 box power shovel parts				trans. from DL&W 40267 at Cleveland, 8/12/37; delivered via REA, Martinsburg/Curry office
 8/14/37	CNJ 17055		The Gorman-Rupp Co., Mansfield OH					1 power pump on truck, crated, w/ strainer wired inside crate.	trans. to this car at Pittsburgh
-9/7/1937	PRR 38533	X26	M.B. & A.H. Christy, Trenton NJ					1 bale rubber hose					"no recourse ICC 524"
+9/7/1937 PRR 38533	X26	M.B. & A.H. Christy, Trenton NJ						1 bale rubber hose					"no recourse ICC 524"
 9/30/37	PRR 50951	X29	Thew Shovel Co., Lorain OH (NYC&StL, via PRR from Ashtabula OH)		1 box power shovel parts				delivered to Ganister, PA for Woodbury Clay Co.
-10/25/37	SAL 18934		Burton-Dixie Corp, Jay St., Brooklyn NY					1 carton/bale matresses (burlapped)			Seaboard class B-6 boxcar, similar to an ARA or X29 car.
-11/3/37	PRR 99788	X29	Daniel Miller Co., Baltimore MD					1 carton notions					pinned to this bill are three unrelated REA receipts:
-																		11/10/37, 1 Box Shoes, from Mishawaka Rubber & Woolen Mfg. Co., Mishawaka IN
-																		10/12/37, 1 Box Shoes, from Brown Shoe Co., St. Louis MO
-																		10/4/37, same as above
+10/25/37 SAL 18934	B-6	Burton-Dixie Corp, Jay St., Brooklyn NY					1 carton/bale matresses (burlapped)			Seaboard class B-6 boxcar, similar to an ARA or X29 car.
+11/3/37	PRR 99788	X29	Daniel Miller Co., Baltimore MD						1 carton notions					pinned to this bill are three 
+unrelated REA receipts:
+11/10/37, 1 Box Shoes, from Mishawaka Rubber & Woolen Mfg. Co., Mishawaka IN
+10/12/37, 1 Box Shoes, from Brown Shoe Co., St. Louis MO
+10/4/37, same as above
+
 Totals
 1925	1931	1933	1937	Total	
 4	3	7	15	29	Total carloads for which records survive

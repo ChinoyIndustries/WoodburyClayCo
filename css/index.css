@@ -62,3 +62,6 @@ td {
     margin: 15px;
     text-align: center
 }
+label {
+    cursor: pointer;
+}
