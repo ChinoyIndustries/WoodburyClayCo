@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <bills>
+      <bill billid="001" kind="C1">
+         <carload>
+            <date>1925-02-20</date>
+            <car>Unknown</car>
+            <class/>
+            <classLink>.html</classLink>
+            <shipper>Bittner, Hunsicker &amp; Co.</shipper>
+            <shipLink>bittner-hunsicker.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Case Dry Goods</freight>
+            <desc>An LCL shipment from Bittner, Hunsicker &amp; Co. (misspelled quite badly
+                        on the bill) of Allentown. This shipment is marked with a commodity no. of
+                        2980; no listing of PRR freight commodity numbers is known. Unfortunately,
+                        the freight agent neglected to mark the car this shipment traveled
+                        in!</desc>
+         </carload>
+         <imgref>..\images\bills\wcc001.jpg</imgref>
+      </bill>
+      <bill billid="002" kind="C1">
+         <carload>
+            <date>1925-02-24</date>
+            <car>B&amp;amp;O 193229</car>
+            <class>M-15a</class>
+            <classLink>BO-M15A.html</classLink>
+            <shipper>Fate-Root-Heath Co. (Plymouth Locomotive Works)</shipper>
+            <shipLink>plymouth-loco-works.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Gasoline Locomotive (15500 lbs.)</freight>
+            <desc>Crammed into a boxcar for its journey from Ohio, this "gasoline
+                        locomotive" was a small narrow-gauge 4-wheel industrial locomotive built by
+                        the Plymouth Locomotive Works (Fate-Root-Heath), a 7-ton Model DLB, for
+                        hauling mine cars around the clay pits. A photo of it in operation can be
+                        seen &lt;a
+                        href="https://www.flickr.com/photos/pennstatespecial/7026606741/in/album-72157629132251744/"
+                        target="_blank"&gt;here&lt;/a&gt;, courtesy of Penn State
+                        University Library's Special Collections.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc002.jpg</imgref>
+      </bill>
+      <bill billid="003" kind="C1">
+         <carload>
+            <date>1925-02-26</date>
+            <car>PRR 13220</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Comly-Flanigan &amp; Co.</shipper>
+            <shipLink>comly-flanigan.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>3 Cartons Catsup in Glass, 1 Box General Goods, 1 Pail Candy, 1 Box Wash
+                        Tablets, 10 Cartons Milk, 3 Bags Sugar, 1 Case Sugar, 1 Case Sugar, 1 Carton
+                        Powdered Sugar</freight>
+            <desc>An order of foodstuffs from a grocer in Philadelphia.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc003.jpg</imgref>
+      </bill>
+      <bill billid="004" kind="C1">
+         <carload>
+            <date>1925-03-02</date>
+            <car>PRR 66303</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Lippincott &amp; Co.</shipper>
+            <shipLink>lippincott.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Carton Strike-Anywhere Matches, 1 Carton Sugar, 4 Cases Cakes</freight>
+            <desc>"Yellow Label" is noted below the carton of matches on the bill, referring
+                        to the system of hazardous cargo labels commonly in use at this time. Yellow
+                        labels were used for freight that was inflammable, but not liable to
+                        explode. CITE THIS WITH SOMETHING!</desc>
+         </carload>
+         <imgref>..\images\bills\wcc004.jpg</imgref>
+      </bill>
+      <bill billid="005" kind="C1">
+         <carload>
+            <date>1931-04-27</date>
+            <car>Unknown</car>
+            <class/>
+            <classLink>.html</classLink>
+            <shipper>Reeves, Parvin &amp; Co.</shipper>
+            <shipLink>reeves-parvin.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>3 rolls felt-base rugs</freight>
+            <desc>A correction issued to a previous freight bill for the described shipment,
+                        correcting the destination listed as "Williamsburg - Oreminea - PA", i.e.
+                        the branch and siding for the Woodbury Clay Co. Evidently it had not been
+                        deliverable as originally specified.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc005.jpg</imgref>
+         <imgref>..\images\bills\wcc006.jpg</imgref>
+      </bill>
+      <bill billid="007" kind="C1">
+         <carload>
+            <date>1931-09-25</date>
+            <car>PRR 166127</car>
+            <class>GLa/GLc</class>
+            <classLink>GLA.html</classLink>
+            <shipper>Dean Coal Co. Fruhlinger Colliery No. 1</shipper>
+            <shipLink>fruhlinger.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>Bituminous Coal</freight>
+            <desc>This bill has been the principal source of aggravation in this project. A
+                        reward is offered to any individual who can conclusively determine what coal
+                        mine this refers to and where it was located.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc007.jpg</imgref>
+         <imgref>..\images\bills\wcc008.jpg</imgref>
+      </bill>
+      <bill billid="009" kind="C1">
+         <carload>
+            <date>1931-09-30</date>
+            <car>PRR 168861</car>
+            <class>GLa/GLc</class>
+            <classLink>GLA.html</classLink>
+            <shipper>Dean Coal Co. Fruhlinger Colliery No. 1</shipper>
+            <shipLink>fruhlinger.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>Bituminous Coal</freight>
+            <desc>Both freight bills from the Dean Coal Co. give the same station number
+                        (9593), and so this also refers to the "Fruhlinger Coll. No. 1" from the
+                        previous bill.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc009.jpg</imgref>
+         <imgref>..\images\bills\wcc010.jpg</imgref>
+      </bill>
+      <bill billid="011" kind="C1">
+         <carload>
+            <date>1933-07-05</date>
+            <car>PRR 29215</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Western Wheeled Scraper Co.</shipper>
+            <shipLink>western-wheeled-scraper.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Box Rwy. Car Drawbar Springs, 6 Rwy. Car Drawbars</freight>
+            <desc>The freight car parts in question are repair parts for the small
+                        narrow-gauge dump cars used within the mine. Of note on this bill is the
+                        "Stop this car at" field at the upper left. This LCL shipment arrived at
+                        Altoona in a CB&amp;amp;Q car, and was transloaded into a PRR car for final
+                        delivery. CB&amp;amp;Q #42247 was a class XF-8 50' furniture car,
+                        wood-framed, built 1899—a very large car when built, but by 1933, an
+                        old and decrepit one. See &lt;a
+                        href="http://magazine.trainlife.com/rmj_1989_7/" target="_blank"&gt;Rail
+                        Model Journal, July 1989&lt;/a&gt;, p. 47 for more information on these
+                        cars.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc011.jpg</imgref>
+         <imgref>..\images\bills\wcc012.jpg</imgref>
+      </bill>
+      <bill billid="013" kind="C1">
+         <carload>
+            <date>1933-07-11</date>
+            <car>PRR 167213</car>
+            <class>GLa/GLc</class>
+            <classLink>GLA.html</classLink>
+            <shipper>Penna. Coal &amp; Coke Co. Penna. Coll. No. 10</shipper>
+            <shipLink>penna-coal-coke-co.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>Bituminous Coal</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc013.jpg</imgref>
+      </bill>
+      <bill billid="014" kind="C1">
+         <carload>
+            <date>1933-07-18</date>
+            <car>PRR 31658</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Butler Bros. Co.</shipper>
+            <shipLink>butler-bros.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Bale Crib Mattresses, 1 Carton Crib []</freight>
+            <desc>A shipment of mattresses and bedding for the residents of Oreminea.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc014.jpg</imgref>
+         <imgref>..\images\bills\wcc015.jpg</imgref>
+      </bill>
+      <bill billid="016" kind="C1">
+         <carload>
+            <date>1933-07-20</date>
+            <car>Unknown</car>
+            <class/>
+            <classLink>.html</classLink>
+            <shipper>Atlas Powder Co.</shipper>
+            <shipLink>atlas-powder.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Case Blasting Caps, 1 Case Safety Fuses</freight>
+            <desc>This form is a receipt for a Bill of Lading, as opposed to a Freight Bill:
+                        i.e., a receipt of the shipment itself and not an invoice for the payment
+                        thereof. Unfortunately, the car in which these supplies were shipped is not
+                        specified on the bill, but one thing is for certain—it would have been
+                        placarded "EXPLOSIVES"! These were supplies for blasting within the mine pit
+                        at Oreminea.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc016.jpg</imgref>
+         <imgref>..\images\bills\wcc017.jpg</imgref>
+         <imgref>..\images\prrexplosives2.gif</imgref>
+      </bill>
+      <bill billid="018" kind="C1">
+         <carload>
+            <date>1933-07-24</date>
+            <car>B&amp;amp;O 277545</car>
+            <class>M-26d</class>
+            <classLink>BO-M26D.html</classLink>
+            <shipper>Butler Bros. Co.</shipper>
+            <shipLink>butler-bros.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Case Electric Storage Batteries</freight>
+            <desc>An LCL shipment of lead-acid storage batteries, which would have required
+                        "DANGEROUS" placards on the outside of the car. At the time, railroad
+                        shipping regulations utilized colored labels for individual packages of
+                        hazardous cargo, with a white label corresponding to acids/corrosive
+                        liquids. This shipment was ordered from the Butler Bros. supply company but
+                        did not originate at their plant, instead being shipped from a supplier
+                        somewhere in Brooklyn and departing the city by carfloat. The exact meaning
+                        of "501 Bdks Bklyn Ba Wav Tfr N.J." is unclear but most likely refers to the
+                        shipment being received and forwarded via the freight transfer terminal in
+                        nearby Waverly, N.J., which ceased operations shortly after WWII.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc018.jpg</imgref>
+         <imgref>..\images\bills\wcc019.jpg</imgref>
+      </bill>
+      <bill billid="020" kind="C1">
+         <carload>
+            <date>1933-08-17</date>
+            <car>PRR 570912</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Butler Bros. Co.</shipper>
+            <shipLink>butler-bros.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Carton Liquid Drugs, 2 Bundles Tires, 1 Carton Sewing Notions, 1
+                        Carton Sanitary Napkins, 1 Bundle Grass Edgers, 1 Bundle Garden
+                        Hose</freight>
+            <desc>An LCL shipment of various supplies for the general store in
+                        Oreminea.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc020.jpg</imgref>
+      </bill>
+      <bill billid="021" kind="C1">
+         <carload>
+            <date>1933-08-28</date>
+            <car>PRR 100587</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Daniel Miller Co.</shipper>
+            <shipLink>daniel-miller.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Carton Sewing Notions</freight>
+            <desc>A small LCL package, shipped out of Baltimore's President Street freight
+                        station.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc021.jpg</imgref>
+         <imgref>..\images\bills\wcc022.jpg</imgref>
+         <imgref>..\images\bills\wcc022.jpg</imgref>
+      </bill>
+      <bill billid="024" kind="C1">
+         <carload>
+            <date>1937-02-17</date>
+            <car>PRR 571942</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Gorman-Rupp Co.</shipper>
+            <shipLink>gorman-rupp.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Power Pump on Truck</freight>
+            <desc>A mobile pump on wheels, probably for draining water out of the clay pits.
+                        Stapled to the bill is a a neat little snapshot of daily life around the
+                        Woodbury Clay Co., a handwritten note concerning "office expenses".</desc>
+         </carload>
+         <imgref>..\images\bills\wcc024.jpg</imgref>
+         <imgref>..\images\bills\wcc025.jpg</imgref>
+      </bill>
+      <bill billid="026" kind="C1">
+         <carload>
+            <date>1937-02-24</date>
+            <car>PRR 17642</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Penn General Supply Co.</shipper>
+            <shipLink>penn-general-supply.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>2 Boxes Bolts, 6 Steel Bars, 1 Carton Washers</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc026.jpg</imgref>
+      </bill>
+      <bill billid="027" kind="C1">
+         <carload>
+            <date>1937-02-27</date>
+            <car>PRR 569802</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Thew Shovel Co./Universal Crane Co.</shipper>
+            <shipLink>thew-universal.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Dipstick</freight>
+            <desc>A single oil dipstick for a gas mining shovel, shipped from Lorain, OH on
+                        the Nickel Plate Road through to Erie, PA, then down into Pittsburgh on the
+                        PRR, where it was transloaded into this car from a car not specified on the
+                        bill at the 11th St. Freight Station before finally traveling to
+                        Oreminea.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc027.jpg</imgref>
+         <imgref>..\images\bills\wcc028.jpg</imgref>
+      </bill>
+      <bill billid="029" kind="C1">
+         <carload>
+            <date>1937-03-09</date>
+            <car>PRR 566504</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Thew Shovel Co./Universal Crane Co.</shipper>
+            <shipLink>thew-universal.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Crate Power Shovel Parts</freight>
+            <desc>Evidently the mining shovel in question needed more than the dipstick from
+                        the previous bill. This shipment left Lorain in NKP #85571, a
+                        double-sheathed 40' boxcar inherited by the NKP in 1922 from the Lake Erie
+                        &amp; Western RR. It too was transloaded into a PRR car at 11th St. Station
+                        in Pittsburgh for final delivery.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc029.jpg</imgref>
+      </bill>
+      <bill billid="030" kind="C1">
+         <carload>
+            <date>1937-03-18</date>
+            <car>PRR 98348</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Penn General Supply Co.</shipper>
+            <shipLink>penn-general-supply.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Keg of Chain, 1 Carton Wool Waste</freight>
+            <desc>Wool waste would have been soaked in oil and used for packing journal
+                        bearings on mine cars and other equipment with plain bearings.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc030.jpg</imgref>
+      </bill>
+      <bill billid="031" kind="C1">
+         <carload>
+            <date>1937-03-18</date>
+            <car>PRR 43668</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>American Fork &amp; Hoe Co. Skelton Shovel Works</shipper>
+            <shipLink>skelton-shovel-works.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>2 Bundles Long Handle Shovels (1 dozen each)</freight>
+            <desc>Transloaded at Altoona from PRR #43668, an X23 boxcar.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc031.jpg</imgref>
+      </bill>
+      <bill billid="032" kind="C1">
+         <carload>
+            <date>1937-03-19</date>
+            <car>PRR 470184</car>
+            <class>F30</class>
+            <classLink>F30.html</classLink>
+            <shipper>Thew Shovel Co./Universal Crane Co.</shipper>
+            <shipLink>thew-universal.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>One Lorain Type 40 Power Gas Shovel</freight>
+            <desc>&lt;p&gt;The only non-PRR document in this collection, a B&amp;amp;O
+                        freight bill for the shipment of a new power mining shovel to the Woodbury
+                        Clay Co. It shipped out of Lorain on the B&amp;amp;O, through Akron, OH to
+                        the lorem ipsum dolor sit amet. The bill specifies the weight of the load as
+                        34300 lbs, "exact blocking wt. 800 lbs.;" this phrasing indicates the weight
+                        of the wooden chocks, supports, and chains used to secure the power shovel
+                        to the car. While a "40 ft car" was ordered, a 50' PRR F30 was
+                        supplied.&lt;/p&gt; &lt;p&gt;This Model 40 gas-powered mining shovel was not
+                        the first to be operated in the mines of the Woodbury Clay Co. The era of
+                        steam shovels was already over in Oreminea; this shovel appears to have
+                        supplemented an earlier gas-powered model that was in need of repair. A
+                        photo appears in that penn state gallery, link to it, finish description,
+                        lorem ipsum dolor sit amet.&lt;/p&gt;</desc>
+         </carload>
+         <imgref>..\images\bills\wcc032.jpg</imgref>
+      </bill>
+      <bill billid="033" kind="C1">
+         <carload>
+            <date>1937-05-29</date>
+            <car>PRR 36523</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Frick-Reid Supply Corp.</shipper>
+            <shipLink>frick-reid-supply.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 keg RR spikes, 1 keg RR bolts, 1 iron jack w/ handle att.</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc033.jpg</imgref>
+      </bill>
+      <bill billid="034" kind="C1">
+         <carload>
+            <date>1937-06-10</date>
+            <car>NH 165771</car>
+            <class>165500-series</class>
+            <classLink>NH-box.html</classLink>
+            <shipper>Frick-Reid Supply Corp.</shipper>
+            <shipLink>frick-reid-supply.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>2 bales cotton waste, manufactured (not oiled)</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc034.jpg</imgref>
+      </bill>
+      <bill billid="035" kind="C1">
+         <carload>
+            <date>1937-08-09</date>
+            <car>B&amp;amp;M 72842</car>
+            <class>XM-1</class>
+            <classLink>BM-XM1.html</classLink>
+            <shipper>Thew Shovel Co./Universal Crane Co.</shipper>
+            <shipLink>thew-universal.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Box Power Shovel Parts</freight>
+            <desc>Shipped Railway Express on NKP, transloaded from DL&amp;amp;W #40267 at
+                        Cleveland, routed via Ashtabula. Check this.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc035.jpg</imgref>
+         <imgref>..\images\bills\wcc036.jpg</imgref>
+      </bill>
+      <bill billid="037" kind="C1">
+         <carload>
+            <date>1937-08-14</date>
+            <car>CNJ 17055</car>
+            <class>17000-series</class>
+            <classLink>CNJ-box.html</classLink>
+            <shipper>Gorman-Rupp Co.</shipper>
+            <shipLink>gorman-rupp.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Power Pump on Truck</freight>
+            <desc>A mobile pump on wheels, probably for draining water out of the clay pits.
+                        Transloaded into this car at Pittsburgh. Check this.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc037.jpg</imgref>
+      </bill>
+      <bill billid="038" kind="C1">
+         <carload>
+            <date>1937-09-07</date>
+            <car>PRR 38533</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>M.B.&amp; A.H. Christy</shipper>
+            <shipLink>m-b-a-h-christy.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Bale Rubber Hose</freight>
+            <desc>"Paid from Cash Sales". Shipped from Trenton, NJ freight station by an
+                        unknown party.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc038.jpg</imgref>
+      </bill>
+      <bill billid="039" kind="C1">
+         <carload>
+            <date>1937-09-07</date>
+            <car>PRR 50951</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Thew Shovel Co./Universal Crane Co.</shipper>
+            <shipLink>thew-universal.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Box Power Shovel Parts</freight>
+            <desc>NYC&amp;amp;StL, via PRR from Ashtabula OH. Consigned to Woodbury Clay Co.
+                        but delivered to Ganister, PA, just up the valley and one stop beyond
+                        Williamsburg. No idea why they had it sent there.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc039.jpg</imgref>
+      </bill>
+      <bill billid="040" kind="C1">
+         <carload>
+            <date>1937-10-25</date>
+            <car>SAL 18934</car>
+            <class>B-6</class>
+            <classLink>SAL-B6.html</classLink>
+            <shipper>Burton-Dixie Corp.</shipper>
+            <shipLink>burton-dixie.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Carton/Bale Mattresses (Burlapped)</freight>
+            <desc>Received from consignor at Jay St. LCL Terminal, Brooklyn, NY.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc040.jpg</imgref>
+      </bill>
+      <bill billid="041" kind="C1">
+         <carload>
+            <date>1937-11-07</date>
+            <car>PRR 99788</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Daniel Miller Co.</shipper>
+            <shipLink>daniel-miller.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Carton Sewing Notions</freight>
+            <desc>Stapled to this bill are three additional Railway Express receipts for
+                        individual boxes of shoes that arrived at Oreminea on recent dates. Each is
+                        listed as a separate shipment.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc041.jpg</imgref>
+      </bill>
+      <bill billid="042" kind="C1">
+         <carload>
+            <date>1937-11-03</date>
+            <car>Unknown</car>
+            <class/>
+            <classLink>.html</classLink>
+            <shipper>Mishawaka Rubber &amp; Woolen Mfg. Co.</shipper>
+            <shipLink>mishawaka.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Box of Shoes</freight>
+            <desc>Railway Express receipt only, no car or routing information.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc042.jpg</imgref>
+      </bill>
+      <bill billid="043" kind="C1">
+         <carload>
+            <date>1937-10-08</date>
+            <car>Unknown</car>
+            <class/>
+            <classLink>.html</classLink>
+            <shipper>Brown Shoe Co.</shipper>
+            <shipLink>brown-shoe.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Box of Shoes</freight>
+            <desc>Railway Express receipt only, no car or routing information.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc043.jpg</imgref>
+      </bill>
+      <bill billid="044" kind="C1">
+         <carload>
+            <date>1937-09-28</date>
+            <car>Unknown</car>
+            <class/>
+            <classLink>.html</classLink>
+            <shipper>Brown Shoe Co.</shipper>
+            <shipLink>brown-shoe.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>1 Box of Shoes</freight>
+            <desc>Railway Express receipt only, no car or routing information.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc044.jpg</imgref>
+      </bill>
+      <bill billid="045" kind="C0">
+         <carload>
+            <date>1931-04-22</date>
+            <car>PRR 559022</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1931-04-22</date>
+            <car>PRR 34832</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc045.jpg</imgref>
+      </bill>
+      <bill billid="046" kind="C0">
+         <carload>
+            <date>1931-07-31</date>
+            <car>PRR 564625</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Mount Union</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc046.jpg</imgref>
+      </bill>
+      <bill billid="047" kind="C0">
+         <carload>
+            <date>1931-08-04</date>
+            <car>PRR 536443</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>North American Refractory Co.</consignee>
+            <consLink>north-am-refractory.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc047.jpg</imgref>
+      </bill>
+      <bill billid="048" kind="C0">
+         <carload>
+            <date>1931-08-07</date>
+            <car>PRR 560531</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Locke Insulator Co.</consignee>
+            <consLink>locke-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
+                        the Western Maryland.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc048.jpg</imgref>
+      </bill>
+      <bill billid="049" kind="C0">
+         <carload>
+            <date>1931-08-09</date>
+            <car>PRR 91405</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Mount Union</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc049.jpg</imgref>
+      </bill>
+      <bill billid="050" kind="C0">
+         <carload>
+            <date>1931-08-12</date>
+            <car>PRR 75394</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Bethlehem Steel Co. Sparrows Point Plant</consignee>
+            <consLink>bethlehem-steel.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1931-08-12</date>
+            <car>PRR 537736</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Lower Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc050.jpg</imgref>
+      </bill>
+      <bill billid="051" kind="C0">
+         <carload>
+            <date>1931-09-03</date>
+            <car>PRR 560509</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Lower Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc051.jpg</imgref>
+      </bill>
+      <bill billid="052" kind="C0">
+         <carload>
+            <date>1931-09-04</date>
+            <car>PRR 15839</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>North American Refractory Co.</consignee>
+            <consLink>north-am-refractory.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc052.jpg</imgref>
+      </bill>
+      <bill billid="053" kind="C0">
+         <carload>
+            <date>1931-09-09</date>
+            <car>PRR 565232</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Lower Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc053.jpg</imgref>
+      </bill>
+      <bill billid="054" kind="C0">
+         <carload>
+            <date>1931-09-15</date>
+            <car>PRR 564354</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Locke Insulator Co.</consignee>
+            <consLink>locke-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1931-09-15</date>
+            <car>PRR 568856</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Lapp Insulator Co.</consignee>
+            <consLink>lapp-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Routed via Johnsonburg, PA and the BR&amp;amp;P (Buffalo, Rochester &amp;
+                        Pittsburgh)</desc>
+         </carload>
+         <imgref>..\images\bills\wcc054.jpg</imgref>
+      </bill>
+      <bill billid="055" kind="C0">
+         <carload>
+            <date>1931-09-15</date>
+            <car>PRR 573878</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Mount Union</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1931-09-15</date>
+            <car>PRR 55392</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc055.jpg</imgref>
+      </bill>
+      <bill billid="056" kind="C0">
+         <carload>
+            <date>1931-09-17</date>
+            <car>PRR 46296</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>General Refractories Co. Sproul</consignee>
+            <consLink>general-refractories.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc056.jpg</imgref>
+      </bill>
+      <bill billid="057" kind="C0">
+         <carload>
+            <date>1931-09-22</date>
+            <car>PRR 11222</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc057.jpg</imgref>
+      </bill>
+      <bill billid="058" kind="C0">
+         <carload>
+            <date>1931-09-24</date>
+            <car>PRR 64053</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Locke Insulator Co.</consignee>
+            <consLink>locke-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
+                        the Western Maryland.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc058.jpg</imgref>
+      </bill>
+      <bill billid="059" kind="C1">
+         <carload>
+            <date>1931-09-30</date>
+            <car>PRR 168861</car>
+            <class>GLa/GLc</class>
+            <classLink>GLA.html</classLink>
+            <shipper>Dean Coal Co. Unknown</shipper>
+            <shipLink>fruhlinger.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>Bituminous Coal</freight>
+            <desc>A single car of coal from a Dean Coal Co. mine in Coalport to the Woodbury
+                        Clay Co. This is the only C.T.1098 "Report of Carloads Weighed" form in the
+                        collection that actually represents an inbound shipment to Oreminea.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc059.jpg</imgref>
+      </bill>
+      <bill billid="060" kind="C0">
+         <carload>
+            <date>1931-10-01</date>
+            <car>PRR 42660</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Carnegie-Illinois Steel Co. Mingo Works (Carnegie Steel)</consignee>
+            <consLink>carnegie-illinois.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>A weight receipt from the East Altoona Scales, prepared by a Weighmaster
+                        there who evidently was not armed with a typewriter. Notably, the date here
+                        is incorporated into the scale agent's rubber stamp.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc060.jpg</imgref>
+      </bill>
+      <bill billid="061" kind="C0">
+         <carload>
+            <date>1931-10-22</date>
+            <car>PRR 36042</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Bethlehem Steel Co. Lackawanna Plant</consignee>
+            <consLink>bethlehem-steel.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>This car would have traveled all but the the final mile of its journey on
+                        PRR rails, with the final switching from the nearby PRR receiving yard into
+                        the mill performed by the South Buffalo Railway.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc061.jpg</imgref>
+      </bill>
+      <bill billid="062" kind="C0">
+         <carload>
+            <date>1931-10-24</date>
+            <car>PRR 48103</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Lower Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc062.jpg</imgref>
+      </bill>
+      <bill billid="063" kind="C0">
+         <carload>
+            <date>1931-10-27</date>
+            <car>PRR 38796</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Bethlehem Steel Co. Lackawanna Plant</consignee>
+            <consLink>bethlehem-steel.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>This car would have traveled all but the the final mile of its journey on
+                        PRR rails, with the final switching from the nearby PRR receiving yard into
+                        the mill performed by the South Buffalo Railway.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc063.jpg</imgref>
+      </bill>
+      <bill billid="064" kind="C0">
+         <carload>
+            <date>1931-10-28</date>
+            <car>PRR 518517</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Canadian Porcelain Co.</consignee>
+            <consLink>canadian-porcelain.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>A shipment to Canada! This car was sent all the way up the PRR Buffalo
+                        Line through to Buffalo, NY, then transferred to the MCRR (Michigan Central)
+                        and ultimately the TH&amp;amp;B (Toronto, Hamilton &amp; Buffalo).</desc>
+         </carload>
+         <imgref>..\images\bills\wcc064.jpg</imgref>
+      </bill>
+      <bill billid="065" kind="C0">
+         <carload>
+            <date>1931-10-30</date>
+            <car>PRR 516022</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Wheeling Steel Corp. Benwood Works</consignee>
+            <consLink>wheeling-steel.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>This shipment, &lt;a href="glossary.html"&gt;reconsigned&lt;\a&gt;
+                        before departure the previous day, was routed via the PRR's South Side
+                        junction (where the Mon Line branches off the main), through to the
+                        Panhandle down to Wheeling, WV, where it was finally interchanged to and
+                        delivered by the B&amp;amp;O.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc065.jpg</imgref>
+      </bill>
+      <bill billid="066" kind="C0">
+         <carload>
+            <date>1931-10-31</date>
+            <car>PRR 44216</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>North American Refractory Co.</consignee>
+            <consLink>north-am-refractory.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>A very spooky shipment.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc066.jpg</imgref>
+      </bill>
+      <bill billid="067" kind="C0">
+         <carload>
+            <date>1931-11-01</date>
+            <car>PRR 48408</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>General Refractories Co. Joliet</consignee>
+            <consLink>general-refractories.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Another shipment from the East Altoona scales, where in the absence of a
+                        typewriter, Weighmaster G. P. Towsey got to show off his impressive
+                        penmanship. Later bills for shipments to this plant specify a routing via
+                        Hobart, IL, and there transferred to the EJ&amp;amp;E. (Elgin, Joliet &amp;
+                        Eastern) for delivery.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc067.jpg</imgref>
+      </bill>
+      <bill billid="068" kind="C0">
+         <carload>
+            <date>1931-11-04</date>
+            <car>PRR 10487</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>North American Refractory Co.</consignee>
+            <consLink>north-am-refractory.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc068.jpg</imgref>
+      </bill>
+      <bill billid="069" kind="C0">
+         <carload>
+            <date>1931-11-21</date>
+            <car>PRR 45152</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Locke Insulator Co.</consignee>
+            <consLink>locke-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
+                        the Western Maryland.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc069.jpg</imgref>
+      </bill>
+      <bill billid="070" kind="C0">
+         <carload>
+            <date>1933-05-10</date>
+            <car>PRR 42181</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>North American Refractory Co.</consignee>
+            <consLink>north-am-refractory.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Oddly, as evidenced by two separate bills, two separate outbound cars from
+                        the Woodbury Clay Co. turned up to be weighed and forwarded at Altoona on
+                        the same day. One of them must have been held up in the yard. (Multiple cars
+                        traveling together are listed on a single bill)</desc>
+         </carload>
+         <imgref>..\images\bills\wcc070.jpg</imgref>
+      </bill>
+      <bill billid="071" kind="C0">
+         <carload>
+            <date>1933-05-10</date>
+            <car>PRR 33160</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Oddly, as evidenced by two separate bills, two separate outbound cars from
+                        the Woodbury Clay Co. turned up to be weighed and forwarded at Altoona on
+                        the same day. One of them must have been held up in the yard. (Multiple cars
+                        traveling together are listed on a single bill)</desc>
+         </carload>
+         <imgref>..\images\bills\wcc071.jpg</imgref>
+      </bill>
+      <bill billid="072" kind="C0">
+         <carload>
+            <date>1933-05-12</date>
+            <car>PRR 83595</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-05-12</date>
+            <car>PRR 539717</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc072.jpg</imgref>
+      </bill>
+      <bill billid="073" kind="C0">
+         <carload>
+            <date>1933-05-20</date>
+            <car>PRR 44437</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>General Refractories Co. Sproul</consignee>
+            <consLink>general-refractories.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc073.jpg</imgref>
+      </bill>
+      <bill billid="074" kind="C0">
+         <carload>
+            <date>1933-05-21</date>
+            <car>PRR 18078</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Mount Union</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc074.jpg</imgref>
+      </bill>
+      <bill billid="075" kind="C0">
+         <carload>
+            <date>1933-06-07</date>
+            <car>PRR 570699</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>The Pennsy's finest equipment showed up for this shipment: a pair of brand
+                        new, nearly sequential X29 boxcars out on one of their first journeys after
+                        delivery.</desc>
+         </carload>
+         <carload>
+            <date>1933-06-07</date>
+            <car>PRR 570697</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc075.jpg</imgref>
+      </bill>
+      <bill billid="076" kind="C0">
+         <carload>
+            <date>1933-06-11</date>
+            <car>PRR 536713</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Youngstown Sheet &amp; Tube Co. Campbell Works Converting Mills</consignee>
+            <consLink>youngstown-sheet-tube.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-06-11</date>
+            <car>PRR 32956</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Bethlehem Steel Co. Sparrows Point Plant</consignee>
+            <consLink>bethlehem-steel.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-06-11</date>
+            <car>PRR 510804</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc076.jpg</imgref>
+      </bill>
+      <bill billid="077" kind="C0">
+         <carload>
+            <date>1933-06-11</date>
+            <car>PRR 565142</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Locke Insulator Co.</consignee>
+            <consLink>locke-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
+                        the Western Maryland.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc077.jpg</imgref>
+      </bill>
+      <bill billid="078" kind="C0">
+         <carload>
+            <date>1933-06-23</date>
+            <car>PRR 11053</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Bowers Pottery Co.</consignee>
+            <consLink>bowers-pottery.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>This carload was sent down the Southwest Penna. branch to Everson
+                        (adjacent to Scottdale, 1945-p. 242), and there was transferred to the
+                        B&amp;amp;O for its journey down into West Virginia.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc078.jpg</imgref>
+      </bill>
+      <bill billid="079" kind="C0">
+         <carload>
+            <date>1933-06-23</date>
+            <car>PRR 501910</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-06-23</date>
+            <car>PRR 67292</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-06-23</date>
+            <car>PRR 515985</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-06-23</date>
+            <car>PRR 97013</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. East Chicago</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Delivered via the Indiana Harbor Belt from PRR interchange in East
+                        Chicago.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc079.jpg</imgref>
+      </bill>
+      <bill billid="080" kind="C0">
+         <carload>
+            <date>1933-06-25</date>
+            <car>PRR 211191</car>
+            <class>GLa/GLc</class>
+            <classLink>GLA.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>There must have been a momentary shortage of empty boxcars in the Altoona
+                        yard that day, as this is the only hopper sent to Oreminea for clay
+                        loading</desc>
+         </carload>
+         <carload>
+            <date>1933-06-25</date>
+            <car>PRR 15595</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-06-25</date>
+            <car>PRR 535481</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc080.jpg</imgref>
+      </bill>
+      <bill billid="081" kind="C0">
+         <carload>
+            <date>1933-07-14</date>
+            <car>PRR 20516</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Youngstown Sheet &amp; Tube Co. Campbell Works Converting Mills</consignee>
+            <consLink>youngstown-sheet-tube.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-07-14</date>
+            <car>PRR 559209</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-07-14</date>
+            <car>PRR 27530</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-07-14</date>
+            <car>PRR 503292</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>North American Refractory Co.</consignee>
+            <consLink>north-am-refractory.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc081.jpg</imgref>
+      </bill>
+      <bill billid="082" kind="C0">
+         <carload>
+            <date>1933-07-14</date>
+            <car>PRR 291852</car>
+            <class>GS/GSd</class>
+            <classLink>GS.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>A. M. Byers Co.</consignee>
+            <consLink>a-m-byers.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>An unusual shipment, pre-purchased and shipped by the A. M. Byers Co. from
+                        the Woodbury Clay Co. to its plant along the Ohio River. Equally unusual is
+                        that they ordered a gondola, instead of a boxcar, for loading.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc082.jpg</imgref>
+      </bill>
+      <bill billid="083" kind="C0">
+         <carload>
+            <date>1933-08-09</date>
+            <car>PRR 504669</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>General Refractories Co. Sproul</consignee>
+            <consLink>general-refractories.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-09</date>
+            <car>PRR 95816</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-09</date>
+            <car>PRR 501897</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-09</date>
+            <car>PRR 570819</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Ensley</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Routed via Potomac Yard, there interchanged to the Southern Rwy.
+                        Interchanged at Ensley, AL and delivered by Birmingham Southern RR. Potomac
+                        Yard was the major railyard connecting the North to the South in Washington
+                        D.C., where the PRR interchanged with the SOU via the RF&amp;amp;P, which
+                        operated the yard. It was ripped up in 1989 by the RF&amp;amp;P's successor,
+                        CSX, in an attempt to sell the land it occupied.</desc>
+         </carload>
+         <carload>
+            <date>1933-08-09</date>
+            <car>PRR 510684</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Carnegie-Illinois Steel Co. Mingo Works (Carnegie Steel)</consignee>
+            <consLink>carnegie-illinois.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-09</date>
+            <car>PRR 44344</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Carnegie-Illinois Steel Co. South Works (Illinois Steel)</consignee>
+            <consLink>carnegie-illinois.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc083.jpg</imgref>
+      </bill>
+      <bill billid="084" kind="C0">
+         <carload>
+            <date>1933-08-20</date>
+            <car>PRR 561365</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc084.jpg</imgref>
+      </bill>
+      <bill billid="085" kind="C0">
+         <carload>
+            <date>1933-08-22</date>
+            <car>PRR 55772</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Smith &amp; Stone, Ltd.</consignee>
+            <consLink>smith-stone.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Describe what all these prepaid bills and receipts are doing here.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc085.jpg</imgref>
+         <imgref>..\images\bills\wcc111.jpg</imgref>
+         <imgref>..\images\bills\wcc112.jpg</imgref>
+         <imgref>..\images\bills\wcc113.jpg</imgref>
+         <imgref>..\images\bills\wcc114.jpg</imgref>
+      </bill>
+      <bill billid="086" kind="C0">
+         <carload>
+            <date>1933-08-23</date>
+            <car>PRR 11707</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Mount Union</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-23</date>
+            <car>PRR 533553</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-23</date>
+            <car>PRR 26428</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc086.jpg</imgref>
+      </bill>
+      <bill billid="087" kind="C0">
+         <carload>
+            <date>1933-08-25</date>
+            <car>PRR 537785</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Locke Insulator Co.</consignee>
+            <consLink>locke-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
+                        the Western Maryland.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc087.jpg</imgref>
+      </bill>
+      <bill billid="088" kind="C0">
+         <carload>
+            <date>1933-08-25</date>
+            <car>PRR 537548</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-25</date>
+            <car>PRR 25269</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-25</date>
+            <car>PRR 16114</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Mount Union</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-25</date>
+            <car>PRR 67280</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>North American Refractory Co.</consignee>
+            <consLink>north-am-refractory.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc088.jpg</imgref>
+      </bill>
+      <bill billid="089" kind="C0">
+         <carload>
+            <date>1933-08-27</date>
+            <car>PRR 20857</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-27</date>
+            <car>PRR 12574</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-27</date>
+            <car>PRR 19672</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>McFeely Brick Co.</consignee>
+            <consLink>mcfeely-brick.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-08-27</date>
+            <car>PRR 516973</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>United Clay Mines Corp.</consignee>
+            <consLink>united-clay-mines.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>This carload of clay was not traveling to a refractory manufacturer--its
+                        destination was a chemical testing laboratory for the clay industry. One
+                        wonders what possible purpose they could have had for an entire car of
+                        clay.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc089.jpg</imgref>
+      </bill>
+      <bill billid="090" kind="C0">
+         <carload>
+            <date>1933-08-30</date>
+            <car>PRR 98396</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Bethlehem Steel Co. Sparrows Point Plant</consignee>
+            <consLink>bethlehem-steel.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc090.jpg</imgref>
+      </bill>
+      <bill billid="091" kind="C0">
+         <carload>
+            <date>1933-09-01</date>
+            <car>PRR 15642</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Taylor, Smith &amp; Taylor</consignee>
+            <consLink>taylor-smith-taylor.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc091.jpg</imgref>
+      </bill>
+      <bill billid="092" kind="C0">
+         <carload>
+            <date>1933-09-01</date>
+            <car>PRR 573086</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc092.jpg</imgref>
+      </bill>
+      <bill billid="093" kind="C0">
+         <carload>
+            <date>1933-09-03</date>
+            <car>PRR 534801</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc093.jpg</imgref>
+      </bill>
+      <bill billid="094" kind="C0">
+         <carload>
+            <date>1933-09-23</date>
+            <car>PRR 288628</car>
+            <class>GS/GSd</class>
+            <classLink>GS.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Carnegie-Illinois Steel Co. Mingo Works (Carnegie Steel)</consignee>
+            <consLink>carnegie-illinois.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-09-23</date>
+            <car>PRR 565313</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc094.jpg</imgref>
+      </bill>
+      <bill billid="095" kind="C0">
+         <carload>
+            <date>1933-09-27</date>
+            <car>PRR 52833</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc095.jpg</imgref>
+      </bill>
+      <bill billid="096" kind="C0">
+         <carload>
+            <date>1933-09-28</date>
+            <car>PRR 562955</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc096.jpg</imgref>
+      </bill>
+      <bill billid="097" kind="C0">
+         <carload>
+            <date>1933-10-15</date>
+            <car>PRR 10536</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Youngstown Sheet &amp; Tube Co. Campbell Works Converting Mills</consignee>
+            <consLink>youngstown-sheet-tube.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-10-15</date>
+            <car>PRR 21143</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Bethlehem Steel Co. Sparrows Point Plant</consignee>
+            <consLink>bethlehem-steel.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-10-15</date>
+            <car>PRR 701530</car>
+            <class>GLa/GLc</class>
+            <classLink>GLA.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Carnegie-Illinois Steel Co. Edgar Thompson Works (Carnegie Steel)</consignee>
+            <consLink>carnegie-illinois.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc097.jpg</imgref>
+      </bill>
+      <bill billid="098" kind="C0">
+         <carload>
+            <date>1933-10-20</date>
+            <car>PRR 50532</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Carnegie-Illinois Steel Co. Mingo Works (Carnegie Steel)</consignee>
+            <consLink>carnegie-illinois.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-10-20</date>
+            <car>PRR 558662</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>National Tube Co. Lorain Works</consignee>
+            <consLink>national-tube.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Interchanged to the NYC&amp;amp;St.L (New York, Chicago &amp; St. Louis
+                        RR, aka the Nickel Plate Road) at Cleveland, through to destination.</desc>
+         </carload>
+         <carload>
+            <date>1933-10-20</date>
+            <car>PRR 13112</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-10-20</date>
+            <car>PRR 42660</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc098.jpg</imgref>
+      </bill>
+      <bill billid="099" kind="C0">
+         <carload>
+            <date>1933-11-01</date>
+            <car>PRR 38921</car>
+            <class>X26</class>
+            <classLink>X26.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-11-01</date>
+            <car>PRR 13592</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Mount Union</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-11-01</date>
+            <car>PRR 75928</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>General Refractories Co. Joliet</consignee>
+            <consLink>general-refractories.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-11-01</date>
+            <car>PRR 539883</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc099.jpg</imgref>
+      </bill>
+      <bill billid="100" kind="C0">
+         <carload>
+            <date>1933-11-01</date>
+            <car>PRR 532602</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Bowers Pottery Co.</consignee>
+            <consLink>bowers-pottery.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>This carload was sent down the Southwest Penna. branch to Everson
+                        (adjacent to Scottdale, 1945-p. 242), and there was transferred to the
+                        B&amp;amp;O for its journey down into West Virginia.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc100.jpg</imgref>
+      </bill>
+      <bill billid="101" kind="C0">
+         <carload>
+            <date>1933-11-17</date>
+            <car>PRR 558923</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-11-17</date>
+            <car>PRR 13029</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc101.jpg</imgref>
+      </bill>
+      <bill billid="102" kind="C0">
+         <carload>
+            <date>1933-11-17</date>
+            <car>PRR 26739</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>McFeely Brick Co.</consignee>
+            <consLink>mcfeely-brick.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>It seems likely that this bill is incorrect, and was actually a shipment
+                        from Thomas Sant &amp; Sons. There are two separate bills from this date,
+                        each for two cars. While both listed as being shipped by the Woodbury Clay
+                        Co., two separate shipments on the same day is unusual, and all other
+                        shipments to either McFeely or Locke Insulator have been from Sant so
+                        far.</desc>
+         </carload>
+         <carload>
+            <date>1933-11-17</date>
+            <car>PRR 20622</car>
+            <class/>
+            <classLink>.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Locke Insulator Co.</consignee>
+            <consLink>locke-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc102.jpg</imgref>
+      </bill>
+      <bill billid="103" kind="C0">
+         <carload>
+            <date>1933-11-19</date>
+            <car>PRR 296606</car>
+            <class>GS/GSd</class>
+            <classLink>GS.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Carnegie-Illinois Steel Co. Mingo Works (Carnegie Steel)</consignee>
+            <consLink>carnegie-illinois.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc103.jpg</imgref>
+      </bill>
+      <bill billid="104" kind="C0">
+         <carload>
+            <date>1933-11-19</date>
+            <car>PRR 40151</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. No. 8 Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-11-19</date>
+            <car>PRR 534428</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Barrett Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1933-11-19</date>
+            <car>PRR 22661</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc104.jpg</imgref>
+      </bill>
+      <bill billid="105" kind="C0">
+         <carload>
+            <date>1933-11-19</date>
+            <car>PRR 48168</car>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Taylor, Smith &amp; Taylor</consignee>
+            <consLink>taylor-smith-taylor.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc105.jpg</imgref>
+      </bill>
+      <bill billid="106" kind="C0">
+         <carload>
+            <date>1937-10-08</date>
+            <car>PRR 569348</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Victor Insulators, Inc.</consignee>
+            <consLink>victor-insulator.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Shipped up the PRR through Williamsport, Elmira, and on up the Elmira
+                        Branch to Canandaigua, NY, there &lt;a
+                        href="https://www.flickr.com/photos/ssave/8695031333"
+                        target="_blank"&gt;interchanged to NYC&lt;/a&gt; for the last nine miles of
+                        its journey.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc106.jpg</imgref>
+      </bill>
+      <bill billid="107" kind="C0">
+         <carload>
+            <date>1937-10-08</date>
+            <car>PRR 122498</car>
+            <class>X28a</class>
+            <classLink>X28A.html</classLink>
+            <shipper>Peter S. Duncan</shipper>
+            <shipLink>peter-s-duncan.html</shipLink>
+            <consignee>National Tube Co. Lorain Works</consignee>
+            <consLink>national-tube.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>enter description here</desc>
+         </carload>
+         <carload>
+            <date>1937-10-08</date>
+            <car>PRR 101695</car>
+            <class>X28a</class>
+            <classLink>X28A.html</classLink>
+            <shipper>Peter S. Duncan</shipper>
+            <shipLink>peter-s-duncan.html</shipLink>
+            <consignee>National Tube Co. Lorain Works</consignee>
+            <consLink>national-tube.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>enter description here</desc>
+         </carload>
+         <imgref>..\images\bills\wcc107.jpg</imgref>
+      </bill>
+      <bill billid="108" kind="C0">
+         <carload>
+            <date>1937-10-08</date>
+            <car>PRR 749813</car>
+            <class>GLa/GLc</class>
+            <classLink>GLA.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Carnegie-Illinois Steel Co. Edgar Thompson Works (Carnegie Steel)</consignee>
+            <consLink>carnegie-illinois.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1937-10-08</date>
+            <car>PRR 93603</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Mount Union</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1937-10-08</date>
+            <car>PRR 103042</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <carload>
+            <date>1937-10-08</date>
+            <car>PRR 103124</car>
+            <class>X29</class>
+            <classLink>X29.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Harbison-Walker Refractory Co. Retort Works</consignee>
+            <consLink>harbison-walker.html</consLink>
+            <freight>Fireclay</freight>
+            <desc/>
+         </carload>
+         <imgref>..\images\bills\wcc108.jpg</imgref>
+      </bill>
+      <bill billid="109" kind="C0">
+         <carload>
+            <date>1933-04-28</date>
+            <car>PRR 510737</car>
+            <class>X23</class>
+            <classLink>X23.html</classLink>
+            <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
+            <shipLink>thomas-sant.html</shipLink>
+            <consignee>Smith &amp; Stone, Ltd.</consignee>
+            <consLink>smith-stone.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>An export load to Canada. Describe why on the Forms page.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc109.jpg</imgref>
+         <imgref>..\images\bills\wcc110.jpg</imgref>
+      </bill>
+      <bill billid="115" kind="C0">
+         <carload>
+            <date>1930-11-11</date>
+            <car>PRR 33439</car>
+            <class>X25</class>
+            <classLink>X25.html</classLink>
+            <shipper>Woodbury Clay Co.</shipper>
+            <shipLink>woodbury-clay.html</shipLink>
+            <consignee>Woodbury Clay Co.</consignee>
+            <consLink>woodbury-clay.html</consLink>
+            <freight>Fireclay</freight>
+            <desc>Unique among the collection, this is a freight bill for a
+                        &lt;b&gt;diverted carload&lt;/b&gt;—a shipment that made it as far as
+                        Altoona before being cancelled and sent back to Oreminea. The bill provides
+                        an advance (credit) to the Woodbury Clay Co.'s account, to offset the
+                        initial charge from when the car was shipped out. This car was originally
+                        bound for the &lt;a href="/companies/taylor-smith-taylor.html"&gt;Taylor, Smith &amp; Taylor
+                        Co.&lt;/a&gt; in Chester, WV. Unfortunately, its original waybill did not
+                        survive alongside this one.</desc>
+         </carload>
+         <imgref>..\images\bills\wcc115.jpg</imgref>
+      </bill>
+   </bills>
+</xml>

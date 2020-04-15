@@ -50,8 +50,8 @@
                   <td>
                     <a>
                       <xsl:attribute name="href">
-                        <xsl:text>./carclasstable/detail_</xsl:text>
-                        <xsl:value-of select="@classid"/>
+                        <xsl:text>./freightcars/</xsl:text>
+                        <xsl:value-of select="pagename"/>
                         <xsl:text>.html</xsl:text>
                       </xsl:attribute>
                       <xsl:value-of select="classname"/>

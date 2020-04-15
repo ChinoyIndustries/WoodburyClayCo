@@ -3,13 +3,15 @@ xml = element xml { bills?, companies?, freightcars? }
 #
 #     CARLOADTABLE
 bills = element bills { bill+ }
-bill = element bill { date, imgref+, carload+, billid, kind, ref* }
+bill = element bill { date, imgrefs, carloads, billid, kind, ref* }
 date = element date { xsd:date }
+imgrefs = element imgrefs { imgref+ }
 imgref = element imgref { xsd:anyURI, alt? }
 alt = attribute alt { text }
 billid = attribute billid { xsd:int }
 kind = attribute kind { "C0" | "C1" | "C2" }
 # C0 is outbound carload/customer, C1 is inbound carload/supplier, C2 is shipper in Oreminea
+carloads = element carloads { carload+ }
 carload =
     element carload { carloadid, classid, shipperid, consigneeid, road, carnum, lading, desc }
 carloadid = attribute carloadid { xsd:int }
@@ -43,6 +45,6 @@ ref = element ref { xsd:anyURI }
 #
 #     CARCLASSTABLE
 freightcars = element freightcars { class+ }
-class = element class { road, cartype, classname, classid, desc, imgref+, reflist? }
+class = element class { road, cartype, classname, pagename, classid, desc, imgref+, reflist? }
 classname = element classname { text }
 cartype = element cartype {( "Boxcar" | "Hopper" | "Gondola" | "Flatcar")} 

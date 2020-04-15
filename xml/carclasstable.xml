@@ -6,6 +6,7 @@
             <road>PRR</road>
             <cartype>Flatcar</cartype>
             <classname>F30</classname>
+            <pagename>F30</pagename>
             <desc>&lt;a href=&quot;http://prr.railfan.net/freight/classpage.html?class=F30&quot;
                 target=&quot;_blank&quot;&gt; View this class of car on prr.railfan.com&lt;/a&gt;
                 for technical information and diagrams.</desc>
@@ -15,6 +16,7 @@
             <road>PRR</road>
             <cartype>Hopper</cartype>
             <classname>GLa/GLc</classname>
+            <pagename>GLA</pagename>
             <desc>&lt;a href=&quot;http://prr.railfan.net/freight/classpage.html?class=GLA&quot;
                 target=&quot;_blank&quot;&gt; View this class of car on prr.railfan.com&lt;/a&gt;
                 for technical information and diagrams.</desc>
@@ -25,6 +27,7 @@
             <road>PRR</road>
             <cartype>Gondola</cartype>
             <classname>GS/GSd</classname>
+            <pagename>GS</pagename>
             <desc>&lt;a href=&quot;http://prr.railfan.net/freight/classpage.html?class=GS&quot;
                 target=&quot;_blank&quot;&gt; View this class of car on prr.railfan.com&lt;/a&gt;
                 for technical information and diagrams.</desc>
@@ -37,6 +40,7 @@
             <road>PRR</road>
             <cartype>Boxcar</cartype>
             <classname>XL</classname>
+            <pagename>XL</pagename>
             <desc>&lt;a href=&quot;http://prr.railfan.net/freight/classpage.html?class=XL&quot;
                 target=&quot;_blank&quot;&gt; View this class of car on prr.railfan.com&lt;/a&gt;
                 for technical information and diagrams.</desc>
@@ -46,6 +50,7 @@
             <road>PRR</road>
             <cartype>Boxcar</cartype>
             <classname>X23</classname>
+            <pagename>X23</pagename>
             <desc>&lt;a href=&quot;http://prr.railfan.net/freight/classpage.html?class=X23&quot;
                 target=&quot;_blank&quot;&gt; View this class of car on prr.railfan.com&lt;/a&gt;
                 for technical information and diagrams.</desc>
@@ -55,6 +60,7 @@
             <road>PRR</road>
             <cartype>Boxcar</cartype>
             <classname>X25</classname>
+            <pagename>X25</pagename>
             <desc>&lt;a href=&quot;http://prr.railfan.net/freight/classpage.html?class=X25&quot;
                 target=&quot;_blank&quot;&gt; View this class of car on prr.railfan.com&lt;/a&gt;
                 for technical information and diagrams.</desc>
@@ -64,6 +70,7 @@
             <road>PRR</road>
             <cartype>Boxcar</cartype>
             <classname>X26</classname>
+            <pagename>X26</pagename>
             <desc>&lt;a href=&quot;http://prr.railfan.net/freight/classpage.html?class=X26&quot;
                 target=&quot;_blank&quot;&gt; View this class of car on prr.railfan.com&lt;/a&gt;
                 for technical information and diagrams.</desc>
@@ -74,6 +81,7 @@
             <road>PRR</road>
             <cartype>Boxcar</cartype>
             <classname>X28a</classname>
+            <pagename>X28A</pagename>
             <desc>The PRR X28a was the result of a rebuilding program, conducted by the PRR in its
                 own Altoona shops between July 1933 and July 1935, to convert its X28 class of
                 double-door automobile boxcars into standard single-door cars. Thousands of new
@@ -91,6 +99,7 @@
             <road>PRR</road>
             <cartype>Boxcar</cartype>
             <classname>X29</classname>
+            <pagename>X29</pagename>
             <desc>&lt;a href=&quot;http://prr.railfan.net/freight/classpage.html?class=X29&quot;
                 target=&quot;_blank&quot;&gt; View this class of car on prr.railfan.com&lt;/a&gt;
                 for technical information and diagrams.</desc>
@@ -100,6 +109,7 @@
             <road>B&amp;O</road>
             <cartype>Boxcar</cartype>
             <classname>M-15a</classname>
+            <pagename>BO-M15A</pagename>
             <desc>The M-15, a steel-framed, double-sheathed 40' car, was by far the most numerous
                 class of boxcar on the Baltimore &amp; Ohio throughout the 1920s and 30s, with over
                 11,000 cars among seven subclasses. The M-15a series, 193000-196505 comprised the
@@ -117,6 +127,7 @@
             <road>B&amp;O</road>
             <cartype>Boxcar</cartype>
             <classname>M-26d</classname>
+            <pagename>BO-M26D</pagename>
             <desc>The M-26 classes were B&amp;O's answer to the PRR X29 boxcars, largely identical
                 40' steel boxcars built between 1928 and 1935. The M-26d subclass were the first, in
                 1928-30. Etc. Etc.</desc>
@@ -128,7 +139,8 @@
         <class classid="12">
             <road>NH</road>
             <cartype>Boxcar</cartype>
-            <classname>none (XM)</classname>
+            <classname>165500-series</classname>
+            <pagename>NH-box</pagename>
             <desc>NH 165771. NH cars in this series were 36' double-sheathed steel-frame boxcars. In
                 1926-7, the New Haven (New York, New Haven &amp; Hartford RR) this number is out of
                 series what's wrong here fix this.</desc>
@@ -142,6 +154,7 @@
             <road>B&amp;M</road>
             <cartype>Boxcar</cartype>
             <classname>XM-1</classname>
+            <pagename>BM-XM1</pagename>
             <desc>Single-sheathed 40' boxcar.</desc>
             <imgref alt="BM XM-1 Boxcar">..\images\classpages\BM-XM1.jpg</imgref>
             <reflist>
@@ -152,7 +165,8 @@
         <class classid="14">
             <road>CNJ</road>
             <cartype>Boxcar</cartype>
-            <classname>XM</classname>
+            <classname>17000-series</classname>
+            <pagename>CNJ-box</pagename>
             <desc>The Central RR of New Jersey's 17000-series boxcars were 40' single-sheathed,
                 steel frame cars, built by AC&amp;F in 1916.</desc>
             <imgref alt="CNJ 17000-series Boxcar">..\images\classpages\CNJ17000.jpg</imgref>
@@ -164,6 +178,7 @@
             <road>SAL</road>
             <cartype>Boxcar</cartype>
             <classname>B-6</classname>
+            <pagename>SAL-B6</pagename>
             <desc>Built from April of 1937, the Seaboard Air Line's 18000-series B-6 boxcars were
                 brand-new when one arrived at Oreminea with one of the final shipments featured
                 here. Seaboard's B-6 boxcars were 1932 A.R.A. design steel cars, one of the first
