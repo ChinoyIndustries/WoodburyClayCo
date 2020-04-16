@@ -21,7 +21,8 @@
             all-steel equipment designs rapidly proliferated, becoming more popular and, for the
             first time more standardized in the years that would lead up to WWII. Our snapshot of
             cars that served one particular company illustrates the variety of the PRR's
-            transitional boxcar designs of this era, etc etc etc. write more garbage here later.</p>
+            transitional boxcar designs of this era, etc etc etc.</p>
+          <p>Write more garbage here later.</p>
           <form>
             <input type="radio" value="all" name="railroad" id="railroadAll" checked="checked"/> <label for="railroadAll">View All</label>
             <input type="radio" value="PRR" name="railroad" id="railroadPRR"/> <label for="railroadPRR">View PRR Cars</label>
@@ -61,7 +62,7 @@
                     <xsl:value-of select="cartype"/>
                   </td>
                   <td>
-                    [n]
+                    <xsl:value-of select="shipcount"/>
                   </td>
                 </tr>
               </xsl:for-each>

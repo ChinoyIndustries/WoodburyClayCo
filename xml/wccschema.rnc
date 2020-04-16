@@ -5,7 +5,7 @@ xml = element xml { bills?, companies?, freightcars? }
 bills = element bills { bill+ }
 bill = element bill { date, imgrefs, carloads, billid, kind, ref* }
 date = element date { xsd:date }
-imgrefs = element imgrefs { imgref+ }
+imgrefs = element imgrefs { imgref* }
 imgref = element imgref { xsd:anyURI, alt? }
 alt = attribute alt { text }
 billid = attribute billid { xsd:int }
@@ -26,12 +26,13 @@ a = element a { xsd:anyURI }
 #
 #     COMPANYTABLE
 companies = element companies { company+ }
-company = element company { name, pagename, kind, industry, desc?, plant+, reflist? }
+company = element company { name, pagename, kind, industry, desc?, plants, reflist }
 pagename = element pagename { text }
 name = element name { text }
 industry = element industry
  { "Clay Mining" | "Coal Mining" | "Steel Mill" | "Refractory Brick" | "Machinery/Railroad Equipment" | "Tools/Industrial Supply" | "Wholesale Grocery/Dry Goods" | "Explosives" | "Pottery and Ceramics" | "Porcelain Insulators" | "Unknown" } 
-plant = element plant { plantid, plantname, city, ct1000-98?, ct1000-45?, geotag, desc}
+plants = element plants { plant+ }
+plant = element plant { plantid, plantname, city, ct1000-98?, ct1000-45?, geotag, desc, shipcount }
 plantid = attribute plantid { xsd:int }
 plantname = element plantname { text }
 city = element city { text }
@@ -40,11 +41,12 @@ ct1000-45 = element ct1000-45 { text }
 geotag = element geotag { lat, long, empty }
 lat = attribute lat { xsd:float }
 long = attribute long { xsd:float }
-reflist = element reflist { ref+ }
+shipcount = element shipcount { xsd:int }
+reflist = element reflist { ref* }
 ref = element ref { xsd:anyURI }
 #
 #     CARCLASSTABLE
 freightcars = element freightcars { class+ }
-class = element class { road, cartype, classname, pagename, classid, desc, imgref+, reflist? }
+class = element class { road, cartype, classname, pagename, classid, desc, shipcount, imgrefs, reflist? }
 classname = element classname { text }
 cartype = element cartype {( "Boxcar" | "Hopper" | "Gondola" | "Flatcar")} 

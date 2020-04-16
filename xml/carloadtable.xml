@@ -1657,7 +1657,7 @@
                         shipments to either McFeely or Locke Insulator have been from Sant so
                         far.</desc>
                 </carload>
-                <carload classid="130" carloadid="04" shipperid="01" consigneeid="41">
+                <carload carloadid="130" classid="04" shipperid="01" consigneeid="41">
                     <road>PRR</road>
                     <carnum>20622</carnum>
                     <lading>Fireclay</lading>

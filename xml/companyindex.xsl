@@ -24,42 +24,44 @@
               <tr>
                 <th>Industry</th>
                 <th>Company</th>
-                <th>Plant</th>
                 <th>Location</th>
                 <th>No. of Shipments To/From</th>
               </tr>
             </thead>
             <tbody>
-              <xsl:for-each select="//companies/company/plant">
-                <xsl:sort select="parent::company/name"/>
+              <xsl:for-each select="//companies/company/plants/plant">
+                <xsl:sort select="parent::plants/parent::company/name"/>
                 <xsl:sort select="plantname"/>
-                <tr>
+                <xsl:if test="@plantid != '00'">
+                  <tr>
                   <xsl:attribute name="class">
-                    <xsl:value-of select="parent::company/@kind"/>
+                    <xsl:value-of select="parent::plants/parent::company/@kind"/>
                   </xsl:attribute>
                   <td>
-                    <xsl:value-of select="parent::company/industry"/>
+                    <xsl:value-of select="parent::plants/parent::company/industry"/>
                   </td>
                   <td>
                     <a>
                       <xsl:attribute name="href">
                         <xsl:text>./companies/</xsl:text>
-                        <xsl:value-of select="parent::company/pagename"/>
+                        <xsl:value-of select="parent::plants/parent::company/pagename"/>
                         <xsl:text>.html</xsl:text>
                       </xsl:attribute>
-                      <xsl:value-of select="parent::company/name"/>
+                      <xsl:value-of select="parent::plants/parent::company/name"/>
                     </a>
-                  </td>
-                  <td>
-                    <xsl:value-of select="plantname"/>
+                    <xsl:if test="plantname != ''">
+                      <xsl:text>, </xsl:text>
+                      <xsl:value-of select="plantname"/>
+                    </xsl:if>
                   </td>
                   <td>
                     <xsl:value-of select="city"/>
                   </td>
                   <td>
-                    [n]
+                    <xsl:value-of select="shipcount"/>
                   </td>
                 </tr>
+              </xsl:if>
               </xsl:for-each>
             </tbody>
           </table>

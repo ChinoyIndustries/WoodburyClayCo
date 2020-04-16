@@ -19,7 +19,7 @@
               <p>
                 <xsl:value-of select="desc"/>
               </p>
-              <xsl:for-each select="./plant">
+              <xsl:for-each select="./plants/plant">
                 <hr/>
                 <h2>
                   <xsl:value-of select="plantname"/>
@@ -28,6 +28,15 @@
                   <i>
                     <xsl:value-of select="city"/>
                   </i>
+                </h3>
+                <h3>
+                  <xsl:value-of select="shipcount"/>
+                  <xsl:if test="shipcount > 1">
+                    <xsl:text> Shipments</xsl:text>
+                  </xsl:if>
+                  <xsl:if test="shipcount = 1">
+                    <xsl:text> Shipment</xsl:text>
+                  </xsl:if>
                 </h3>
                 <p>
                   <xsl:value-of select="desc"/>
@@ -39,7 +48,7 @@
                 <i>(Raw URL's, because spoiler alert: I haven't decided how to display these
                   yet! Holy crap, this is a CSS failure. Please fix this immediately.)</i>
               </p>
-              <xsl:if test="reflist != ''">
+              <xsl:if test="count(reflist/ref) > 0">
                 <ol>
                   <xsl:for-each select="./reflist/ref">
                     <li>

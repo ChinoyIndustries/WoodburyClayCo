@@ -13,46 +13,35 @@
           <body>
             <xsl:comment>#include virtual="/header.shtml"</xsl:comment>
             <div id="content">
-              <h1>Class Detail</h1>
-              <table class="center">
-                <thead>
-                  <tr>
-                    <th>Railroad</th>
-                    <th>Class</th>
-                    <th>Type</th>
-                    <th>Description</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>
-                      <xsl:value-of select="road"/>
-                    </td>
-                    <td>
-                      <xsl:value-of select="classname"/>
-                    </td>
-                    <td>
-                      <xsl:value-of select="cartype"/>
-                    </td>
-                    <td>
-                      <xsl:value-of select="desc" disable-output-escaping="yes"/>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-
-              <xsl:if test="imgref != ''">
-                <img width="1000" class="billimg">
+              <h1><xsl:value-of select="road"/>
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="classname"/>
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="cartype"/>
+              </h1>
+              <h2><xsl:value-of select="shipcount"/>
+                <xsl:if test="shipcount > 1">
+                  <xsl:text> Cars</xsl:text>
+                </xsl:if>
+                <xsl:if test="shipcount = 1">
+                  <xsl:text> Car</xsl:text>
+                </xsl:if>
+              </h2>
+              <p><xsl:value-of select="desc" disable-output-escaping="yes"/></p>
+              <xsl:if test="count(imgrefs/imgref) > 0">
+                <xsl:for-each select="imgrefs/imgref">
+                  <img width="1000" class="billimg">
                   <xsl:attribute name="src">
-                    <xsl:value-of select="imgref"/>
+                    <xsl:value-of select="self::imgref"/>
                   </xsl:attribute>
                   <xsl:attribute name="alt">
-                    <xsl:value-of select="imgref/@alt"/>
+                    <xsl:value-of select="self::imgref/@alt"/>
                   </xsl:attribute>
                   <xsl:attribute name="title">
-                    <xsl:value-of select="imgref/@alt"/>
+                    <xsl:value-of select="self::imgref/@alt"/>
                   </xsl:attribute>
-                </img>
+                  </img>
+                </xsl:for-each>
               </xsl:if>
             </div>
             <xsl:comment>#include virtual="/footer.shtml"</xsl:comment>

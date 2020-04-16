@@ -1972,8 +1972,8 @@
          <carload>
             <date>1933-11-17</date>
             <car>PRR 20622</car>
-            <class/>
-            <classLink>.html</classLink>
+            <class>XL</class>
+            <classLink>XL.html</classLink>
             <shipper>Thomas H. Sant &amp; Sons Co.</shipper>
             <shipLink>thomas-sant.html</shipLink>
             <consignee>Locke Insulator Co.</consignee>
