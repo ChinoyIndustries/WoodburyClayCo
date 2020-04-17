@@ -269,7 +269,7 @@
          </carload>
          <imgref>..\images\bills\wcc021.jpg</imgref>
          <imgref>..\images\bills\wcc022.jpg</imgref>
-         <imgref>..\images\bills\wcc022.jpg</imgref>
+         <imgref>..\images\bills\wcc023.jpg</imgref>
       </bill>
       <bill billid="024" kind="C1">
          <carload>
@@ -482,7 +482,7 @@
       </bill>
       <bill billid="039" kind="C1">
          <carload>
-            <date>1937-09-07</date>
+            <date>1937-09-30</date>
             <car>PRR 50951</car>
             <class>X29</class>
             <classLink>X29.html</classLink>

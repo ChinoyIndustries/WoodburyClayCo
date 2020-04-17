@@ -17,7 +17,7 @@
                 <xsl:value-of select="name"/>
               </h1>
               <p>
-                <xsl:value-of select="desc"/>
+                <xsl:value-of select="desc" disable-output-escaping="yes"/>
               </p>
               <xsl:for-each select="./plants/plant">
                 <hr/>
@@ -39,7 +39,7 @@
                   </xsl:if>
                 </h3>
                 <p>
-                  <xsl:value-of select="desc"/>
+                  <xsl:value-of select="desc" disable-output-escaping="yes"/>
                 </p>
               </xsl:for-each>
               <hr/>

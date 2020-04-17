@@ -249,7 +249,7 @@
             <imgrefs>
                 <imgref>..\images\bills\wcc021.jpg</imgref>
                 <imgref>..\images\bills\wcc022.jpg</imgref>
-                <imgref>..\images\bills\wcc022.jpg</imgref>
+                <imgref>..\images\bills\wcc023.jpg</imgref>
             </imgrefs>
             <carloads>
                 <carload carloadid="014" classid="09" shipperid="12" consigneeid="00">
@@ -462,7 +462,7 @@
             </carloads>
         </bill>
         <bill billid="039" kind="C1">
-            <date>1937-09-07</date>
+            <date>1937-09-30</date>
             <imgrefs>
                 <imgref>..\images\bills\wcc039.jpg</imgref>
             </imgrefs>

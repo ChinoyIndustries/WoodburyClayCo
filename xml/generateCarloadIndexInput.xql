@@ -21,10 +21,10 @@ xquery version "3.1";
                 <car>{normalize-space(concat($carload/road/text(),' ',$carload/carnum/text()))}</car>
                 <class>{$class/classname/text()}</class>
                 <classLink>{concat($class/pagename,'.html')}</classLink>
-                <shipper>{normalize-space(concat($shipper/parent::company/name/text(),' ',$shipper/plantname/text()))}</shipper>
-                <shipLink>{concat($shipper/parent::company/pagename,'.html')}</shipLink>
-                <consignee>{normalize-space(concat($consignee/parent::company/name/text(),' ',$consignee/plantname/text()))}</consignee>
-                <consLink>{concat($consignee/parent::company/pagename,'.html')}</consLink>
+                <shipper>{normalize-space(concat($shipper/parent::plants/parent::company/name/text(),' ',$shipper/plantname/text()))}</shipper>
+                <shipLink>{concat($shipper/parent::plants/parent::company/pagename,'.html')}</shipLink>
+                <consignee>{normalize-space(concat($consignee/parent::plants/parent::company/name/text(),' ',$consignee/plantname/text()))}</consignee>
+                <consLink>{concat($consignee/parent::plants/parent::company/pagename,'.html')}</consLink>
                 <freight>{$carload/lading/text()}</freight>
                 <desc>{$carload/desc/text()}</desc>
             </carload>

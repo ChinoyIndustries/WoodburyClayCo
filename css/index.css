@@ -65,3 +65,7 @@ td {
 label {
     cursor: pointer;
 }
+.banner {
+  width: 100%;
+  height: auto;
+}

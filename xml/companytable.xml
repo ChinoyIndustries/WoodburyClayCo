@@ -123,18 +123,21 @@
                <city>Altoona, PA</city>
                <ct1000-98/>
                <ct1000-45/>
-               <geotag lat="40.991516" long="-82.668826"/>
+               <geotag lat="40.517909" long="-78.396745"/>
                <desc>Lippincott &amp; Co. was a wholesale grocer based in Philadelphia, with a
-                        secondary location in Altoona. Along with &lt;a
-                        href="/404.html"&gt;Comly-Flanigan &amp; Co.&lt;/a&gt;, it was one
+                        branch in Altoona located at 800 11th Ave. Along with &lt;a
+                        href="/companies/comly-flanigan.html"&gt;Comly-Flanigan &amp; Co.&lt;/a&gt;, it was one
                         of a number of wholesale grocery concerns owned or operated by Jesse H.
                         Lippincott, one of the 19th-century 'robber barons' involved with the South
                         Fork Fishing and Hunting Club, notorious for its role in causing the
-                        Johnstown Flood.</desc>
+                        Johnstown Flood. 800 11th Ave., and in fact 11th Ave. itself north of 12th St., no longer exist. This section of Altoona was ripped up in the 1960s to construct the 8th St. bridge and 10th Ave. Expressway.</desc>
                <shipcount>1</shipcount>
             </plant>
          </plants>
-         <reflist/>
+         <reflist>
+            <ref>http://data.cei.psu.edu/pennpilot/era1940/blair_1939/blair_1939_photos_jpg_200/blair_121638_aqh_90_79.jpg</ref>
+            <ref>Altoona City Directory, 1919</ref>
+         </reflist>
       </company>
       <company kind="C1">
          <name>Reeves, Parvin &amp; Co.</name>
