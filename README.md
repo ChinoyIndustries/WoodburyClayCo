@@ -45,6 +45,7 @@ So you can see what all is going on around here in the absence of project partne
   - ~~Fix SSI header, make SSI footer (credit and license)~~
   - Shrink bill images so they load faster (imagemagick)
   - Pick a better font, seriously
+  - Fix CSS abominations
   
 - Future Development Ideas
   - Model This Industry
