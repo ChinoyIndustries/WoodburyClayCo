@@ -19,6 +19,8 @@
                         in!</desc>
          </carload>
          <imgref>..\images\bills\wcc001.jpg</imgref>
+         <linkprevious/>
+         <linknext>bill_002.html</linknext>
       </bill>
       <bill billid="002" kind="C1">
          <carload>
@@ -41,6 +43,8 @@
                         University Library's Special Collections.</desc>
          </carload>
          <imgref>..\images\bills\wcc002.jpg</imgref>
+         <linkprevious>bill_001.html</linkprevious>
+         <linknext>bill_003.html</linknext>
       </bill>
       <bill billid="003" kind="C1">
          <carload>
@@ -58,6 +62,8 @@
             <desc>An order of foodstuffs from a grocer in Philadelphia.</desc>
          </carload>
          <imgref>..\images\bills\wcc003.jpg</imgref>
+         <linkprevious>bill_002.html</linkprevious>
+         <linknext>bill_004.html</linknext>
       </bill>
       <bill billid="004" kind="C1">
          <carload>
@@ -76,6 +82,8 @@
                         explode. CITE THIS WITH SOMETHING!</desc>
          </carload>
          <imgref>..\images\bills\wcc004.jpg</imgref>
+         <linkprevious>bill_003.html</linkprevious>
+         <linknext>bill_005.html</linknext>
       </bill>
       <bill billid="005" kind="C1">
          <carload>
@@ -95,6 +103,8 @@
          </carload>
          <imgref>..\images\bills\wcc005.jpg</imgref>
          <imgref>..\images\bills\wcc006.jpg</imgref>
+         <linkprevious>bill_004.html</linkprevious>
+         <linknext>bill_007.html</linknext>
       </bill>
       <bill billid="007" kind="C1">
          <carload>
@@ -113,6 +123,8 @@
          </carload>
          <imgref>..\images\bills\wcc007.jpg</imgref>
          <imgref>..\images\bills\wcc008.jpg</imgref>
+         <linkprevious>bill_005.html</linkprevious>
+         <linknext>bill_009.html</linknext>
       </bill>
       <bill billid="009" kind="C1">
          <carload>
@@ -131,6 +143,8 @@
          </carload>
          <imgref>..\images\bills\wcc009.jpg</imgref>
          <imgref>..\images\bills\wcc010.jpg</imgref>
+         <linkprevious>bill_007.html</linkprevious>
+         <linknext>bill_011.html</linknext>
       </bill>
       <bill billid="011" kind="C1">
          <carload>
@@ -156,6 +170,8 @@
          </carload>
          <imgref>..\images\bills\wcc011.jpg</imgref>
          <imgref>..\images\bills\wcc012.jpg</imgref>
+         <linkprevious>bill_009.html</linkprevious>
+         <linknext>bill_013.html</linknext>
       </bill>
       <bill billid="013" kind="C1">
          <carload>
@@ -171,6 +187,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc013.jpg</imgref>
+         <linkprevious>bill_011.html</linkprevious>
+         <linknext>bill_014.html</linknext>
       </bill>
       <bill billid="014" kind="C1">
          <carload>
@@ -187,6 +205,8 @@
          </carload>
          <imgref>..\images\bills\wcc014.jpg</imgref>
          <imgref>..\images\bills\wcc015.jpg</imgref>
+         <linkprevious>bill_013.html</linkprevious>
+         <linknext>bill_016.html</linknext>
       </bill>
       <bill billid="016" kind="C1">
          <carload>
@@ -209,6 +229,8 @@
          <imgref>..\images\bills\wcc016.jpg</imgref>
          <imgref>..\images\bills\wcc017.jpg</imgref>
          <imgref>..\images\prrexplosives2.gif</imgref>
+         <linkprevious>bill_014.html</linkprevious>
+         <linknext>bill_018.html</linknext>
       </bill>
       <bill billid="018" kind="C1">
          <carload>
@@ -234,6 +256,8 @@
          </carload>
          <imgref>..\images\bills\wcc018.jpg</imgref>
          <imgref>..\images\bills\wcc019.jpg</imgref>
+         <linkprevious>bill_016.html</linkprevious>
+         <linknext>bill_020.html</linknext>
       </bill>
       <bill billid="020" kind="C1">
          <carload>
@@ -252,6 +276,8 @@
                         Oreminea.</desc>
          </carload>
          <imgref>..\images\bills\wcc020.jpg</imgref>
+         <linkprevious>bill_018.html</linkprevious>
+         <linknext>bill_021.html</linknext>
       </bill>
       <bill billid="021" kind="C1">
          <carload>
@@ -270,6 +296,8 @@
          <imgref>..\images\bills\wcc021.jpg</imgref>
          <imgref>..\images\bills\wcc022.jpg</imgref>
          <imgref>..\images\bills\wcc023.jpg</imgref>
+         <linkprevious>bill_020.html</linkprevious>
+         <linknext>bill_024.html</linknext>
       </bill>
       <bill billid="024" kind="C1">
          <carload>
@@ -288,6 +316,8 @@
          </carload>
          <imgref>..\images\bills\wcc024.jpg</imgref>
          <imgref>..\images\bills\wcc025.jpg</imgref>
+         <linkprevious>bill_021.html</linkprevious>
+         <linknext>bill_026.html</linknext>
       </bill>
       <bill billid="026" kind="C1">
          <carload>
@@ -303,6 +333,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc026.jpg</imgref>
+         <linkprevious>bill_024.html</linkprevious>
+         <linknext>bill_027.html</linknext>
       </bill>
       <bill billid="027" kind="C1">
          <carload>
@@ -323,6 +355,8 @@
          </carload>
          <imgref>..\images\bills\wcc027.jpg</imgref>
          <imgref>..\images\bills\wcc028.jpg</imgref>
+         <linkprevious>bill_026.html</linkprevious>
+         <linknext>bill_029.html</linknext>
       </bill>
       <bill billid="029" kind="C1">
          <carload>
@@ -342,6 +376,8 @@
                         in Pittsburgh for final delivery.</desc>
          </carload>
          <imgref>..\images\bills\wcc029.jpg</imgref>
+         <linkprevious>bill_027.html</linkprevious>
+         <linknext>bill_030.html</linknext>
       </bill>
       <bill billid="030" kind="C1">
          <carload>
@@ -358,6 +394,8 @@
                         bearings on mine cars and other equipment with plain bearings.</desc>
          </carload>
          <imgref>..\images\bills\wcc030.jpg</imgref>
+         <linkprevious>bill_029.html</linkprevious>
+         <linknext>bill_031.html</linknext>
       </bill>
       <bill billid="031" kind="C1">
          <carload>
@@ -373,6 +411,8 @@
             <desc>Transloaded at Altoona from PRR #43668, an X23 boxcar.</desc>
          </carload>
          <imgref>..\images\bills\wcc031.jpg</imgref>
+         <linkprevious>bill_030.html</linkprevious>
+         <linknext>bill_032.html</linknext>
       </bill>
       <bill billid="032" kind="C1">
          <carload>
@@ -400,6 +440,8 @@
                         lorem ipsum dolor sit amet.&lt;/p&gt;</desc>
          </carload>
          <imgref>..\images\bills\wcc032.jpg</imgref>
+         <linkprevious>bill_031.html</linkprevious>
+         <linknext>bill_033.html</linknext>
       </bill>
       <bill billid="033" kind="C1">
          <carload>
@@ -415,6 +457,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc033.jpg</imgref>
+         <linkprevious>bill_032.html</linkprevious>
+         <linknext>bill_034.html</linknext>
       </bill>
       <bill billid="034" kind="C1">
          <carload>
@@ -430,6 +474,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc034.jpg</imgref>
+         <linkprevious>bill_033.html</linkprevious>
+         <linknext>bill_035.html</linknext>
       </bill>
       <bill billid="035" kind="C1">
          <carload>
@@ -447,6 +493,8 @@
          </carload>
          <imgref>..\images\bills\wcc035.jpg</imgref>
          <imgref>..\images\bills\wcc036.jpg</imgref>
+         <linkprevious>bill_034.html</linkprevious>
+         <linknext>bill_037.html</linknext>
       </bill>
       <bill billid="037" kind="C1">
          <carload>
@@ -463,6 +511,8 @@
                         Transloaded into this car at Pittsburgh. Check this.</desc>
          </carload>
          <imgref>..\images\bills\wcc037.jpg</imgref>
+         <linkprevious>bill_035.html</linkprevious>
+         <linknext>bill_038.html</linknext>
       </bill>
       <bill billid="038" kind="C1">
          <carload>
@@ -479,6 +529,8 @@
                         unknown party.</desc>
          </carload>
          <imgref>..\images\bills\wcc038.jpg</imgref>
+         <linkprevious>bill_037.html</linkprevious>
+         <linknext>bill_039.html</linknext>
       </bill>
       <bill billid="039" kind="C1">
          <carload>
@@ -496,6 +548,8 @@
                         Williamsburg. No idea why they had it sent there.</desc>
          </carload>
          <imgref>..\images\bills\wcc039.jpg</imgref>
+         <linkprevious>bill_038.html</linkprevious>
+         <linknext>bill_040.html</linknext>
       </bill>
       <bill billid="040" kind="C1">
          <carload>
@@ -511,6 +565,8 @@
             <desc>Received from consignor at Jay St. LCL Terminal, Brooklyn, NY.</desc>
          </carload>
          <imgref>..\images\bills\wcc040.jpg</imgref>
+         <linkprevious>bill_039.html</linkprevious>
+         <linknext>bill_041.html</linknext>
       </bill>
       <bill billid="041" kind="C1">
          <carload>
@@ -528,6 +584,8 @@
                         listed as a separate shipment.</desc>
          </carload>
          <imgref>..\images\bills\wcc041.jpg</imgref>
+         <linkprevious>bill_040.html</linkprevious>
+         <linknext>bill_042.html</linknext>
       </bill>
       <bill billid="042" kind="C1">
          <carload>
@@ -543,6 +601,8 @@
             <desc>Railway Express receipt only, no car or routing information.</desc>
          </carload>
          <imgref>..\images\bills\wcc042.jpg</imgref>
+         <linkprevious>bill_041.html</linkprevious>
+         <linknext>bill_043.html</linknext>
       </bill>
       <bill billid="043" kind="C1">
          <carload>
@@ -558,6 +618,8 @@
             <desc>Railway Express receipt only, no car or routing information.</desc>
          </carload>
          <imgref>..\images\bills\wcc043.jpg</imgref>
+         <linkprevious>bill_042.html</linkprevious>
+         <linknext>bill_044.html</linknext>
       </bill>
       <bill billid="044" kind="C1">
          <carload>
@@ -573,6 +635,8 @@
             <desc>Railway Express receipt only, no car or routing information.</desc>
          </carload>
          <imgref>..\images\bills\wcc044.jpg</imgref>
+         <linkprevious>bill_043.html</linkprevious>
+         <linknext>bill_045.html</linknext>
       </bill>
       <bill billid="045" kind="C0">
          <carload>
@@ -600,6 +664,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc045.jpg</imgref>
+         <linkprevious>bill_044.html</linkprevious>
+         <linknext>bill_046.html</linknext>
       </bill>
       <bill billid="046" kind="C0">
          <carload>
@@ -615,6 +681,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc046.jpg</imgref>
+         <linkprevious>bill_045.html</linkprevious>
+         <linknext>bill_047.html</linknext>
       </bill>
       <bill billid="047" kind="C0">
          <carload>
@@ -630,6 +698,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc047.jpg</imgref>
+         <linkprevious>bill_046.html</linkprevious>
+         <linknext>bill_048.html</linknext>
       </bill>
       <bill billid="048" kind="C0">
          <carload>
@@ -646,6 +716,8 @@
                         the Western Maryland.</desc>
          </carload>
          <imgref>..\images\bills\wcc048.jpg</imgref>
+         <linkprevious>bill_047.html</linkprevious>
+         <linknext>bill_049.html</linknext>
       </bill>
       <bill billid="049" kind="C0">
          <carload>
@@ -661,6 +733,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc049.jpg</imgref>
+         <linkprevious>bill_048.html</linkprevious>
+         <linknext>bill_050.html</linknext>
       </bill>
       <bill billid="050" kind="C0">
          <carload>
@@ -688,6 +762,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc050.jpg</imgref>
+         <linkprevious>bill_049.html</linkprevious>
+         <linknext>bill_051.html</linknext>
       </bill>
       <bill billid="051" kind="C0">
          <carload>
@@ -703,6 +779,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc051.jpg</imgref>
+         <linkprevious>bill_050.html</linkprevious>
+         <linknext>bill_052.html</linknext>
       </bill>
       <bill billid="052" kind="C0">
          <carload>
@@ -718,6 +796,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc052.jpg</imgref>
+         <linkprevious>bill_051.html</linkprevious>
+         <linknext>bill_053.html</linknext>
       </bill>
       <bill billid="053" kind="C0">
          <carload>
@@ -733,6 +813,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc053.jpg</imgref>
+         <linkprevious>bill_052.html</linkprevious>
+         <linknext>bill_054.html</linknext>
       </bill>
       <bill billid="054" kind="C0">
          <carload>
@@ -761,6 +843,8 @@
                         Pittsburgh)</desc>
          </carload>
          <imgref>..\images\bills\wcc054.jpg</imgref>
+         <linkprevious>bill_053.html</linkprevious>
+         <linknext>bill_055.html</linknext>
       </bill>
       <bill billid="055" kind="C0">
          <carload>
@@ -788,6 +872,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc055.jpg</imgref>
+         <linkprevious>bill_054.html</linkprevious>
+         <linknext>bill_056.html</linknext>
       </bill>
       <bill billid="056" kind="C0">
          <carload>
@@ -803,6 +889,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc056.jpg</imgref>
+         <linkprevious>bill_055.html</linkprevious>
+         <linknext>bill_057.html</linknext>
       </bill>
       <bill billid="057" kind="C0">
          <carload>
@@ -818,6 +906,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc057.jpg</imgref>
+         <linkprevious>bill_056.html</linkprevious>
+         <linknext>bill_058.html</linknext>
       </bill>
       <bill billid="058" kind="C0">
          <carload>
@@ -834,6 +924,8 @@
                         the Western Maryland.</desc>
          </carload>
          <imgref>..\images\bills\wcc058.jpg</imgref>
+         <linkprevious>bill_057.html</linkprevious>
+         <linknext>bill_059.html</linknext>
       </bill>
       <bill billid="059" kind="C1">
          <carload>
@@ -851,6 +943,8 @@
                         collection that actually represents an inbound shipment to Oreminea.</desc>
          </carload>
          <imgref>..\images\bills\wcc059.jpg</imgref>
+         <linkprevious>bill_058.html</linkprevious>
+         <linknext>bill_060.html</linknext>
       </bill>
       <bill billid="060" kind="C0">
          <carload>
@@ -868,6 +962,8 @@
                         is incorporated into the scale agent's rubber stamp.</desc>
          </carload>
          <imgref>..\images\bills\wcc060.jpg</imgref>
+         <linkprevious>bill_059.html</linkprevious>
+         <linknext>bill_061.html</linknext>
       </bill>
       <bill billid="061" kind="C0">
          <carload>
@@ -885,6 +981,8 @@
                         the mill performed by the South Buffalo Railway.</desc>
          </carload>
          <imgref>..\images\bills\wcc061.jpg</imgref>
+         <linkprevious>bill_060.html</linkprevious>
+         <linknext>bill_062.html</linknext>
       </bill>
       <bill billid="062" kind="C0">
          <carload>
@@ -900,6 +998,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc062.jpg</imgref>
+         <linkprevious>bill_061.html</linkprevious>
+         <linknext>bill_063.html</linknext>
       </bill>
       <bill billid="063" kind="C0">
          <carload>
@@ -917,6 +1017,8 @@
                         the mill performed by the South Buffalo Railway.</desc>
          </carload>
          <imgref>..\images\bills\wcc063.jpg</imgref>
+         <linkprevious>bill_062.html</linkprevious>
+         <linknext>bill_064.html</linknext>
       </bill>
       <bill billid="064" kind="C0">
          <carload>
@@ -934,6 +1036,8 @@
                         and ultimately the TH&amp;amp;B (Toronto, Hamilton &amp; Buffalo).</desc>
          </carload>
          <imgref>..\images\bills\wcc064.jpg</imgref>
+         <linkprevious>bill_063.html</linkprevious>
+         <linknext>bill_065.html</linknext>
       </bill>
       <bill billid="065" kind="C0">
          <carload>
@@ -953,6 +1057,8 @@
                         delivered by the B&amp;amp;O.</desc>
          </carload>
          <imgref>..\images\bills\wcc065.jpg</imgref>
+         <linkprevious>bill_064.html</linkprevious>
+         <linknext>bill_066.html</linknext>
       </bill>
       <bill billid="066" kind="C0">
          <carload>
@@ -968,6 +1074,8 @@
             <desc>A very spooky shipment.</desc>
          </carload>
          <imgref>..\images\bills\wcc066.jpg</imgref>
+         <linkprevious>bill_065.html</linkprevious>
+         <linknext>bill_067.html</linknext>
       </bill>
       <bill billid="067" kind="C0">
          <carload>
@@ -987,6 +1095,8 @@
                         Eastern) for delivery.</desc>
          </carload>
          <imgref>..\images\bills\wcc067.jpg</imgref>
+         <linkprevious>bill_066.html</linkprevious>
+         <linknext>bill_068.html</linknext>
       </bill>
       <bill billid="068" kind="C0">
          <carload>
@@ -1002,6 +1112,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc068.jpg</imgref>
+         <linkprevious>bill_067.html</linkprevious>
+         <linknext>bill_069.html</linknext>
       </bill>
       <bill billid="069" kind="C0">
          <carload>
@@ -1018,6 +1130,8 @@
                         the Western Maryland.</desc>
          </carload>
          <imgref>..\images\bills\wcc069.jpg</imgref>
+         <linkprevious>bill_068.html</linkprevious>
+         <linknext>bill_070.html</linknext>
       </bill>
       <bill billid="070" kind="C0">
          <carload>
@@ -1036,6 +1150,8 @@
                         traveling together are listed on a single bill)</desc>
          </carload>
          <imgref>..\images\bills\wcc070.jpg</imgref>
+         <linkprevious>bill_069.html</linkprevious>
+         <linknext>bill_071.html</linknext>
       </bill>
       <bill billid="071" kind="C0">
          <carload>
@@ -1054,6 +1170,8 @@
                         traveling together are listed on a single bill)</desc>
          </carload>
          <imgref>..\images\bills\wcc071.jpg</imgref>
+         <linkprevious>bill_070.html</linkprevious>
+         <linknext>bill_072.html</linknext>
       </bill>
       <bill billid="072" kind="C0">
          <carload>
@@ -1081,6 +1199,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc072.jpg</imgref>
+         <linkprevious>bill_071.html</linkprevious>
+         <linknext>bill_073.html</linknext>
       </bill>
       <bill billid="073" kind="C0">
          <carload>
@@ -1096,6 +1216,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc073.jpg</imgref>
+         <linkprevious>bill_072.html</linkprevious>
+         <linknext>bill_074.html</linknext>
       </bill>
       <bill billid="074" kind="C0">
          <carload>
@@ -1111,6 +1233,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc074.jpg</imgref>
+         <linkprevious>bill_073.html</linkprevious>
+         <linknext>bill_075.html</linknext>
       </bill>
       <bill billid="075" kind="C0">
          <carload>
@@ -1140,6 +1264,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc075.jpg</imgref>
+         <linkprevious>bill_074.html</linkprevious>
+         <linknext>bill_076.html</linknext>
       </bill>
       <bill billid="076" kind="C0">
          <carload>
@@ -1179,6 +1305,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc076.jpg</imgref>
+         <linkprevious>bill_075.html</linkprevious>
+         <linknext>bill_077.html</linknext>
       </bill>
       <bill billid="077" kind="C0">
          <carload>
@@ -1195,6 +1323,8 @@
                         the Western Maryland.</desc>
          </carload>
          <imgref>..\images\bills\wcc077.jpg</imgref>
+         <linkprevious>bill_076.html</linkprevious>
+         <linknext>bill_078.html</linknext>
       </bill>
       <bill billid="078" kind="C0">
          <carload>
@@ -1212,6 +1342,8 @@
                         B&amp;amp;O for its journey down into West Virginia.</desc>
          </carload>
          <imgref>..\images\bills\wcc078.jpg</imgref>
+         <linkprevious>bill_077.html</linkprevious>
+         <linknext>bill_079.html</linknext>
       </bill>
       <bill billid="079" kind="C0">
          <carload>
@@ -1264,6 +1396,8 @@
                         Chicago.</desc>
          </carload>
          <imgref>..\images\bills\wcc079.jpg</imgref>
+         <linkprevious>bill_078.html</linkprevious>
+         <linknext>bill_080.html</linknext>
       </bill>
       <bill billid="080" kind="C0">
          <carload>
@@ -1305,6 +1439,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc080.jpg</imgref>
+         <linkprevious>bill_079.html</linkprevious>
+         <linknext>bill_081.html</linknext>
       </bill>
       <bill billid="081" kind="C0">
          <carload>
@@ -1356,6 +1492,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc081.jpg</imgref>
+         <linkprevious>bill_080.html</linkprevious>
+         <linknext>bill_082.html</linknext>
       </bill>
       <bill billid="082" kind="C0">
          <carload>
@@ -1373,6 +1511,8 @@
                         that they ordered a gondola, instead of a boxcar, for loading.</desc>
          </carload>
          <imgref>..\images\bills\wcc082.jpg</imgref>
+         <linkprevious>bill_081.html</linkprevious>
+         <linknext>bill_083.html</linknext>
       </bill>
       <bill billid="083" kind="C0">
          <carload>
@@ -1453,6 +1593,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc083.jpg</imgref>
+         <linkprevious>bill_082.html</linkprevious>
+         <linknext>bill_084.html</linknext>
       </bill>
       <bill billid="084" kind="C0">
          <carload>
@@ -1468,6 +1610,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc084.jpg</imgref>
+         <linkprevious>bill_083.html</linkprevious>
+         <linknext>bill_085.html</linknext>
       </bill>
       <bill billid="085" kind="C0">
          <carload>
@@ -1487,6 +1631,8 @@
          <imgref>..\images\bills\wcc112.jpg</imgref>
          <imgref>..\images\bills\wcc113.jpg</imgref>
          <imgref>..\images\bills\wcc114.jpg</imgref>
+         <linkprevious>bill_084.html</linkprevious>
+         <linknext>bill_086.html</linknext>
       </bill>
       <bill billid="086" kind="C0">
          <carload>
@@ -1526,6 +1672,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc086.jpg</imgref>
+         <linkprevious>bill_085.html</linkprevious>
+         <linknext>bill_087.html</linknext>
       </bill>
       <bill billid="087" kind="C0">
          <carload>
@@ -1542,6 +1690,8 @@
                         the Western Maryland.</desc>
          </carload>
          <imgref>..\images\bills\wcc087.jpg</imgref>
+         <linkprevious>bill_086.html</linkprevious>
+         <linknext>bill_088.html</linknext>
       </bill>
       <bill billid="088" kind="C0">
          <carload>
@@ -1593,6 +1743,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc088.jpg</imgref>
+         <linkprevious>bill_087.html</linkprevious>
+         <linknext>bill_089.html</linknext>
       </bill>
       <bill billid="089" kind="C0">
          <carload>
@@ -1647,6 +1799,8 @@
                         clay.</desc>
          </carload>
          <imgref>..\images\bills\wcc089.jpg</imgref>
+         <linkprevious>bill_088.html</linkprevious>
+         <linknext>bill_090.html</linknext>
       </bill>
       <bill billid="090" kind="C0">
          <carload>
@@ -1662,6 +1816,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc090.jpg</imgref>
+         <linkprevious>bill_089.html</linkprevious>
+         <linknext>bill_091.html</linknext>
       </bill>
       <bill billid="091" kind="C0">
          <carload>
@@ -1677,6 +1833,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc091.jpg</imgref>
+         <linkprevious>bill_090.html</linkprevious>
+         <linknext>bill_092.html</linknext>
       </bill>
       <bill billid="092" kind="C0">
          <carload>
@@ -1692,6 +1850,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc092.jpg</imgref>
+         <linkprevious>bill_091.html</linkprevious>
+         <linknext>bill_093.html</linknext>
       </bill>
       <bill billid="093" kind="C0">
          <carload>
@@ -1707,6 +1867,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc093.jpg</imgref>
+         <linkprevious>bill_092.html</linkprevious>
+         <linknext>bill_094.html</linknext>
       </bill>
       <bill billid="094" kind="C0">
          <carload>
@@ -1734,6 +1896,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc094.jpg</imgref>
+         <linkprevious>bill_093.html</linkprevious>
+         <linknext>bill_095.html</linknext>
       </bill>
       <bill billid="095" kind="C0">
          <carload>
@@ -1749,6 +1913,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc095.jpg</imgref>
+         <linkprevious>bill_094.html</linkprevious>
+         <linknext>bill_096.html</linknext>
       </bill>
       <bill billid="096" kind="C0">
          <carload>
@@ -1764,6 +1930,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc096.jpg</imgref>
+         <linkprevious>bill_095.html</linkprevious>
+         <linknext>bill_097.html</linknext>
       </bill>
       <bill billid="097" kind="C0">
          <carload>
@@ -1803,6 +1971,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc097.jpg</imgref>
+         <linkprevious>bill_096.html</linkprevious>
+         <linknext>bill_098.html</linknext>
       </bill>
       <bill billid="098" kind="C0">
          <carload>
@@ -1855,6 +2025,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc098.jpg</imgref>
+         <linkprevious>bill_097.html</linkprevious>
+         <linknext>bill_099.html</linknext>
       </bill>
       <bill billid="099" kind="C0">
          <carload>
@@ -1906,6 +2078,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc099.jpg</imgref>
+         <linkprevious>bill_098.html</linkprevious>
+         <linknext>bill_100.html</linknext>
       </bill>
       <bill billid="100" kind="C0">
          <carload>
@@ -1923,6 +2097,8 @@
                         B&amp;amp;O for its journey down into West Virginia.</desc>
          </carload>
          <imgref>..\images\bills\wcc100.jpg</imgref>
+         <linkprevious>bill_099.html</linkprevious>
+         <linknext>bill_101.html</linknext>
       </bill>
       <bill billid="101" kind="C0">
          <carload>
@@ -1950,6 +2126,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc101.jpg</imgref>
+         <linkprevious>bill_100.html</linkprevious>
+         <linknext>bill_102.html</linknext>
       </bill>
       <bill billid="102" kind="C0">
          <carload>
@@ -1982,6 +2160,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc102.jpg</imgref>
+         <linkprevious>bill_101.html</linkprevious>
+         <linknext>bill_103.html</linknext>
       </bill>
       <bill billid="103" kind="C0">
          <carload>
@@ -1997,6 +2177,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc103.jpg</imgref>
+         <linkprevious>bill_102.html</linkprevious>
+         <linknext>bill_104.html</linknext>
       </bill>
       <bill billid="104" kind="C0">
          <carload>
@@ -2036,6 +2218,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc104.jpg</imgref>
+         <linkprevious>bill_103.html</linkprevious>
+         <linknext>bill_105.html</linknext>
       </bill>
       <bill billid="105" kind="C0">
          <carload>
@@ -2051,6 +2235,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc105.jpg</imgref>
+         <linkprevious>bill_104.html</linkprevious>
+         <linknext>bill_106.html</linknext>
       </bill>
       <bill billid="106" kind="C0">
          <carload>
@@ -2070,6 +2256,8 @@
                         its journey.</desc>
          </carload>
          <imgref>..\images\bills\wcc106.jpg</imgref>
+         <linkprevious>bill_105.html</linkprevious>
+         <linknext>bill_107.html</linknext>
       </bill>
       <bill billid="107" kind="C0">
          <carload>
@@ -2097,6 +2285,8 @@
             <desc>enter description here</desc>
          </carload>
          <imgref>..\images\bills\wcc107.jpg</imgref>
+         <linkprevious>bill_106.html</linkprevious>
+         <linknext>bill_108.html</linknext>
       </bill>
       <bill billid="108" kind="C0">
          <carload>
@@ -2148,6 +2338,8 @@
             <desc/>
          </carload>
          <imgref>..\images\bills\wcc108.jpg</imgref>
+         <linkprevious>bill_107.html</linkprevious>
+         <linknext>bill_109.html</linknext>
       </bill>
       <bill billid="109" kind="C0">
          <carload>
@@ -2164,6 +2356,8 @@
          </carload>
          <imgref>..\images\bills\wcc109.jpg</imgref>
          <imgref>..\images\bills\wcc110.jpg</imgref>
+         <linkprevious>bill_108.html</linkprevious>
+         <linknext>bill_115.html</linknext>
       </bill>
       <bill billid="115" kind="C0">
          <carload>
@@ -2186,6 +2380,8 @@
                         survive alongside this one.</desc>
          </carload>
          <imgref>..\images\bills\wcc115.jpg</imgref>
+         <linkprevious>bill_109.html</linkprevious>
+         <linknext/>
       </bill>
    </bills>
 </xml>

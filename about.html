@@ -6,19 +6,226 @@
       <meta name="author" content="C. R. Chinoy">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" type="text/css" href="css/index.css">
+      <link rel="icon" type="image/png" href="images/wcc-32.png" sizes="32x32" />
+      <link rel="icon" type="image/png" href="images/wcc-16.png" sizes="16x16" />
    </head>
    <body>
       <!--#include file="header.shtml"-->
       <div id="content">
          <h1>About the Project</h1>
-         <h2>Document Ditigization and Research</h2>
-         <p>I maintain a small library of books, documents, ephemera and artifacts from the Pennsylvania Railroad and other railroads and industries around Pennsylvania, and so far, the Woodbury Clay Co. papers make up one of the most unusual items in the collection. Once I gathered them up and brought them home, etc. etc., describe the process of scanning and digitizing here. Then, describe the agonizing research process that was necessary to obtain all those coordinates that are plotted on the map.</p>
-         <h2>Document Encoding and Website Design (for DH folks)</h2>
-         <p>Oh no, you forgot to write down how you did all this! (I'll write down how I did this shortly.)</p>
-         <p><a href="https://github.com/ChinoyIndustries/WoodburyClayCo" target="_blank"><img src="images/github.png" width="100" alt="View Project Code on Github" title="View Project Code on Github"/></a></p>
-         <hr/>
+         <h2>Document Digitization</h2>
+         <div class="textcontent">
+            <p>Describe the process of scanning and digitizing here.</p>
+         </div>
+         <h2>Document Encoding and Website Design</h2>
+         <div class="textcontent">
+            <p>This website was built as a class project for the <a
+                  href="https://dh.newtfire.org/CDVSyll.html">Coding &amp; Data Visualization</a>
+               course in the Digital Humanities program at Pitt-Greensburg. The project was intended
+               to provide a real, public-facing home for these documents, and to explore the
+               historical data they represent. What started as a folder of scanned images became the
+               core of a major undertaking to encode data from all 115 documents, research the
+               historical companies represented within it, generate dynamic webpages from it,
+               explore it with visualizations and analysis, and ultimately to provide it with
+               historical context on an ongoing basis. The Woodbury Clay Co. Project has expanded
+               beyond the scope of a semester project, and will be growing and developing further in
+               the future with more historical content on the places and trains that it
+               features.</p>
+            <h3>Data Encoding and Site Backend</h3>
+            <p>The structure of the data behind the site is the same as the site itself: three core
+               documents driving everything else. Information from the actual bills is encoded in
+               XML as the CarloadTable, containing bill information for all 115 bills and carload
+               information for all 144 cars, with references out to the other two tables. The
+               CompanyTable and CarClassTable were built off this to store data separately about
+               each company and location, and each type of freight car, that appears in the
+               sample.</p>
+            <p>The CompanyTable, despite being smaller than the main CarloadTable, was far and away
+               the most arduous part of the project to produce. Its primary purpose, besides storing
+               names and descriptions of each company, is to provide location and railroad data,
+               which doesn't come from the documents themselves. Obtaining accurate and verified
+               location data and railroad connections for 52 mostly-defunct Depression-era
+               businesses and industrial facilities required, ultimately, burning through nearly two
+               weeks doing nothing but research. An agonizing process of cross-referencing numerous
+               sources and combing through the entire internet for addresses and other crucial
+               evidence was necessary to pin down a total of 50 pairs of coordinates&mdash;all but
+               one of which were successfully found and are exact to the individual parcel of land.
+               (The offending exception is the <a href="/companies/fruhlinger.html">Fruhlinger
+                  Colliery</a>, which refused to give up its secrets after two days and will require
+               a visit to the Blair County offices and an interrogation of some old tax maps.) The
+               process for locating each company generally followed the following pattern:</p>
+            <ul>
+               <li>Google the company, then search for the city or town name on the freight bill or
+                  receipt on Google Maps.</li>
+               <li>If the company was easy to find, like a recently-closed major steel mill, gather
+                  sources about it and record its general location.</li>
+               <li>Turn to <a href="https://www.openstreetmap.org/" target="_blank"
+                     >OpenStreetMap</a>, which contains layers for both current and abandoned former
+                  rail lines, and inspect elements to find the name of the railroad line or branch
+                  that served that place.</li>
+               <li>If the location is off PRR lines, Google for what railroad served that placename,
+                  and record which companies operated the line when. Usually, more research on local
+                  railroad operations was necessary to determine exact configurations of what
+                  railroads connected how and where.</li>
+               <li>If the location is on the PRR, find that placename in the index of each <a
+                     href="glossary.html">C.T.1000</a> and record the page number, find the branch
+                  name found on OpenStreetMap if applicable, and confirm nearby locations in
+                  sequence for companies' sidings that are not listed in these years.</li>
+               <li>Open the <a href="http://www.pennpilot.psu.edu/" target="_blank">Penn Pilot</a>
+                  historic aerial viewer and view the location on the 1937-42 photo set, position
+                  Google Maps and/or OpenStreetMap to match, and compare to pinpoint the exact
+                  building in question.</li>
+               <li>If the company is a business that was not rail-served, or was not findable by any
+                  of these methods, the fun part begins. City directories and other records from
+                  Ancestry.com and numerous other places, independent local history websites, <a
+                     href="https://libraries.psu.edu/about/collections/sanborn-fire-insurance-maps"
+                     target="_blank">Sanborn Fire Maps</a>, <a
+                     href="https://www.nps.gov/hdp/habs/index.htm" target="_blank">HABS</a> records,
+                  and random PDFs and Google Books of all stripes were consulted at length.</li>
+               <li>Based on all of the above, pin location on Google Maps and record its
+                  coordinates, along with sources and references about the company and the railroads
+                  that served its location.</li>
+               <li>Scream.</li>
+            </ul>
+            <p>Ironically, the Woodbury Clay Co. itself, and the <a
+                  href="companies/thomas-sant.html">Thomas H. Sant &amp; Sons Co.</a> brokers which
+               appear as the shipper on many outbound bills, were two of the most difficult to track
+               down.</p>
+            <p>The CarClassTable is rather simple and contains mostly sources and image references.
+               Additional statistics on the PRR's full freight car fleet of the 1930s are planned to
+               be incorporated into this project in the future, to put the freight car types
+               described here into context, but research of this kind is on hold due to the ongoing
+               plague. This information is contained in books called the <a
+                  href="https://catalog.hathitrust.org/Record/000536067" target="_blank">"Official
+                  Railway Equipment Register"</a>, issued monthly since 1886. These are often
+               available online for years prior to 1925, being in public domain, but all subsequent
+               years remain under copyright and can only be found in a handful of major museum and
+               institutional libraries. A trip to one of these is planned for when the national
+               shutdown ends.</p>
+            <p> The core pages of the website&mdash;a basic master/detail structure with an index
+               page for each of the three tables, containing links to detail pages for each freight
+               bill/receipt, each company, and each class of freight car&mdash;are generated
+               dynamically from the XML tables using a combination of XSLT and XQuery. XQuery was
+               used to query across all three tables to append counts, calculations, ID refs, and
+               other information to one another. The pages themselves are generated with XSL
+               transformations, pulling data, descriptions, links and images from the XML. The <a
+                  href="https://www.saxonica.com/html/documentation/xsl-elements/result-document.html"
+                  target="_blank">xsl:result-document</a> function within an xsl:for-each was used
+               to automatically generate entire directories of individual detail pages at once. With
+               this structure driving the website, additional information for each company and type
+               of freight car can be added right into the XML tables, and the site itself can be
+               instantly regenerated by pushing a few buttons to run the applicable queries and
+               transformations. (The site's fourth table, the Forms table on the Glossary page, is
+               static.) The detail pages for the companies and freight cars remain, for the moment,
+               very bare, containing only the minimum content and whatever was left over from the
+               initial research process of finding location data&mdash;to actually research and
+               write up all of these would be vastly beyond the scope of a web-design project.</p>
+            <h3>Data Visualization</h3>
+            <p>In our class we covered a number of different techniques for presenting our data in
+               interesting and useful ways, so the project website naturally has to feature at least
+               a few of them. With 50 distinct locations represented in the data, plotting them all
+               out on a map was the obvious choice. My dearly-obtained geodata were run through
+               xQuery to produce a TSV table, then through <a href="https://qgis.org/en/site/"
+                  target="_blank">QGIS</a> to plot them over <a
+                  href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>, and
+               finally through the <a href="https://github.com/tomchadwin/qgis2web" target="_blank"
+                  >QGIS2Web</a> plugin to produce an embeddable interactive <a
+                  href="https://leafletjs.com/" target="_blank">Leaflet</a> map. The sizing of each
+               map marker to the number of cars sent or received by that company, generated in QGIS
+               with a data-driven override, is not supported by Leaflet. A workaround to reintroduce
+               this feature manually is in the works for a later update.</p>
+            <p>As fun as it was to add a map to the site, it's only one of many potential means of
+               visualizing the data from this project, and so I had to return to my data tables for
+               a second look at what else could be further explored. One of the most unfortunate
+               aspects of the whole project comes into play here: aside from a few earlier freight
+               bills, all the Woodbury Clay papers date only from 1931, '33 and '37. Nothing is
+               present from any of the years in between, and so what remains is far from a complete
+               set of data. What this means is that it'd be mostly meaningless to try to analyze
+               patterns or changes in shipments, customers and so on over time&mdash;in fact, with
+               such a limited sample out of probably hundreds more shipments each year, the data are
+               scarcely enough to be fully representative of the different inbound shipments, and
+               likely doesn't capture many other customers to which Woodbury may have shipped clay.
+               Without meaningful information over time, and without interconnectedness between
+               individual shipments (besides their common point of origin/destination), network
+               graphs and SVG timelines were out the window. Surprisingly, though, the data actually
+               did happen to capture one notable trend that occurred over the course of the three
+               sampled years. Recording the class of car used for dozens upon dozens of identical
+               shipments of clay ended up producing a representative sample of the different classes
+               of boxcar that the PRR operated in the Depression years, revealing a major shift
+               going on in the pre-WWII freight car fleet, as described over on the <a
+                  href="freightcars.html">Freight Cars</a> page.</p>
+            <p>An SVG chart seemed to be in order to illustrate this, and so that became the
+               secondary data viz format for the project. To make the charts and graphs found on
+               each of the three main tables a bit more interactive, I created them with <a
+                  href="https://developers.google.com/chart" target="_blank">Google Charts</a>
+               javascript templates, which generate SVG graphs and charts of all different kinds
+               with various formatting options and mouseover tooltips. I ended up using a <a
+                  href="https://developers.google.com/chart/interactive/docs/gallery/columnchart#stacked-column-charts"
+                  target="_blank">stacked column chart</a> for the above-mentioned example, plus a
+               set of <a
+                  href="https://developers.google.com/chart/interactive/docs/gallery/histogram"
+                  target="_blank">histograms</a> on the Shippers and Customers page, and a (slightly
+               overgrown) <a
+                  href="https://developers.google.com/chart/interactive/docs/gallery/sankey"
+                  target="_blank">Sankey flow diagram</a> depicting the general breakdown of all 144
+               carloads in the data sample on the main Carload Table. Data input for each of these
+               was generated with xQuery containing some really ferociously long xPath queries,
+               complete with a cheering celebration when the longest one ran successfully on the
+               first try. With that done, the major components of the Woodbury Clay Co. Project are
+               up and running, and it's time to turn my attention back to hunting for
+               Fruhlinger.</p>
+            <hr />
+            <h3>Graphics</h3>
+            <p>The site banner is edited from a sign made using the free PRR sign maker from <a
+                  href="http://prr.railfan.net/makesign.html" target="_blank">prr.railfan.net</a>.
+               The shape and font are meant to depict a standard Pennsylvania Railroad station sign.
+               The site colors themselves are chosen deliberately: the dark red is an approximation
+               of PRR standard freight car red, while the light tan color is the approximate color
+               of the fire-clay mined by the W.C.C.</p>
+            <p>The little GIF pictures on the freight car class pages are a variety of railroad
+               pixel-art that was briefly popular in the late 90s and early 2000s, traditionally
+               drawn by hand for use in side-scrolling train screensavers or with the HTML "marquee"
+               tag. Those featured here are in the most common scale of 10cm = 1 pixel. More
+               information, and a vast archive of pixel-art trains from around the world, may be
+               found at <a href="http://pc2.pxtr.de/" target="_blank">pxtr.de</a>. Credit for the
+               majority of the freight car GIFs on this site is to <a
+                  href="http://pc2.pxtr.de/d/auth.htm#JMD" target="_blank">James McDonald</a>, with
+               the Lorain Power Shovel, PRR hopper and gondola, and New Haven and B&amp;O M-15a
+               boxcars being drawn by the author.</p>
+            <hr />
+         </div>
+         <div id="github">
+            <a href="https://github.com/ChinoyIndustries/WoodburyClayCo" target="_blank">
+               <img src="images/github.png" width="100" alt="View Project Code on Github"
+                  title="View Project Code on Github" /> VIEW PROJECT SOURCE ON GITHUB</a>
+         </div>
+         <hr />
          <h2>About the Author</h2>
-         <p><b><a href="https://github.com/ChinoyIndustries" target="_blank">Connor Chinoy</a></b> is the one responsible for this mess. Please send any suggestions, complaints, bug reports, or unsolicited spam <a href="mailto:crchinoy@gmail.com">here</a>.</p>
+         <div class="textcontent">
+            <img src="..//images/abouttheauthor.jpg" alt="Connor Chinoy" title="Connor Chinoy"
+               id="abouttheauthor">
+            <div style="overflow: hidden;">
+               <p><b><a href="https://github.com/ChinoyIndustries" target="_blank">Connor
+                     Chinoy</a></b> is the one responsible for this mess. I'm an undergraduate
+                  History student at the University of Pittsburgh at Greensburg, minoring in Applied
+                  Research with Digital Humanities certificate. I work with various railroad
+                  historical museums and organizations and maintain a small library of my own, with
+                  books, documents, ephemera and artifacts from the Pennsylvania Railroad and other
+                  railroads and industries around Pennsylvania. So far, the Woodbury Clay Co. papers
+                  make up one of the most unusual items in the collection.</p>
+               <p>I'm also a model railroader working with vintage equipment in HO and <a
+                     href="http://americanoo.blogspot.com/" target="_blank">American OO</a> scales,
+                  and active in the study and preservation of the hobby's early history. Model
+                  Railroad magazines, catalogs and diagrams from the 1930s-60s form a significant
+                  part of my collection. As time permits, I'd like to expand this website with more
+                  content devoted to modeling the Woodbury Clay Co. and the rolling stock that
+                  visited it, using techniques contemporary to the shipments described on this
+                  website&mdash;which coincide with the very earliest years of the model railroading
+                  hobby.</p>
+               <p>This has been my first experience with web design, so don't blame me if it looks
+                  funny! Please send any suggestions, complaints, bug reports, or unsolicited spam
+                     <a href="mailto:crchinoy@gmail.com">here</a>.</p>
+            </div>
+         </div>
       </div>
       <!--#include file="footer.shtml"-->
    </body>

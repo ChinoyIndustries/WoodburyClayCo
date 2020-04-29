@@ -11,7 +11,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>1</shipcount>
          <imgrefs>
-            <imgref alt="PRR F30 Flatcar">..\\images\classpages\PRR-F30-1929.jpg</imgref>
+            <imgref alt="PRR F30 Flatcar" class="display">..\\images\classpages\PRR-F30-1929.jpg</imgref>
+            <imgref alt="PRR F30 with Lorain Model 40 Shovel" class="gif">..\\images\gif-thumbs\F30-Lorain-Shovel.gif</imgref>
          </imgrefs>
          <reflist/>
       </class>
@@ -25,7 +26,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>7</shipcount>
          <imgrefs>
-            <imgref alt="PRR GLc Hopper">..\\images\classpages\PRR-GLC-Hagley.jpg</imgref>
+            <imgref alt="PRR GLc Hopper" class="display">..\\images\classpages\PRR-GLC-Hagley.jpg</imgref>
+            <imgref alt="PRR GLa Hopper" class="gif">..\\images\gif-thumbs\GLA.gif</imgref>
          </imgrefs>
          <reflist/>
       </class>
@@ -39,7 +41,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>3</shipcount>
          <imgrefs>
-            <imgref alt="PRR GSd Gondola">..\images\classpages\PRR-GSD-1926.jpg</imgref>
+            <imgref alt="PRR GSd Gondola" class="display">..\images\classpages\PRR-GSD-1926.jpg</imgref>
+            <imgref alt="PRR GSd Gondola" class="gif">..\\images\gif-thumbs\GSD.gif</imgref>
          </imgrefs>
          <reflist>
             <ref>from PRR Modern Cars &amp; Locomotives, 1926.</ref>
@@ -55,7 +58,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>51</shipcount>
          <imgrefs>
-            <imgref alt="PRR XL Boxcar">..\images\classpages\PRR-XL-small.jpg</imgref>
+            <imgref alt="PRR XL Boxcar" class="display">..\images\classpages\PRR-XL-small.jpg</imgref>
+            <imgref alt="PRR XL Boxcar" class="gif">..\\images\gif-thumbs\XL.gif</imgref>
          </imgrefs>
          <reflist/>
       </class>
@@ -69,7 +73,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>9</shipcount>
          <imgrefs>
-            <imgref alt="PRR X23 Boxcar">..\images\classpages\PRR-X23.jpg</imgref>
+            <imgref alt="PRR X23 Boxcar" class="display">..\images\classpages\PRR-X23.jpg</imgref>
+            <imgref alt="PRR X23 Boxcar" class="gif">..\\images\gif-thumbs\X23.gif</imgref>
          </imgrefs>
          <reflist/>
       </class>
@@ -83,7 +88,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>12</shipcount>
          <imgrefs>
-            <imgref alt="PRR X25 Boxcar">..\images\classpages\PRR-X25-1919-CBD.jpg</imgref>
+            <imgref alt="PRR X25 Boxcar" class="display">..\images\classpages\PRR-X25-1919-CBD.jpg</imgref>
+            <imgref alt="PRR X25 Boxcar" class="gif">..\\images\gif-thumbs\X25.gif</imgref>
          </imgrefs>
          <reflist/>
       </class>
@@ -97,7 +103,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>13</shipcount>
          <imgrefs>
-            <imgref alt="PRR X26 Boxcar">..\images\classpages\PRR-X26-Hagley.jpg</imgref>
+            <imgref alt="PRR X26 Boxcar" class="display">..\images\classpages\PRR-X26-Hagley.jpg</imgref>
+            <imgref alt="PRR X26 Boxcar" class="gif">..\\images\gif-thumbs\X26.gif</imgref>
          </imgrefs>
          <reflist/>
       </class>
@@ -116,7 +123,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>2</shipcount>
          <imgrefs>
-            <imgref alt="PRR X28a Boxcar">..\images\classpages\PRR-X28A.jpg</imgref>
+            <imgref alt="PRR X28a Boxcar" class="display">..\images\classpages\PRR-X28A.jpg</imgref>
+            <imgref alt="PRR X28a Boxcar" class="gif">..\\images\gif-thumbs\X28A.gif</imgref>
          </imgrefs>
          <reflist>
             <ref>https://www.mountvernonshops.com/products/ho-prr-x28-boxcar-decals?variant=18340109313</ref>
@@ -132,7 +140,8 @@
                 for technical information and diagrams.</desc>
          <shipcount>34</shipcount>
          <imgrefs>
-            <imgref alt="PRR X29 Boxcar">..\images\classpages\PRR-X29-PRR-1924.jpg</imgref>
+            <imgref alt="PRR X29 Boxcar" class="display">..\images\classpages\PRR-X29-PRR-1924.jpg</imgref>
+            <imgref alt="PRR X29 Boxcar" class="gif">..\\images\gif-thumbs\X29.gif</imgref>
          </imgrefs>
          <reflist/>
       </class>
@@ -150,7 +159,8 @@
                 opening. The image below is of a Westerfield HO model of the M-15a.</desc>
          <shipcount>1</shipcount>
          <imgrefs>
-            <imgref alt="BO M-15a Boxcar">..\images\classpages\BO-M15A-Westerfield.jpg</imgref>
+            <imgref alt="BO M-15a Boxcar" class="display">..\images\classpages\BO-M15A-Westerfield.jpg</imgref>
+            <imgref alt="BO M-15a Boxcar" class="gif">..\\images\gif-thumbs\BO-M15A.gif</imgref>
          </imgrefs>
          <reflist>
             <ref>http://westerfieldmodels.com/merchantmanager/product_info.php?products_id=479</ref>
@@ -166,7 +176,9 @@
                 40' steel boxcars built between 1928 and 1935. The M-26d subclass were the first, in
                 1928-30. Etc. Etc.</desc>
          <shipcount>1</shipcount>
-         <imgrefs/>
+         <imgrefs>
+            <imgref alt="BO M-26D Boxcar" class="gif">..\\images\gif-thumbs\BO-M26D.gif</imgref>
+         </imgrefs>
          <reflist>
             <ref>https://borhs.org/modelermag/Modeler-47-201808.pdf</ref>
          </reflist>
@@ -180,7 +192,9 @@
                 1926-7, the New Haven (New York, New Haven &amp; Hartford RR) this number is out of
                 series what's wrong here fix this.</desc>
          <shipcount>1</shipcount>
-         <imgrefs/>
+         <imgrefs>
+            <imgref alt="NH 36' Boxcar" class="gif">..\\images\gif-thumbs\NH.gif</imgref>
+         </imgrefs>
          <reflist>
             <ref>http://www.alphabetroute.com/nynhh/rosterpdfs/NHfreightclass.pdf</ref>
             <ref>http://www.alphabetroute.com/nynhh/frtdgms/160000-164999.pdf</ref>
@@ -194,7 +208,8 @@
          <desc>Single-sheathed 40' boxcar.</desc>
          <shipcount>1</shipcount>
          <imgrefs>
-            <imgref alt="BM XM-1 Boxcar">..\images\classpages\BM-XM1.jpg</imgref>
+            <imgref alt="BM XM-1 Boxcar" class="display">..\images\classpages\BM-XM1.jpg</imgref>
+            <imgref alt="BM XM-1 Boxcar" class="gif">..\\images\gif-thumbs\BM-XM1.gif</imgref>
          </imgrefs>
          <reflist>
             <ref>http://faracresfarm.com/jbvb/rr/bmrr/freight.html</ref>
@@ -210,7 +225,8 @@
                 steel frame cars, built by AC&amp;F in 1916.</desc>
          <shipcount>1</shipcount>
          <imgrefs>
-            <imgref alt="CNJ 17000-series Boxcar">..\images\classpages\CNJ17000.jpg</imgref>
+            <imgref alt="CNJ 17000-series Boxcar" class="display">..\images\classpages\CNJ17000.jpg</imgref>
+            <imgref alt="CNJ 40' Boxcar" class="gif">..\\images\gif-thumbs\CNJ.gif</imgref>
          </imgrefs>
          <reflist>
             <ref>http://www.alphabetroute.com/cnj/1940FRTDGMS/17000-17499.pdf</ref>
@@ -227,7 +243,8 @@
                 standard boxcar designs adopted by railroads across the country.</desc>
          <shipcount>1</shipcount>
          <imgrefs>
-            <imgref alt="SAL B-6 Boxcar">..\images\classpages\SAL-B6-Pullman-1937.jpg</imgref>
+            <imgref alt="SAL B-6 Boxcar" class="display">..\images\classpages\SAL-B6-Pullman-1937.jpg</imgref>
+            <imgref alt="SAL B-6 Boxcar" class="gif">..\\images\gif-thumbs\SAL-B6.gif</imgref>
          </imgrefs>
          <reflist>
             <ref>http://www.steamerafreightcars.com/prototype/frtcars/1932aramain.html</ref>

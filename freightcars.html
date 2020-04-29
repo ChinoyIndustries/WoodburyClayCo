@@ -4,124 +4,137 @@
       <title>The Woodbury Clay Co Project.</title>
       <meta name="author" content="C. R. Chinoy">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="stylesheet" type="text/css" href="css/index.css"><script src="js/carclassindex.js"></script></head>
+      <link rel="stylesheet" type="text/css" href="css/index.css"><script src="js/carclassindex.js"></script><script src="https://www.gstatic.com/charts/loader.js"></script><script src="js/stackedbars.js"></script><link rel="icon" type="image/png" href="images/wcc-32.png" sizes="32x32">
+      <link rel="icon" type="image/png" href="images/wcc-16.png" sizes="16x16">
+   </head>
    <body><!--#include file="header.shtml"-->
       <div id="content">
          <h1>Freight Cars by Class</h1>
-         <p>By the early 1930s, the Pennsylvania Railroad rostered several dozen different classes
-            of boxcars, hoppers, gondolas and other freight equipment. Despite the ongoing
-            Depression, the 1930s saw a substantial shift in the equipment rosters of many
-            railroads, including the PRR. Large quantities of older wood-sheathed or
-            composite-bodied rolling stock from before WWI finally reached retirement age, and
-            new
-            all-steel equipment designs rapidly proliferated, becoming more popular and, for the
-            first time more standardized in the years that would lead up to WWII. Our snapshot
-            of
-            cars that served one particular company illustrates the variety of the PRR's
-            transitional boxcar designs of this era, etc etc etc.</p>
-         <p>Write more garbage here later.</p>
-         <form><input type="radio" value="all" name="railroad" id="railroadAll" checked><label for="railroadAll">View All</label><input type="radio" value="PRR" name="railroad" id="railroadPRR"><label for="railroadPRR">View PRR Cars</label><input type="radio" value="foreign" name="railroad" id="railroadForeign"><label for="railroadForeign">View Foreign Cars</label></form>
-         <table id="classtable" class="center">
-            <thead>
-               <tr>
-                  <th>Railroad</th>
-                  <th>Class</th>
-                  <th>Type</th>
-                  <th>No. Featured</th>
-               </tr>
-            </thead>
-            <tbody>
-               <tr class="B&amp;M">
-                  <td>B&amp;M</td>
-                  <td><a href="./freightcars/BM-XM1.html">XM-1</a></td>
-                  <td>Boxcar</td>
-                  <td>1</td>
-               </tr>
-               <tr class="B&amp;O">
-                  <td>B&amp;O</td>
-                  <td><a href="./freightcars/BO-M15A.html">M-15a</a></td>
-                  <td>Boxcar</td>
-                  <td>1</td>
-               </tr>
-               <tr class="B&amp;O">
-                  <td>B&amp;O</td>
-                  <td><a href="./freightcars/BO-M26D.html">M-26d</a></td>
-                  <td>Boxcar</td>
-                  <td>1</td>
-               </tr>
-               <tr class="CNJ">
-                  <td>CNJ</td>
-                  <td><a href="./freightcars/CNJ-box.html">17000-series</a></td>
-                  <td>Boxcar</td>
-                  <td>1</td>
-               </tr>
-               <tr class="NH">
-                  <td>NH</td>
-                  <td><a href="./freightcars/NH-box.html">165500-series</a></td>
-                  <td>Boxcar</td>
-                  <td>1</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/F30.html">F30</a></td>
-                  <td>Flatcar</td>
-                  <td>1</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/GLA.html">GLa/GLc</a></td>
-                  <td>Hopper</td>
-                  <td>7</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/GS.html">GS/GSd</a></td>
-                  <td>Gondola</td>
-                  <td>3</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/X23.html">X23</a></td>
-                  <td>Boxcar</td>
-                  <td>9</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/X25.html">X25</a></td>
-                  <td>Boxcar</td>
-                  <td>12</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/X26.html">X26</a></td>
-                  <td>Boxcar</td>
-                  <td>13</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/X28A.html">X28a</a></td>
-                  <td>Boxcar</td>
-                  <td>2</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/X29.html">X29</a></td>
-                  <td>Boxcar</td>
-                  <td>34</td>
-               </tr>
-               <tr class="PRR">
-                  <td>PRR</td>
-                  <td><a href="./freightcars/XL.html">XL</a></td>
-                  <td>Boxcar</td>
-                  <td>51</td>
-               </tr>
-               <tr class="SAL">
-                  <td>SAL</td>
-                  <td><a href="./freightcars/SAL-B6.html">B-6</a></td>
-                  <td>Boxcar</td>
-                  <td>1</td>
-               </tr>
-            </tbody>
+         <div class="textcontent">
+            <p>By the early 1930s, the Pennsylvania Railroad rostered several dozen different
+               classes of boxcars, hoppers, gondolas and other freight equipment. Despite the ongoing
+               Depression, the 1930s saw a substantial shift in the equipment rosters of many
+               railroads, including the PRR. Large quantities of older wood-sheathed or
+               composite-bodied rolling stock from before WWI finally reached retirement age, and
+               new
+               all-steel equipment designs rapidly proliferated, becoming more popular and, for the
+               first time more standardized in the years that would lead up to WWII. Our snapshot
+               of
+               cars that served one particular company illustrates the variety of the PRR's
+               transitional boxcar designs of this era, etc etc etc.</p>
+            <p>Write more garbage here later.</p>
+         </div>
+         <table id="chartdisplay">
+            <tr>
+               <td>
+                  <form><input type="radio" value="all" name="railroad" id="railroadAll" checked><label for="railroadAll">View All</label><input type="radio" value="PRR" name="railroad" id="railroadPRR"><label for="railroadPRR">View PRR Cars</label><input type="radio" value="foreign" name="railroad" id="railroadForeign"><label for="railroadForeign">View Foreign Cars</label></form>
+                  <table id="classtable">
+                     <thead>
+                        <tr>
+                           <th>Railroad</th>
+                           <th>Class</th>
+                           <th>Type</th>
+                           <th>No. Featured</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr class="B&amp;M">
+                           <td>B&amp;M</td>
+                           <td><a href="./freightcars/BM-XM1.html"><img class="gif" title="BM XM-1 Boxcar" alt="BM XM-1 Boxcar" src="..\\images\gif-thumbs\BM-XM1.gif"> XM-1</a></td>
+                           <td>Boxcar</td>
+                           <td>1</td>
+                        </tr>
+                        <tr class="B&amp;O">
+                           <td>B&amp;O</td>
+                           <td><a href="./freightcars/BO-M15A.html"><img class="gif" title="BO M-15a Boxcar" alt="BO M-15a Boxcar" src="..\\images\gif-thumbs\BO-M15A.gif"> M-15a</a></td>
+                           <td>Boxcar</td>
+                           <td>1</td>
+                        </tr>
+                        <tr class="B&amp;O">
+                           <td>B&amp;O</td>
+                           <td><a href="./freightcars/BO-M26D.html"><img class="gif" title="BO M-26D Boxcar" alt="BO M-26D Boxcar" src="..\\images\gif-thumbs\BO-M26D.gif"> M-26d</a></td>
+                           <td>Boxcar</td>
+                           <td>1</td>
+                        </tr>
+                        <tr class="CNJ">
+                           <td>CNJ</td>
+                           <td><a href="./freightcars/CNJ-box.html"><img class="gif" title="CNJ 40' Boxcar" alt="CNJ 40' Boxcar" src="..\\images\gif-thumbs\CNJ.gif"> 17000-series</a></td>
+                           <td>Boxcar</td>
+                           <td>1</td>
+                        </tr>
+                        <tr class="NH">
+                           <td>NH</td>
+                           <td><a href="./freightcars/NH-box.html"><img class="gif" title="NH 36' Boxcar" alt="NH 36' Boxcar" src="..\\images\gif-thumbs\NH.gif"> 165500-series</a></td>
+                           <td>Boxcar</td>
+                           <td>1</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/F30.html"><img class="gif" title="PRR F30 with Lorain Model 40 Shovel" alt="PRR F30 with Lorain Model 40 Shovel" src="..\\images\gif-thumbs\F30-Lorain-Shovel.gif"> F30</a></td>
+                           <td>Flatcar</td>
+                           <td>1</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/GLA.html"><img class="gif" title="PRR GLa Hopper" alt="PRR GLa Hopper" src="..\\images\gif-thumbs\GLA.gif"> GLa/GLc</a></td>
+                           <td>Hopper</td>
+                           <td>7</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/GS.html"><img class="gif" title="PRR GSd Gondola" alt="PRR GSd Gondola" src="..\\images\gif-thumbs\GSD.gif"> GS/GSd</a></td>
+                           <td>Gondola</td>
+                           <td>3</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/X23.html"><img class="gif" title="PRR X23 Boxcar" alt="PRR X23 Boxcar" src="..\\images\gif-thumbs\X23.gif"> X23</a></td>
+                           <td>Boxcar</td>
+                           <td>9</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/X25.html"><img class="gif" title="PRR X25 Boxcar" alt="PRR X25 Boxcar" src="..\\images\gif-thumbs\X25.gif"> X25</a></td>
+                           <td>Boxcar</td>
+                           <td>12</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/X26.html"><img class="gif" title="PRR X26 Boxcar" alt="PRR X26 Boxcar" src="..\\images\gif-thumbs\X26.gif"> X26</a></td>
+                           <td>Boxcar</td>
+                           <td>13</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/X28A.html"><img class="gif" title="PRR X28a Boxcar" alt="PRR X28a Boxcar" src="..\\images\gif-thumbs\X28A.gif"> X28a</a></td>
+                           <td>Boxcar</td>
+                           <td>2</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/X29.html"><img class="gif" title="PRR X29 Boxcar" alt="PRR X29 Boxcar" src="..\\images\gif-thumbs\X29.gif"> X29</a></td>
+                           <td>Boxcar</td>
+                           <td>34</td>
+                        </tr>
+                        <tr class="PRR">
+                           <td>PRR</td>
+                           <td><a href="./freightcars/XL.html"><img class="gif" title="PRR XL Boxcar" alt="PRR XL Boxcar" src="..\\images\gif-thumbs\XL.gif"> XL</a></td>
+                           <td>Boxcar</td>
+                           <td>51</td>
+                        </tr>
+                        <tr class="SAL">
+                           <td>SAL</td>
+                           <td><a href="./freightcars/SAL-B6.html"><img class="gif" title="SAL B-6 Boxcar" alt="SAL B-6 Boxcar" src="..\\images\gif-thumbs\SAL-B6.gif"> B-6</a></td>
+                           <td>Boxcar</td>
+                           <td>1</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+               <td>
+                  <div id="chart_div_stacked"></div>
+               </td>
+            </tr>
          </table>
       </div>
       <!--#include file="footer.shtml"--></body>

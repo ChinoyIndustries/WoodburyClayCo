@@ -6,8 +6,9 @@ bills = element bills { bill+ }
 bill = element bill { date, imgrefs, carloads, billid, kind, ref* }
 date = element date { xsd:date }
 imgrefs = element imgrefs { imgref* }
-imgref = element imgref { xsd:anyURI, alt? }
+imgref = element imgref { xsd:anyURI, alt?, class? }
 alt = attribute alt { text }
+class = attribute class { text }
 billid = attribute billid { xsd:int }
 kind = attribute kind { "C0" | "C1" | "C2" }
 # C0 is outbound carload/customer, C1 is inbound carload/supplier, C2 is shipper in Oreminea

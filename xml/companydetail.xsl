@@ -9,6 +9,8 @@
             <meta name="author" content="C. R. Chinoy"/>
             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
             <link rel="stylesheet" type="text/css" href="../css/index.css"/>
+            <link rel="icon" type="image/png" href="../images/wcc-32.png" sizes="32x32"/>
+            <link rel="icon" type="image/png" href="../images/wcc-16.png" sizes="16x16"/>
           </head>
           <body>
             <xsl:comment>#include virtual="/header.shtml"</xsl:comment>
@@ -16,9 +18,9 @@
               <h1>
                 <xsl:value-of select="name"/>
               </h1>
-              <p>
+              <div class="textcontent">
                 <xsl:value-of select="desc" disable-output-escaping="yes"/>
-              </p>
+              </div>
               <xsl:for-each select="./plants/plant">
                 <hr/>
                 <h2>
@@ -38,30 +40,28 @@
                     <xsl:text> Shipment</xsl:text>
                   </xsl:if>
                 </h3>
-                <p>
+                <div class="textcontent">
                   <xsl:value-of select="desc" disable-output-escaping="yes"/>
-                </p>
+                </div>
               </xsl:for-each>
               <hr/>
               <h4>References and Further Reading</h4>
-              <p>
-                <i>(Raw URL's, because spoiler alert: I haven't decided how to display these
-                  yet! Holy crap, this is a CSS failure. Please fix this immediately.)</i>
-              </p>
               <xsl:if test="count(reflist/ref) > 0">
-                <ol>
-                  <xsl:for-each select="./reflist/ref">
-                    <li>
-                      <a>
-                        <xsl:attribute name="href">
+                <div id="reflist">
+                  <ol>
+                    <xsl:for-each select="./reflist/ref">
+                      <li>
+                        <a>
+                          <xsl:attribute name="href">
+                            <xsl:value-of select="."/>
+                          </xsl:attribute>
+                          <xsl:attribute name="target">_blank</xsl:attribute>
                           <xsl:value-of select="."/>
-                        </xsl:attribute>
-                        <xsl:attribute name="target">_blank</xsl:attribute>
-                        <xsl:value-of select="."/>
-                      </a>
-                    </li>
-                  </xsl:for-each>
-                </ol>
+                        </a>
+                      </li>
+                    </xsl:for-each>
+                  </ol>
+                </div>
               </xsl:if>
               <!-- imgref-for-when-you-need-it
                 <xsl:if test="imgref != ''">

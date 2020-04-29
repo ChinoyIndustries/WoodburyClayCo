@@ -1,3 +1,15 @@
+@media only screen and (max-device-width: 900px) {
+        .textcontent {
+            text-align: left;
+            margin: 0 auto;
+            width: 95%;
+            line-height: 1.75em;
+            font-size: 14px;
+        }  
+        #headerImage {
+            width: 300px;  
+}
+}
 body, tbody {
     font-family: Verdana;
     font-size: 13px;
@@ -8,17 +20,20 @@ thead {
     font-weight: bold;
 }
 #header {
-    background-color: #333;
-    color: #9D5537;
+    background-color: #444;
+    color: #f0dda8;
     font-size: 35px;
-    padding: 20px 0 10px 0;
+    padding: 10px 0 0 0;
     text-align: center;
     font-family: Verdana;
     font-weight: bold;
 }
+#headerImage {
+    width: 45vw;  
+}
 #footer {
-    background-color: #333;
-    color: #9D5537;
+    background-color: #444;
+    color: #752b1b;
     font-size: 10px;
     padding: 15px 0 15px 0;
     text-align: center;
@@ -26,46 +41,216 @@ thead {
     font-weight: bold;
 }
 #footer a[href] {
-    color:white;
+    color:#f0dda8;
     text-decoration: none;    
 }
 #menu {
-    background-color: #333;
-    color: #9D5537;
-    font-size: 14px;
+    background-color: #444;
+    color: #752b1b;
+    font-size: 15px;
     padding: 10px 0;
     text-align: center;
     font-family: Verdana;
+    font-weight: bold;
 }
 #menu a[href] {
-    color:white;
+    color:#f0dda8;
     text-decoration: none;
-}
-table, th, td {
-    border: 1px solid #555; 
-    border-collapse: collapse;
-}
-table.center {
-    width:70%; 
-    margin-left:15%; 
-    margin-right:15%;
 }
 td {
     padding: 3px 5px;
+}
+#whatsnew {
+    width: 50%;
+    padding: 10px;
+    margin: 0 auto;
+    border: 2px solid #752b1b;
+    text-align: left;
+    background-color: #f0dda8;
+    line-height: 1.5em;     
+}
+.whatsnewdate {
+    font-weight: bold   
 }
 .billimg {
     margin-top: 15px;
     border: 20px solid #000;
     border-radius: 2px;
+    width: 1000px;
 }
 #content {
     margin: 15px;
-    text-align: center
+    text-align: center;
+    font-size: 14px;
+}
+.textcontent {
+    text-align: left;
+    margin: 0 auto;
+    width: 75%;
+    line-height: 1.75em;
+    font-size: 14px;
 }
 label {
     cursor: pointer;
 }
 .banner {
-  width: 100%;
-  height: auto;
+    width: 75%;
+    height: auto;
 }
+#leftarrow {
+    height: 75px;
+    transform: rotate(180deg);
+}
+#rightarrow {
+    height: 75px;
+}
+#leftarrowcontainer {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    z-index: 100;
+}
+#rightarrowcontainer {
+    position: absolute;
+    top: 200px;
+    right: 100px;    
+    z-index: 100;
+}
+#classtable, #carloadtable, #companytable, #formtable {
+    margin: 0 auto;
+    max-width: 85%;
+    border: 1px solid #555; 
+    border-collapse: collapse;
+}
+#billdetailtable {
+    margin: 0 auto;
+    max-width: 75%;
+    border: 1px solid #555; 
+    border-collapse: collapse;
+}
+#carloadtable thead tr th, #companytable thead tr th, #classtable thead tr th, #formtable thead tr th, #billdetailtable thead tr th {
+    background-color: #444;
+    color: #f0dda8;
+    padding: 0 10px;
+    border: 1px solid #555; 
+    border-collapse: collapse;
+}
+#carloadtable td, #companytable td, #classtable td, #formtable td, #billdetailtable td{
+    margin: 0 15px;  
+    border: 1px solid #555; 
+    border-collapse: collapse;
+}
+#carloadtable tbody tr td, #billdetailtable tbody tr td {
+    white-space: nowrap;
+}
+#carloadtable tbody tr td:last-child, #billdetailtable tbody tr td:last-child {
+    white-space: normal;
+}
+#billdetailtable tbody tr td:nth-child(6) {
+    white-space: normal;
+}
+#classtable tbody tr td {
+    white-space: normal;
+    text-align: left;
+    vertical-align: middle;
+}
+#classtable tbody tr td:nth-child(2) {
+    white-space: nowrap;
+}
+#classtable tbody tr td:last-child {
+    text-align: center;
+}
+#carcountdisplay {
+    margin: 0 auto;
+    border: none;
+}
+.gif {
+    vertical-align: middle;
+}
+.display {
+    margin-top: 15px;
+    border: 20px solid #000;
+    border-radius: 2px;
+    max-width: 1000px;
+}
+#reflist {
+    display: table;
+    margin: 0 auto;
+    text-align: left;    
+}
+#glossary {
+    margin: 0 auto;
+    border: none;
+    width: 75%;
+}
+#glossary td {
+    border: none;
+    text-align: left;
+    vertical-align: top;
+    width: 33%;
+    line-height: 1.75em;
+}
+#chartdisplay {
+    margin: 0 auto;
+    border: none;
+}
+#chartdisplay td {
+    text-align: center;
+    vertical-align: top;
+}
+#histograms {
+    margin: 0 auto 20px auto;
+    display: table;
+    border: 1px solid #DEDEDE;
+}
+#chart_div_miles, #chart_div_cars, #chart_div_car-miles {
+    float: left;
+    border: 1px solid #DEDEDE;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+#chart_div_miles {
+    margin-right: 20px;
+}
+#chart_div_cars {
+    margin-right: 20px;  
+}
+#chart_div_stacked {
+    width: 400px;
+    height: 600px;
+    text-align: center;
+    vertical-align: middle;
+}
+#chart_div_sankey {
+    display: table;
+    margin: -10px auto 50px auto;
+    width: 1000px;
+    height: 450px; 
+}
+#github img {
+    vertical-align: middle;
+    margin: 15px;
+}
+#github, #github a[href] {
+    color: #1b1f23;
+    font-size: 18px;
+    text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+#abouttheauthor {
+    float: left;
+    height: 230px;
+    margin: 0 40px 0 0;
+    border: 8px solid #444;
+}
+
+
+
+
+
+
+
+

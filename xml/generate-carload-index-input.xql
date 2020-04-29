@@ -7,6 +7,8 @@ xquery version "3.1";
         let $classtable := doc('carclasstable.xml')
         let $bills := $carloadtable//bill
         for $bill in $bills
+        let $linkprevious := string($bill/preceding-sibling::bill[1]/@billid)
+        let $linknext := string($bill/following-sibling::bill[1]/@billid)
         return
         <bill billid="{$bill/@billid}" kind="{$bill/@kind}">
             {
@@ -34,6 +36,8 @@ xquery version "3.1";
             for $imgref in $imgrefs
             return $imgref
             }
+            <linkprevious>{concat('bill_',$linkprevious,'.html')}</linkprevious>
+            <linknext>{concat('bill_',$linknext,'.html')}</linknext>
         </bill>
         }
     </bills>

@@ -4,13 +4,19 @@
       <title>The Woodbury Clay Co Project.</title>
       <meta name="author" content="C. R. Chinoy">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="stylesheet" type="text/css" href="css/index.css"><script src="js/companyindex.js"></script></head>
+      <link rel="stylesheet" type="text/css" href="css/index.css"><script src="js/companyindex.js"></script><script src="https://www.gstatic.com/charts/loader.js"></script><script src="js/histograms.js"></script><link rel="icon" type="image/png" href="images/wcc-32.png" sizes="32x32">
+      <link rel="icon" type="image/png" href="images/wcc-16.png" sizes="16x16">
+   </head>
    <body><!--#include file="header.shtml"-->
       <div id="content">
          <h1>Shippers and Customers</h1>
          <p>Describe the list of companies that appear in the collection here.</p>
+         <div id="histograms">
+            <div id="chart_div_miles" style="width: 600px; height: 250px;"></div>
+            <div id="chart_div_cars" style="width: 600px; height: 250px;"></div>
+            <div id="chart_div_car-miles" style="width: 600px; height: 250px;"></div><br style="clear:both"></div>
          <form><input type="radio" value="all" name="company" id="companyAll" checked><label for="companyAll">View All Companies</label><input type="radio" value="shipper" name="company" id="companyShipper"><label for="companyShipper">View Shippers to W.C.C.</label><input type="radio" value="customer" name="company" id="companyCustomer"><label for="companyCustomer">View Customers of W.C.C.</label></form>
-         <table id="companytable" class="center">
+         <table id="companytable">
             <thead>
                <tr>
                   <th>Industry</th>
