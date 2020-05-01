@@ -44,7 +44,7 @@
                   <thead>
                     <tr>
                       <th>Railroad</th>
-                      <th>Class</th>
+                      <th colspan="2">Class</th>
                       <th>Type</th>
                       <th>No. Featured</th>
                     </tr>
@@ -78,7 +78,15 @@
                                 <xsl:value-of select="imgrefs/imgref[@class = 'gif']"/>
                               </xsl:attribute>
                             </img>
-                            <xsl:text> </xsl:text>
+                          </a>
+                        </td>
+                        <td>
+                          <a>
+                            <xsl:attribute name="href">
+                              <xsl:text>./freightcars/</xsl:text>
+                              <xsl:value-of select="pagename"/>
+                              <xsl:text>.html</xsl:text>
+                            </xsl:attribute>
                             <xsl:value-of select="classname"/>
                           </a>
                         </td>

@@ -34,8 +34,8 @@
               remaining 111 carloads being outbound loads of clay. Of these, 17 were ordered by the
                 <a href="companies/thomas-sant.html">Thomas H. Sant &amp; Sons Co.</a>, a brokerage
               firm who marketed high-grade white clays from various mines around the eastern U.S. to
-              customers in the porcelain and ceramic industries. The majority of shipments, from the
-              W.C.C. itself, were to its various customers in the refractory brick and steel
+              customers in the porcelain and ceramic industries. The
+              W.C.C. itself mainly shipped to customers in the refractory brick and steel
               industries. (Steel mills often manufactures their own refractory shapes for their
               furnaces on-site, and several of the refractory plants to which the W.C.C. shipper
               were directly adjacent to major steel mills.) Inbound supplies to Oreminea included
@@ -47,7 +47,10 @@
           </div>
           <div id="chart_div_sankey"/>
           <div class="textcontent">
-            <p>Below are all 144 carloads recorded from the Woodbury Clay Co. in order. Click on a car to view the bills and receipts associated with it. Some inbound freight bills have one or more PRR or Railway Express receipts pinned to them, so make sure to scroll all the way down on each bill you view!</p>
+            <p>Below are all 144 carloads recorded from the Woodbury Clay Co. in order. Click on a
+              car to view the bills and receipts associated with it. Some inbound freight bills have
+              one or more PRR or Railway Express receipts pinned to them, so make sure to scroll all
+              the way down on each bill you view!</p>
           </div>
           <div id="carloadtable_form">
             <form>
@@ -63,7 +66,7 @@
             <thead>
               <tr>
                 <th>Date</th>
-                <th>Car</th>
+                <th colspan="2">Car</th>
                 <th>Class</th>
                 <th>From</th>
                 <th>To</th>
@@ -79,6 +82,28 @@
                   </xsl:attribute>
                   <td>
                     <xsl:value-of select="date"/>
+                  </td>
+                  <td>
+                    <xsl:if test="class != ''">
+                      <a>
+                        <xsl:attribute name="href">
+                          <xsl:text>./carloadtable/bill_</xsl:text>
+                          <xsl:value-of select="parent::bill/@billid"/>
+                          <xsl:text>.html</xsl:text>
+                        </xsl:attribute>
+                        <img class="gif">
+                          <xsl:attribute name="title">
+                            <xsl:value-of select="gifref/@alt"/>
+                          </xsl:attribute>
+                          <xsl:attribute name="alt">
+                            <xsl:value-of select="gifref/@alt"/>
+                          </xsl:attribute>
+                          <xsl:attribute name="src">
+                            <xsl:value-of select="gifref"/>
+                          </xsl:attribute>
+                        </img>
+                      </a>
+                    </xsl:if>
                   </td>
                   <td>
                     <a>

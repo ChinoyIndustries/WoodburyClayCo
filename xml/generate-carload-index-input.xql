@@ -17,6 +17,7 @@ xquery version "3.1";
             let $class := $classtable//class[@classid = $carload/@classid]
             let $shipper := $companytable//plant[@plantid = $carload/@shipperid]
             let $consignee := $companytable//plant[@plantid = $carload/@consigneeid]
+            let $gifref := $classtable//class[@classid = $carload/@classid]/imgrefs/imgref[@class = 'gif']
             return
             <carload>
                 <date>{$bill/date/text()}</date>
@@ -29,6 +30,7 @@ xquery version "3.1";
                 <consLink>{concat($consignee/parent::plants/parent::company/pagename,'.html')}</consLink>
                 <freight>{$carload/lading/text()}</freight>
                 <desc>{$carload/desc/text()}</desc>
+                <gifref alt="{$gifref/@alt}">{$gifref/text()}</gifref>
             </carload>
             }
             {

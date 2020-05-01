@@ -17,9 +17,10 @@
                         2980; no listing of PRR freight commodity numbers is known. Unfortunately,
                         the freight agent neglected to mark the car this shipment traveled
                         in!</desc>
+            <gifref alt=""/>
          </carload>
          <imgref>..\images\bills\wcc001.jpg</imgref>
-         <linkprevious/>
+         <linkprevious>bill_.html</linkprevious>
          <linknext>bill_002.html</linknext>
       </bill>
       <bill billid="002" kind="C1">
@@ -41,6 +42,7 @@
                         href="https://www.flickr.com/photos/pennstatespecial/7026606741/in/album-72157629132251744/"
                         target="_blank"&gt;here&lt;/a&gt;, courtesy of Penn State
                         University Library's Special Collections.</desc>
+            <gifref alt="BO M-15a Boxcar">..\\images\gif-thumbs\BO-M15A.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc002.jpg</imgref>
          <linkprevious>bill_001.html</linkprevious>
@@ -60,6 +62,7 @@
                         Tablets, 10 Cartons Milk, 3 Bags Sugar, 1 Case Sugar, 1 Case Sugar, 1 Carton
                         Powdered Sugar</freight>
             <desc>An order of foodstuffs from a grocer in Philadelphia.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc003.jpg</imgref>
          <linkprevious>bill_002.html</linkprevious>
@@ -80,6 +83,7 @@
                         to the system of hazardous cargo labels commonly in use at this time. Yellow
                         labels were used for freight that was inflammable, but not liable to
                         explode. CITE THIS WITH SOMETHING!</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc004.jpg</imgref>
          <linkprevious>bill_003.html</linkprevious>
@@ -100,6 +104,7 @@
                         correcting the destination listed as "Williamsburg - Oreminea - PA", i.e.
                         the branch and siding for the Woodbury Clay Co. Evidently it had not been
                         deliverable as originally specified.</desc>
+            <gifref alt=""/>
          </carload>
          <imgref>..\images\bills\wcc005.jpg</imgref>
          <imgref>..\images\bills\wcc006.jpg</imgref>
@@ -120,6 +125,7 @@
             <desc>This bill has been the principal source of aggravation in this project. A
                         reward is offered to any individual who can conclusively determine what coal
                         mine this refers to and where it was located.</desc>
+            <gifref alt="PRR GLa Hopper">..\\images\gif-thumbs\GLA.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc007.jpg</imgref>
          <imgref>..\images\bills\wcc008.jpg</imgref>
@@ -140,6 +146,7 @@
             <desc>Both freight bills from the Dean Coal Co. give the same station number
                         (9593), and so this also refers to the "Fruhlinger Coll. No. 1" from the
                         previous bill.</desc>
+            <gifref alt="PRR GLa Hopper">..\\images\gif-thumbs\GLA.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc009.jpg</imgref>
          <imgref>..\images\bills\wcc010.jpg</imgref>
@@ -167,6 +174,7 @@
                         href="http://magazine.trainlife.com/rmj_1989_7/" target="_blank"&gt;Rail
                         Model Journal, July 1989&lt;/a&gt;, p. 47 for more information on these
                         cars.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc011.jpg</imgref>
          <imgref>..\images\bills\wcc012.jpg</imgref>
@@ -185,6 +193,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>Bituminous Coal</freight>
             <desc/>
+            <gifref alt="PRR GLa Hopper">..\\images\gif-thumbs\GLA.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc013.jpg</imgref>
          <linkprevious>bill_011.html</linkprevious>
@@ -202,6 +211,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>1 Bale Crib Mattresses, 1 Carton Crib []</freight>
             <desc>A shipment of mattresses and bedding for the residents of Oreminea.</desc>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc014.jpg</imgref>
          <imgref>..\images\bills\wcc015.jpg</imgref>
@@ -225,6 +235,7 @@
                         specified on the bill, but one thing is for certain—it would have been
                         placarded "EXPLOSIVES"! These were supplies for blasting within the mine pit
                         at Oreminea.</desc>
+            <gifref alt=""/>
          </carload>
          <imgref>..\images\bills\wcc016.jpg</imgref>
          <imgref>..\images\bills\wcc017.jpg</imgref>
@@ -253,6 +264,7 @@
                         of "501 Bdks Bklyn Ba Wav Tfr N.J." is unclear but most likely refers to the
                         shipment being received and forwarded via the freight transfer terminal in
                         nearby Waverly, N.J., which ceased operations shortly after WWII.</desc>
+            <gifref alt="BO M-26D Boxcar">..\\images\gif-thumbs\BO-M26D.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc018.jpg</imgref>
          <imgref>..\images\bills\wcc019.jpg</imgref>
@@ -274,6 +286,7 @@
                         Hose</freight>
             <desc>An LCL shipment of various supplies for the general store in
                         Oreminea.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc020.jpg</imgref>
          <linkprevious>bill_018.html</linkprevious>
@@ -292,6 +305,7 @@
             <freight>1 Carton Sewing Notions</freight>
             <desc>A small LCL package, shipped out of Baltimore's President Street freight
                         station.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc021.jpg</imgref>
          <imgref>..\images\bills\wcc022.jpg</imgref>
@@ -313,6 +327,7 @@
             <desc>A mobile pump on wheels, probably for draining water out of the clay pits.
                         Stapled to the bill is a a neat little snapshot of daily life around the
                         Woodbury Clay Co., a handwritten note concerning "office expenses".</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc024.jpg</imgref>
          <imgref>..\images\bills\wcc025.jpg</imgref>
@@ -331,6 +346,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>2 Boxes Bolts, 6 Steel Bars, 1 Carton Washers</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc026.jpg</imgref>
          <linkprevious>bill_024.html</linkprevious>
@@ -352,6 +368,7 @@
                         PRR, where it was transloaded into this car from a car not specified on the
                         bill at the 11th St. Freight Station before finally traveling to
                         Oreminea.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc027.jpg</imgref>
          <imgref>..\images\bills\wcc028.jpg</imgref>
@@ -374,6 +391,7 @@
                         double-sheathed 40' boxcar inherited by the NKP in 1922 from the Lake Erie
                         &amp; Western RR. It too was transloaded into a PRR car at 11th St. Station
                         in Pittsburgh for final delivery.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc029.jpg</imgref>
          <linkprevious>bill_027.html</linkprevious>
@@ -392,6 +410,7 @@
             <freight>1 Keg of Chain, 1 Carton Wool Waste</freight>
             <desc>Wool waste would have been soaked in oil and used for packing journal
                         bearings on mine cars and other equipment with plain bearings.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc030.jpg</imgref>
          <linkprevious>bill_029.html</linkprevious>
@@ -409,6 +428,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>2 Bundles Long Handle Shovels (1 dozen each)</freight>
             <desc>Transloaded at Altoona from PRR #43668, an X23 boxcar.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc031.jpg</imgref>
          <linkprevious>bill_030.html</linkprevious>
@@ -438,6 +458,7 @@
                         supplemented an earlier gas-powered model that was in need of repair. A
                         photo appears in that penn state gallery, link to it, finish description,
                         lorem ipsum dolor sit amet.&lt;/p&gt;</desc>
+            <gifref alt="PRR F30 with Lorain Model 40 Shovel">..\\images\gif-thumbs\F30-Lorain-Shovel.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc032.jpg</imgref>
          <linkprevious>bill_031.html</linkprevious>
@@ -455,6 +476,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>1 keg RR spikes, 1 keg RR bolts, 1 iron jack w/ handle att.</freight>
             <desc/>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc033.jpg</imgref>
          <linkprevious>bill_032.html</linkprevious>
@@ -472,6 +494,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>2 bales cotton waste, manufactured (not oiled)</freight>
             <desc/>
+            <gifref alt="NH 36' Boxcar">..\\images\gif-thumbs\NH.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc034.jpg</imgref>
          <linkprevious>bill_033.html</linkprevious>
@@ -490,6 +513,7 @@
             <freight>1 Box Power Shovel Parts</freight>
             <desc>Shipped Railway Express on NKP, transloaded from DL&amp;amp;W #40267 at
                         Cleveland, routed via Ashtabula. Check this.</desc>
+            <gifref alt="BM XM-1 Boxcar">..\\images\gif-thumbs\BM-XM1.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc035.jpg</imgref>
          <imgref>..\images\bills\wcc036.jpg</imgref>
@@ -509,6 +533,7 @@
             <freight>1 Power Pump on Truck</freight>
             <desc>A mobile pump on wheels, probably for draining water out of the clay pits.
                         Transloaded into this car at Pittsburgh. Check this.</desc>
+            <gifref alt="CNJ 40' Boxcar">..\\images\gif-thumbs\CNJ.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc037.jpg</imgref>
          <linkprevious>bill_035.html</linkprevious>
@@ -527,6 +552,7 @@
             <freight>1 Bale Rubber Hose</freight>
             <desc>"Paid from Cash Sales". Shipped from Trenton, NJ freight station by an
                         unknown party.</desc>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc038.jpg</imgref>
          <linkprevious>bill_037.html</linkprevious>
@@ -546,6 +572,7 @@
             <desc>NYC&amp;amp;StL, via PRR from Ashtabula OH. Consigned to Woodbury Clay Co.
                         but delivered to Ganister, PA, just up the valley and one stop beyond
                         Williamsburg. No idea why they had it sent there.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc039.jpg</imgref>
          <linkprevious>bill_038.html</linkprevious>
@@ -563,6 +590,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>1 Carton/Bale Mattresses (Burlapped)</freight>
             <desc>Received from consignor at Jay St. LCL Terminal, Brooklyn, NY.</desc>
+            <gifref alt="SAL B-6 Boxcar">..\\images\gif-thumbs\SAL-B6.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc040.jpg</imgref>
          <linkprevious>bill_039.html</linkprevious>
@@ -582,6 +610,7 @@
             <desc>Stapled to this bill are three additional Railway Express receipts for
                         individual boxes of shoes that arrived at Oreminea on recent dates. Each is
                         listed as a separate shipment.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc041.jpg</imgref>
          <linkprevious>bill_040.html</linkprevious>
@@ -599,6 +628,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>1 Box of Shoes</freight>
             <desc>Railway Express receipt only, no car or routing information.</desc>
+            <gifref alt=""/>
          </carload>
          <imgref>..\images\bills\wcc042.jpg</imgref>
          <linkprevious>bill_041.html</linkprevious>
@@ -616,6 +646,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>1 Box of Shoes</freight>
             <desc>Railway Express receipt only, no car or routing information.</desc>
+            <gifref alt=""/>
          </carload>
          <imgref>..\images\bills\wcc043.jpg</imgref>
          <linkprevious>bill_042.html</linkprevious>
@@ -633,6 +664,7 @@
             <consLink>woodbury-clay.html</consLink>
             <freight>1 Box of Shoes</freight>
             <desc>Railway Express receipt only, no car or routing information.</desc>
+            <gifref alt=""/>
          </carload>
          <imgref>..\images\bills\wcc044.jpg</imgref>
          <linkprevious>bill_043.html</linkprevious>
@@ -650,6 +682,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1931-04-22</date>
@@ -662,6 +695,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc045.jpg</imgref>
          <linkprevious>bill_044.html</linkprevious>
@@ -679,6 +713,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc046.jpg</imgref>
          <linkprevious>bill_045.html</linkprevious>
@@ -696,6 +731,7 @@
             <consLink>north-am-refractory.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc047.jpg</imgref>
          <linkprevious>bill_046.html</linkprevious>
@@ -714,6 +750,7 @@
             <freight>Fireclay</freight>
             <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
                         the Western Maryland.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc048.jpg</imgref>
          <linkprevious>bill_047.html</linkprevious>
@@ -731,6 +768,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc049.jpg</imgref>
          <linkprevious>bill_048.html</linkprevious>
@@ -748,6 +786,7 @@
             <consLink>bethlehem-steel.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1931-08-12</date>
@@ -760,6 +799,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc050.jpg</imgref>
          <linkprevious>bill_049.html</linkprevious>
@@ -777,6 +817,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc051.jpg</imgref>
          <linkprevious>bill_050.html</linkprevious>
@@ -794,6 +835,7 @@
             <consLink>north-am-refractory.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc052.jpg</imgref>
          <linkprevious>bill_051.html</linkprevious>
@@ -811,6 +853,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc053.jpg</imgref>
          <linkprevious>bill_052.html</linkprevious>
@@ -828,6 +871,7 @@
             <consLink>locke-insulator.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <carload>
             <date>1931-09-15</date>
@@ -841,6 +885,7 @@
             <freight>Fireclay</freight>
             <desc>Routed via Johnsonburg, PA and the BR&amp;amp;P (Buffalo, Rochester &amp;
                         Pittsburgh)</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc054.jpg</imgref>
          <linkprevious>bill_053.html</linkprevious>
@@ -858,6 +903,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1931-09-15</date>
@@ -870,6 +916,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc055.jpg</imgref>
          <linkprevious>bill_054.html</linkprevious>
@@ -887,6 +934,7 @@
             <consLink>general-refractories.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc056.jpg</imgref>
          <linkprevious>bill_055.html</linkprevious>
@@ -904,6 +952,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc057.jpg</imgref>
          <linkprevious>bill_056.html</linkprevious>
@@ -922,6 +971,7 @@
             <freight>Fireclay</freight>
             <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
                         the Western Maryland.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc058.jpg</imgref>
          <linkprevious>bill_057.html</linkprevious>
@@ -941,6 +991,7 @@
             <desc>A single car of coal from a Dean Coal Co. mine in Coalport to the Woodbury
                         Clay Co. This is the only C.T.1098 "Report of Carloads Weighed" form in the
                         collection that actually represents an inbound shipment to Oreminea.</desc>
+            <gifref alt="PRR GLa Hopper">..\\images\gif-thumbs\GLA.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc059.jpg</imgref>
          <linkprevious>bill_058.html</linkprevious>
@@ -960,6 +1011,7 @@
             <desc>A weight receipt from the East Altoona Scales, prepared by a Weighmaster
                         there who evidently was not armed with a typewriter. Notably, the date here
                         is incorporated into the scale agent's rubber stamp.</desc>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc060.jpg</imgref>
          <linkprevious>bill_059.html</linkprevious>
@@ -979,6 +1031,7 @@
             <desc>This car would have traveled all but the the final mile of its journey on
                         PRR rails, with the final switching from the nearby PRR receiving yard into
                         the mill performed by the South Buffalo Railway.</desc>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc061.jpg</imgref>
          <linkprevious>bill_060.html</linkprevious>
@@ -996,6 +1049,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc062.jpg</imgref>
          <linkprevious>bill_061.html</linkprevious>
@@ -1015,6 +1069,7 @@
             <desc>This car would have traveled all but the the final mile of its journey on
                         PRR rails, with the final switching from the nearby PRR receiving yard into
                         the mill performed by the South Buffalo Railway.</desc>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc063.jpg</imgref>
          <linkprevious>bill_062.html</linkprevious>
@@ -1034,6 +1089,7 @@
             <desc>A shipment to Canada! This car was sent all the way up the PRR Buffalo
                         Line through to Buffalo, NY, then transferred to the MCRR (Michigan Central)
                         and ultimately the TH&amp;amp;B (Toronto, Hamilton &amp; Buffalo).</desc>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc064.jpg</imgref>
          <linkprevious>bill_063.html</linkprevious>
@@ -1055,6 +1111,7 @@
                         junction (where the Mon Line branches off the main), through to the
                         Panhandle down to Wheeling, WV, where it was finally interchanged to and
                         delivered by the B&amp;amp;O.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc065.jpg</imgref>
          <linkprevious>bill_064.html</linkprevious>
@@ -1072,6 +1129,7 @@
             <consLink>north-am-refractory.html</consLink>
             <freight>Fireclay</freight>
             <desc>A very spooky shipment.</desc>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc066.jpg</imgref>
          <linkprevious>bill_065.html</linkprevious>
@@ -1093,6 +1151,7 @@
                         penmanship. Later bills for shipments to this plant specify a routing via
                         Hobart, IL, and there transferred to the EJ&amp;amp;E. (Elgin, Joliet &amp;
                         Eastern) for delivery.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc067.jpg</imgref>
          <linkprevious>bill_066.html</linkprevious>
@@ -1110,6 +1169,7 @@
             <consLink>north-am-refractory.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc068.jpg</imgref>
          <linkprevious>bill_067.html</linkprevious>
@@ -1128,6 +1188,7 @@
             <freight>Fireclay</freight>
             <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
                         the Western Maryland.</desc>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc069.jpg</imgref>
          <linkprevious>bill_068.html</linkprevious>
@@ -1148,6 +1209,7 @@
                         the Woodbury Clay Co. turned up to be weighed and forwarded at Altoona on
                         the same day. One of them must have been held up in the yard. (Multiple cars
                         traveling together are listed on a single bill)</desc>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc070.jpg</imgref>
          <linkprevious>bill_069.html</linkprevious>
@@ -1168,6 +1230,7 @@
                         the Woodbury Clay Co. turned up to be weighed and forwarded at Altoona on
                         the same day. One of them must have been held up in the yard. (Multiple cars
                         traveling together are listed on a single bill)</desc>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc071.jpg</imgref>
          <linkprevious>bill_070.html</linkprevious>
@@ -1185,6 +1248,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <carload>
             <date>1933-05-12</date>
@@ -1197,6 +1261,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc072.jpg</imgref>
          <linkprevious>bill_071.html</linkprevious>
@@ -1214,6 +1279,7 @@
             <consLink>general-refractories.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc073.jpg</imgref>
          <linkprevious>bill_072.html</linkprevious>
@@ -1231,6 +1297,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc074.jpg</imgref>
          <linkprevious>bill_073.html</linkprevious>
@@ -1250,6 +1317,7 @@
             <desc>The Pennsy's finest equipment showed up for this shipment: a pair of brand
                         new, nearly sequential X29 boxcars out on one of their first journeys after
                         delivery.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-06-07</date>
@@ -1262,6 +1330,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc075.jpg</imgref>
          <linkprevious>bill_074.html</linkprevious>
@@ -1279,6 +1348,7 @@
             <consLink>youngstown-sheet-tube.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-06-11</date>
@@ -1291,6 +1361,7 @@
             <consLink>bethlehem-steel.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <carload>
             <date>1933-06-11</date>
@@ -1303,6 +1374,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc076.jpg</imgref>
          <linkprevious>bill_075.html</linkprevious>
@@ -1321,6 +1393,7 @@
             <freight>Fireclay</freight>
             <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
                         the Western Maryland.</desc>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc077.jpg</imgref>
          <linkprevious>bill_076.html</linkprevious>
@@ -1340,6 +1413,7 @@
             <desc>This carload was sent down the Southwest Penna. branch to Everson
                         (adjacent to Scottdale, 1945-p. 242), and there was transferred to the
                         B&amp;amp;O for its journey down into West Virginia.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc078.jpg</imgref>
          <linkprevious>bill_077.html</linkprevious>
@@ -1357,6 +1431,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <carload>
             <date>1933-06-23</date>
@@ -1369,6 +1444,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-06-23</date>
@@ -1381,6 +1457,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-06-23</date>
@@ -1394,6 +1471,7 @@
             <freight>Fireclay</freight>
             <desc>Delivered via the Indiana Harbor Belt from PRR interchange in East
                         Chicago.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc079.jpg</imgref>
          <linkprevious>bill_078.html</linkprevious>
@@ -1413,6 +1491,7 @@
             <desc>There must have been a momentary shortage of empty boxcars in the Altoona
                         yard that day, as this is the only hopper sent to Oreminea for clay
                         loading</desc>
+            <gifref alt="PRR GLa Hopper">..\\images\gif-thumbs\GLA.gif</gifref>
          </carload>
          <carload>
             <date>1933-06-25</date>
@@ -1425,6 +1504,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-06-25</date>
@@ -1437,6 +1517,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc080.jpg</imgref>
          <linkprevious>bill_079.html</linkprevious>
@@ -1454,6 +1535,7 @@
             <consLink>youngstown-sheet-tube.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-07-14</date>
@@ -1466,6 +1548,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-07-14</date>
@@ -1478,6 +1561,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-07-14</date>
@@ -1490,6 +1574,7 @@
             <consLink>north-am-refractory.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc081.jpg</imgref>
          <linkprevious>bill_080.html</linkprevious>
@@ -1509,6 +1594,7 @@
             <desc>An unusual shipment, pre-purchased and shipped by the A. M. Byers Co. from
                         the Woodbury Clay Co. to its plant along the Ohio River. Equally unusual is
                         that they ordered a gondola, instead of a boxcar, for loading.</desc>
+            <gifref alt="PRR GSd Gondola">..\\images\gif-thumbs\GSD.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc082.jpg</imgref>
          <linkprevious>bill_081.html</linkprevious>
@@ -1526,6 +1612,7 @@
             <consLink>general-refractories.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-09</date>
@@ -1538,6 +1625,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-09</date>
@@ -1550,6 +1638,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-09</date>
@@ -1567,6 +1656,7 @@
                         D.C., where the PRR interchanged with the SOU via the RF&amp;amp;P, which
                         operated the yard. It was ripped up in 1989 by the RF&amp;amp;P's successor,
                         CSX, in an attempt to sell the land it occupied.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-09</date>
@@ -1579,6 +1669,7 @@
             <consLink>carnegie-illinois.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-09</date>
@@ -1591,6 +1682,7 @@
             <consLink>carnegie-illinois.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc083.jpg</imgref>
          <linkprevious>bill_082.html</linkprevious>
@@ -1608,6 +1700,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc084.jpg</imgref>
          <linkprevious>bill_083.html</linkprevious>
@@ -1625,6 +1718,7 @@
             <consLink>smith-stone.html</consLink>
             <freight>Fireclay</freight>
             <desc>Describe what all these prepaid bills and receipts are doing here.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc085.jpg</imgref>
          <imgref>..\images\bills\wcc111.jpg</imgref>
@@ -1646,6 +1740,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-23</date>
@@ -1658,6 +1753,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-23</date>
@@ -1670,6 +1766,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc086.jpg</imgref>
          <linkprevious>bill_085.html</linkprevious>
@@ -1688,6 +1785,7 @@
             <freight>Fireclay</freight>
             <desc>Routed via Fulton Jct. in Baltimore, there transferred and delivered on
                         the Western Maryland.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc087.jpg</imgref>
          <linkprevious>bill_086.html</linkprevious>
@@ -1705,6 +1803,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-25</date>
@@ -1717,6 +1816,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-25</date>
@@ -1729,6 +1829,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-25</date>
@@ -1741,6 +1842,7 @@
             <consLink>north-am-refractory.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc088.jpg</imgref>
          <linkprevious>bill_087.html</linkprevious>
@@ -1758,6 +1860,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-27</date>
@@ -1770,6 +1873,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-27</date>
@@ -1782,6 +1886,7 @@
             <consLink>mcfeely-brick.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-08-27</date>
@@ -1797,6 +1902,7 @@
                         destination was a chemical testing laboratory for the clay industry. One
                         wonders what possible purpose they could have had for an entire car of
                         clay.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc089.jpg</imgref>
          <linkprevious>bill_088.html</linkprevious>
@@ -1814,6 +1920,7 @@
             <consLink>bethlehem-steel.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc090.jpg</imgref>
          <linkprevious>bill_089.html</linkprevious>
@@ -1831,6 +1938,7 @@
             <consLink>taylor-smith-taylor.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc091.jpg</imgref>
          <linkprevious>bill_090.html</linkprevious>
@@ -1848,6 +1956,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc092.jpg</imgref>
          <linkprevious>bill_091.html</linkprevious>
@@ -1865,6 +1974,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc093.jpg</imgref>
          <linkprevious>bill_092.html</linkprevious>
@@ -1882,6 +1992,7 @@
             <consLink>carnegie-illinois.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR GSd Gondola">..\\images\gif-thumbs\GSD.gif</gifref>
          </carload>
          <carload>
             <date>1933-09-23</date>
@@ -1894,6 +2005,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc094.jpg</imgref>
          <linkprevious>bill_093.html</linkprevious>
@@ -1911,6 +2023,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc095.jpg</imgref>
          <linkprevious>bill_094.html</linkprevious>
@@ -1928,6 +2041,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc096.jpg</imgref>
          <linkprevious>bill_095.html</linkprevious>
@@ -1945,6 +2059,7 @@
             <consLink>youngstown-sheet-tube.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-10-15</date>
@@ -1957,6 +2072,7 @@
             <consLink>bethlehem-steel.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-10-15</date>
@@ -1969,6 +2085,7 @@
             <consLink>carnegie-illinois.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR GLa Hopper">..\\images\gif-thumbs\GLA.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc097.jpg</imgref>
          <linkprevious>bill_096.html</linkprevious>
@@ -1986,6 +2103,7 @@
             <consLink>carnegie-illinois.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-10-20</date>
@@ -1999,6 +2117,7 @@
             <freight>Fireclay</freight>
             <desc>Interchanged to the NYC&amp;amp;St.L (New York, Chicago &amp; St. Louis
                         RR, aka the Nickel Plate Road) at Cleveland, through to destination.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-10-20</date>
@@ -2011,6 +2130,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-10-20</date>
@@ -2023,6 +2143,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc098.jpg</imgref>
          <linkprevious>bill_097.html</linkprevious>
@@ -2040,6 +2161,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X26 Boxcar">..\\images\gif-thumbs\X26.gif</gifref>
          </carload>
          <carload>
             <date>1933-11-01</date>
@@ -2052,6 +2174,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-11-01</date>
@@ -2064,6 +2187,7 @@
             <consLink>general-refractories.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-11-01</date>
@@ -2076,6 +2200,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc099.jpg</imgref>
          <linkprevious>bill_098.html</linkprevious>
@@ -2095,6 +2220,7 @@
             <desc>This carload was sent down the Southwest Penna. branch to Everson
                         (adjacent to Scottdale, 1945-p. 242), and there was transferred to the
                         B&amp;amp;O for its journey down into West Virginia.</desc>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc100.jpg</imgref>
          <linkprevious>bill_099.html</linkprevious>
@@ -2112,6 +2238,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-11-17</date>
@@ -2124,6 +2251,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc101.jpg</imgref>
          <linkprevious>bill_100.html</linkprevious>
@@ -2146,6 +2274,7 @@
                         Co., two separate shipments on the same day is unusual, and all other
                         shipments to either McFeely or Locke Insulator have been from Sant so
                         far.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1933-11-17</date>
@@ -2158,6 +2287,7 @@
             <consLink>locke-insulator.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc102.jpg</imgref>
          <linkprevious>bill_101.html</linkprevious>
@@ -2175,6 +2305,7 @@
             <consLink>carnegie-illinois.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR GSd Gondola">..\\images\gif-thumbs\GSD.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc103.jpg</imgref>
          <linkprevious>bill_102.html</linkprevious>
@@ -2192,6 +2323,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <carload>
             <date>1933-11-19</date>
@@ -2204,6 +2336,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <carload>
             <date>1933-11-19</date>
@@ -2216,6 +2349,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc104.jpg</imgref>
          <linkprevious>bill_103.html</linkprevious>
@@ -2233,6 +2367,7 @@
             <consLink>taylor-smith-taylor.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR XL Boxcar">..\\images\gif-thumbs\XL.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc105.jpg</imgref>
          <linkprevious>bill_104.html</linkprevious>
@@ -2254,6 +2389,7 @@
                         href="https://www.flickr.com/photos/ssave/8695031333"
                         target="_blank"&gt;interchanged to NYC&lt;/a&gt; for the last nine miles of
                         its journey.</desc>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc106.jpg</imgref>
          <linkprevious>bill_105.html</linkprevious>
@@ -2271,6 +2407,7 @@
             <consLink>national-tube.html</consLink>
             <freight>Fireclay</freight>
             <desc>enter description here</desc>
+            <gifref alt="PRR X28a Boxcar">..\\images\gif-thumbs\X28A.gif</gifref>
          </carload>
          <carload>
             <date>1937-10-08</date>
@@ -2283,6 +2420,7 @@
             <consLink>national-tube.html</consLink>
             <freight>Fireclay</freight>
             <desc>enter description here</desc>
+            <gifref alt="PRR X28a Boxcar">..\\images\gif-thumbs\X28A.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc107.jpg</imgref>
          <linkprevious>bill_106.html</linkprevious>
@@ -2300,6 +2438,7 @@
             <consLink>carnegie-illinois.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR GLa Hopper">..\\images\gif-thumbs\GLA.gif</gifref>
          </carload>
          <carload>
             <date>1937-10-08</date>
@@ -2312,6 +2451,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <carload>
             <date>1937-10-08</date>
@@ -2324,6 +2464,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <carload>
             <date>1937-10-08</date>
@@ -2336,6 +2477,7 @@
             <consLink>harbison-walker.html</consLink>
             <freight>Fireclay</freight>
             <desc/>
+            <gifref alt="PRR X29 Boxcar">..\\images\gif-thumbs\X29.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc108.jpg</imgref>
          <linkprevious>bill_107.html</linkprevious>
@@ -2353,6 +2495,7 @@
             <consLink>smith-stone.html</consLink>
             <freight>Fireclay</freight>
             <desc>An export load to Canada. Describe why on the Forms page.</desc>
+            <gifref alt="PRR X23 Boxcar">..\\images\gif-thumbs\X23.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc109.jpg</imgref>
          <imgref>..\images\bills\wcc110.jpg</imgref>
@@ -2378,10 +2521,11 @@
                         bound for the &lt;a href="/companies/taylor-smith-taylor.html"&gt;Taylor, Smith &amp; Taylor
                         Co.&lt;/a&gt; in Chester, WV. Unfortunately, its original waybill did not
                         survive alongside this one.</desc>
+            <gifref alt="PRR X25 Boxcar">..\\images\gif-thumbs\X25.gif</gifref>
          </carload>
          <imgref>..\images\bills\wcc115.jpg</imgref>
          <linkprevious>bill_109.html</linkprevious>
-         <linknext/>
+         <linknext>bill_.html</linknext>
       </bill>
    </bills>
 </xml>

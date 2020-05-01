@@ -16,31 +16,31 @@
             <xsl:comment>#include virtual="/header.shtml"</xsl:comment>
             <div id="content">
               <h1>Bill No. <xsl:value-of select="string(number(@billid))"/></h1>
-              <div id="leftarrowcontainer">
-                <xsl:if test="linkprevious != ''">
+              <xsl:if test="linkprevious != 'bill_.html'">
+                <div id="leftarrowcontainer">
                   <a>
                     <xsl:attribute name="href">
-                    <xsl:value-of select="linkprevious"/>
+                      <xsl:value-of select="linkprevious"/>
                     </xsl:attribute>
                     <img src="..\images\nav-arrow.svg" id="leftarrow"/>
                   </a>
-                </xsl:if>
-              </div>
+                </div>
+              </xsl:if>  
+              <xsl:if test="linknext != 'bill_.html'">
               <div id="rightarrowcontainer">
-                <xsl:if test="linknext != ''">
                   <a>
                     <xsl:attribute name="href">
-                    <xsl:value-of select="linknext"/>
+                      <xsl:value-of select="linknext"/>
                     </xsl:attribute>
                     <img src="..\images\nav-arrow.svg" id="rightarrow"/>
                   </a>
-                </xsl:if>
               </div>
+            </xsl:if>
               <table id="billdetailtable">
                 <thead>
                   <tr>
                     <th>Date</th>
-                    <th>Car</th>
+                    <th colspan="2">Car</th>
                     <th>Class</th>
                     <th>Shipper</th>
                     <th>Consignee</th>
@@ -56,6 +56,21 @@
                       </xsl:attribute>
                       <td>
                         <xsl:value-of select="date"/>
+                      </td>
+                      <td>
+                        <xsl:if test="class != ''">
+                          <img class="gif">
+                            <xsl:attribute name="title">
+                              <xsl:value-of select="gifref/@alt"/>
+                            </xsl:attribute>
+                            <xsl:attribute name="alt">
+                              <xsl:value-of select="gifref/@alt"/>
+                            </xsl:attribute>
+                            <xsl:attribute name="src">
+                              <xsl:value-of select="gifref"/>
+                            </xsl:attribute>
+                          </img>
+                        </xsl:if>
                       </td>
                       <td>
                         <xsl:value-of select="car" disable-output-escaping="yes"/>

@@ -143,10 +143,18 @@ label {
 #carloadtable tbody tr td, #billdetailtable tbody tr td {
     white-space: nowrap;
 }
+#carloadtable tbody tr td:nth-child(2), #billdetailtable tbody tr td:nth-child(2), #classtable tbody tr td:nth-child(2) {
+    text-align: right;
+    border-right: none;
+}
+#carloadtable tbody tr td:nth-child(3), #billdetailtable tbody tr td:nth-child(3), #classtable tbody tr td:nth-child(3) {
+    border-left: none;
+    font-weight: bold;
+}
 #carloadtable tbody tr td:last-child, #billdetailtable tbody tr td:last-child {
     white-space: normal;
 }
-#billdetailtable tbody tr td:nth-child(6) {
+#billdetailtable tbody tr td:nth-child(7) {
     white-space: normal;
 }
 #classtable tbody tr td {

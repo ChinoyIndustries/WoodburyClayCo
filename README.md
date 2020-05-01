@@ -49,7 +49,7 @@ So you can see what all is going on around here in the absence of project partne
   - seek permissions for usage: gifs, 1923 map, PSU photos
   - take picture of all the bills spread out on a table
   - add that and a picture from the PSU collection to Introduction page, just to break it up
-  - add Gif thumbnails to Carload Table/Details
+  - ~~add Gif thumbnails to Carload Table/Details~~ done
   - finish explanation of graphs on Company Table
   - finish explanation of graphs on Car Class Table
   - describe the digitization process
