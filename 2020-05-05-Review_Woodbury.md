@@ -1,11 +1,10 @@
 ## Woodbury Clay Project Review
 
-
-Site publication: <http://woodbury.newtfire.org>
-GitHub: <https://github.com/ChinoyIndustries/WoodburyClayCo>
-Developers: Connor Chinoy
-Date of Evaluation: 2020-05-03
-Evaluated by:  @BMT45 @ebeshero
+* Site publication: <http://woodbury.newtfire.org>
+* GitHub: <https://github.com/ChinoyIndustries/WoodburyClayCo>
+* Developer: Connor Chinoy
+* Date of Evaluation: 2020-05-03
+* Evaluated by:  @BMT45 @ebeshero
 
 
 ### General  
