@@ -47,7 +47,7 @@ Tables are not always easy to view comprehensively on the site, and we recommend
 A more extensive and powerful search interface can be implemented with XQuery and PHP on an HTML form: The user enters a string in a form box which is picked up by PHP. PHP then quietly carries that query string to eXist-dB (not exposing the XML database address to the public). eXist-dB then runs an XQuery script and retrieves results formatted in HTML to be returned on that page. It's a little bit of advanced scripting that I (@ebeshero) can work on with you if you like. We have it up and running on a few other newtfire projects, and there is a tutorial on how to implement it on Obdurodon here that @djbpitt wrote up with @ebeshero : https://dh.obdurodon.org/php-xquery.xhtml 
 
 ### Closing Comments
-Overall, we are very impressed what you were able to accomplish over the semester. You have launched a significant digital site for archiving and investigating the information about Woodbury Clay and depression era Pennsylvania History. 
+Overall, we are very impressed what you were able to accomplish over the semester. You have launched a significant digital site for archiving and investigating the information about Woodbury Clay and depression era Pennsylvania history. 
  
 We wonder if you might want to try producing some network graphs in conjunction with that Sankey diagram. Do you have data about exchanges between companies, for example, or about which rail lines were deployed the most for particular connections? Woodbury Clay might be the center of any such network, but that might help to visualize relationships of company nodes, as distinct from seeing the material flowing through the system.  
 
